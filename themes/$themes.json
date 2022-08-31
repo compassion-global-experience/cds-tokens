@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "460265c886b2216afb81180f57cdc14baaf16731",
+    "name": "cds-light",
+    "selectedTokenSets": {
+      "core/cds-core": "source",
+      "core/semantic": "enabled",
+      "components/button": "enabled",
+      "components/card": "enabled",
+      "components/modal": "enabled",
+      "cds-dark/semantic-dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "48e88560c93cc9d2ee59f0552d46a6c3e59f448d",
+    "name": "cds-dark",
+    "selectedTokenSets": {
+      "core/cds-core": "source",
+      "core/semantic": "enabled",
+      "components/button": "enabled",
+      "components/card": "enabled",
+      "components/modal": "enabled",
+      "cds-dark/semantic-dark": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
