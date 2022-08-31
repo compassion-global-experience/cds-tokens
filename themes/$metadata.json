@@ -1,12 +1,10 @@
 {
   "tokenSetOrder": [
-    "cds-core",
-    "semantic",
-    "button",
-    "card",
-    "modal",
-    "warm",
-    "neighbour-institute",
-    "semantic-dark"
+    "core/cds-core",
+    "core/semantic",
+    "components/button",
+    "components/card",
+    "components/modal",
+    "cds-dark/semantic-dark"
   ]
 }
