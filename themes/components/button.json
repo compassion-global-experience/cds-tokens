@@ -205,6 +205,10 @@
         "value": "{depth.plus1}",
         "type": "boxShadow"
       }
+    },
+    "border-width": {
+      "value": "{border-width.1}",
+      "type": "borderWidth"
     }
   }
 }
