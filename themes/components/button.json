@@ -59,7 +59,7 @@
     "secondary": {
       "default": {
         "background-color": {
-          "value": "{semantic.color.actions.primary.inverted}",
+          "value": "{color.transparent}",
           "type": "color"
         },
         "text-color": {
@@ -199,6 +199,12 @@
     "border-radius": {
       "value": "{actions.button.border-radius}",
       "type": "borderRadius"
+    },
+    "shadow": {
+      "active": {
+        "value": "{depth.plus1}",
+        "type": "boxShadow"
+      }
     }
   }
 }
