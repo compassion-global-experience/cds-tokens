@@ -71,6 +71,12 @@
         "value": "{borderRadius.plus2}",
         "type": "borderRadius"
       }
+    },
+    "input": {
+      "border-radius": {
+        "value": "{borderRadius.plus1}",
+        "type": "borderRadius"
+      }
     }
   },
   "typography": {
@@ -337,6 +343,20 @@
     "border-radius": {
       "value": "{borderRadius.plus2}",
       "type": "borderRadius"
+    }
+  },
+  "ui": {
+    "modal": {
+      "border-radius": {
+        "value": "{borderRadius.plus2}",
+        "type": "borderRadius"
+      }
+    },
+    "card": {
+      "border-radius": {
+        "value": "{borderRadius.plus2}",
+        "type": "borderRadius"
+      }
     }
   }
 }
