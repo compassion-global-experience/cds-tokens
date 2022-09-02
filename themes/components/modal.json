@@ -30,6 +30,10 @@
       "body-color": {
         "value": "{semantic.color.text.subtle}",
         "type": "color"
+      },
+      "border-color": {
+        "value": "{color.gray.plus4}",
+        "type": "color"
       }
     }
   }
