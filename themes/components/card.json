@@ -29,12 +29,20 @@
       "type": "borderRadius"
     },
     "shadow": {
-      "value": "{depth.plus1}",
-      "type": "boxShadow"
+      "default": {
+        "value": "{depth.plus1}",
+        "type": "boxShadow"
+      }
     },
     "borderWidth": {
       "value": "{border-width.1}",
       "type": "borderWidth"
+    },
+    "typography": {
+      "header": {
+        "value": "{typography.heading.h5.bold}",
+        "type": "typography"
+      }
     }
   }
 }
