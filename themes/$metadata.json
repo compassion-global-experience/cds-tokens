@@ -5,6 +5,7 @@
     "components/button",
     "components/card",
     "components/modal",
+    "components/toast",
     "cds-dark/semantic-dark"
   ]
 }

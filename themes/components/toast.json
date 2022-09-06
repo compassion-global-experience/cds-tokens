@@ -1,0 +1,32 @@
+{
+  "toast": {
+    "background-color": {
+      "value": "{semantic.color.background.surface}",
+      "type": "color"
+    },
+    "body-color": {
+      "value": "{semantic.color.text.subtle}",
+      "type": "color"
+    },
+    "border-color": {
+      "value": "{color.gray.plus3}",
+      "type": "color"
+    },
+    "action-color": {
+      "value": "{semantic.color.text.primary}",
+      "type": "color"
+    }
+  },
+  "ui": {
+    "toast": {
+      "border-radius": {
+        "value": "{borderRadius.plus2}",
+        "type": "borderRadius"
+      },
+      "shadow": {
+        "value": "{depth.plus2}",
+        "type": "boxShadow"
+      }
+    }
+  }
+}

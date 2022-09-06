@@ -8,7 +8,8 @@
       "components/button": "enabled",
       "components/card": "enabled",
       "components/modal": "enabled",
-      "cds-dark/semantic-dark": "disabled"
+      "cds-dark/semantic-dark": "disabled",
+      "components/toast": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -21,7 +22,8 @@
       "components/button": "enabled",
       "components/card": "enabled",
       "components/modal": "enabled",
-      "cds-dark/semantic-dark": "enabled"
+      "cds-dark/semantic-dark": "enabled",
+      "components/toast": "disabled"
     },
     "$figmaStyleReferences": {}
   }
