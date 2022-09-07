@@ -86,6 +86,16 @@
           "value": "{semantic.color.actions.primary.default}",
           "type": "color"
         }
+      },
+      "primary": {
+        "default": {
+          "value": "{semantic.color.actions.primary.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{button.primary.hover.background-color}",
+          "type": "color"
+        }
       }
     }
   },
