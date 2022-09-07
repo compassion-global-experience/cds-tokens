@@ -4,6 +4,7 @@
     "core/semantic",
     "components/button",
     "components/card",
+    "components/form",
     "components/modal",
     "components/toast",
     "cds-dark/semantic-dark"

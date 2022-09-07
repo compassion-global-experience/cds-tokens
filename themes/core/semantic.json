@@ -241,6 +241,10 @@
         "on-accent": {
           "value": "{color.black}",
           "type": "color"
+        },
+        "muted": {
+          "value": "{color.gray.minus1}",
+          "type": "color"
         }
       },
       "background": {
@@ -333,6 +337,24 @@
           },
           "inverted": {
             "value": "{color.gray.minus3}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color._harissa.DEFAULT}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color._fennel.DEFAULT}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color._caribe.DEFAULT}",
             "type": "color"
           }
         }

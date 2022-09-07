@@ -9,7 +9,8 @@
       "components/card": "enabled",
       "components/modal": "enabled",
       "cds-dark/semantic-dark": "disabled",
-      "components/toast": "disabled"
+      "components/toast": "disabled",
+      "components/form": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -23,7 +24,8 @@
       "components/card": "enabled",
       "components/modal": "enabled",
       "cds-dark/semantic-dark": "enabled",
-      "components/toast": "disabled"
+      "components/toast": "disabled",
+      "components/form": "disabled"
     },
     "$figmaStyleReferences": {}
   }
