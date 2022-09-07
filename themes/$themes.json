@@ -10,7 +10,7 @@
       "components/modal": "enabled",
       "cds-dark/semantic-dark": "disabled",
       "components/toast": "disabled",
-      "components/form": "disabled"
+      "components/form": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -25,7 +25,7 @@
       "components/modal": "enabled",
       "cds-dark/semantic-dark": "enabled",
       "components/toast": "disabled",
-      "components/form": "disabled"
+      "components/form": "enabled"
     },
     "$figmaStyleReferences": {}
   }
