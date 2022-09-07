@@ -42,6 +42,10 @@
           "value": "{semantic.color.actions.disabled.muted}",
           "type": "color"
         },
+        "icon-color": {
+          "value": "{semantic.color.actions.disabled.muted}",
+          "type": "color"
+        },
         "background-color": {
           "value": "{semantic.color.actions.disabled.subtle}",
           "type": "color"
