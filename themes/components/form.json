@@ -88,5 +88,11 @@
         }
       }
     }
+  },
+  "form": {
+    "border-radius": {
+      "value": "{actions.input.border-radius}",
+      "type": "borderRadius"
+    }
   }
 }
