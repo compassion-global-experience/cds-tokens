@@ -1,7 +1,7 @@
 {
   "toast": {
     "background-color": {
-      "value": "{semantic.color.background.surface}",
+      "value": "{semantic.color.background.canvas}",
       "type": "color"
     },
     "body-color": {
@@ -9,7 +9,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "{color.gray.plus3}",
+      "value": "{semantic.color.background.surface}",
       "type": "color"
     },
     "action-color": {
