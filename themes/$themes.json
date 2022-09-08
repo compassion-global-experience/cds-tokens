@@ -8,7 +8,7 @@
       "components/button": "enabled",
       "components/card": "enabled",
       "components/modal": "enabled",
-      "components/toast": "disabled",
+      "components/toast": "enabled",
       "components/form": "enabled",
       "cds-dark/semantic-dark": "disabled",
       "components/alert": "enabled"
@@ -24,7 +24,7 @@
       "components/button": "enabled",
       "components/card": "enabled",
       "components/modal": "enabled",
-      "components/toast": "disabled",
+      "components/toast": "enabled",
       "components/form": "enabled",
       "cds-dark/semantic-dark": "enabled",
       "components/alert": "enabled"
