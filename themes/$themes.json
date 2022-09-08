@@ -8,9 +8,9 @@
       "components/button": "enabled",
       "components/card": "enabled",
       "components/modal": "enabled",
-      "cds-dark/semantic-dark": "disabled",
       "components/toast": "disabled",
-      "components/form": "enabled"
+      "components/form": "enabled",
+      "cds-dark/semantic-dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -23,9 +23,9 @@
       "components/button": "enabled",
       "components/card": "enabled",
       "components/modal": "enabled",
-      "cds-dark/semantic-dark": "enabled",
       "components/toast": "disabled",
-      "components/form": "enabled"
+      "components/form": "enabled",
+      "cds-dark/semantic-dark": "enabled"
     },
     "$figmaStyleReferences": {}
   }

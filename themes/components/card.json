@@ -18,7 +18,7 @@
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.border.default}",
+        "value": "{semantic.color.background.surface}",
         "type": "color"
       }
     }
