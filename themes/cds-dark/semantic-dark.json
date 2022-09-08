@@ -342,11 +342,11 @@
         },
         "danger": {
           "default": {
-            "value": "{color._harissa.300}",
+            "value": "{color._harissa.200}",
             "type": "color"
           },
           "muted": {
-            "value": "{color._harissa.200}",
+            "value": "{color._harissa.300}",
             "type": "color"
           },
           "subtle": {
@@ -364,7 +364,7 @@
             "type": "color"
           },
           "muted": {
-            "value": "{color._fennel.400}",
+            "value": "{color._fennel.500}",
             "type": "color"
           },
           "subtle": {
@@ -372,13 +372,35 @@
             "type": "color"
           },
           "amplified": {
-            "value": "{color._fennel.100}",
+            "value": "{color._fennel.50}",
             "type": "color"
           }
         },
         "info": {
           "default": {
             "value": "{color._caribe.200}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color._mango.300}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{color._mango.400}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color._mango.800}",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "{color._mango.50}",
+            "type": "color"
+          },
+          "inverted": {
+            "value": "{color.white}",
             "type": "color"
           }
         }

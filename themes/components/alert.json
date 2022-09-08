@@ -65,6 +65,28 @@
         "value": "{semantic.color.actions.success.amplified}",
         "type": "color"
       }
+    },
+    "warning": {
+      "background-color": {
+        "value": "{semantic.color.actions.warning.subtle}",
+        "type": "color"
+      },
+      "body-color": {
+        "value": "{semantic.color.actions.warning.amplified}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.actions.warning.default}",
+        "type": "color"
+      },
+      "header-color": {
+        "value": "{semantic.color.actions.warning.amplified}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.actions.warning.amplified}",
+        "type": "color"
+      }
     }
   },
   "ui": {
