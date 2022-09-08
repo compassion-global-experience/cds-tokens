@@ -342,19 +342,19 @@
         },
         "danger": {
           "default": {
-            "value": "{color._harissa.100}",
+            "value": "{color._harissa.50}",
             "type": "color"
           }
         },
         "success": {
           "default": {
-            "value": "{color._fennel.DEFAULT}",
+            "value": "{color._fennel.200}",
             "type": "color"
           }
         },
         "info": {
           "default": {
-            "value": "{color._caribe.DEFAULT}",
+            "value": "{color._caribe.200}",
             "type": "color"
           }
         }
