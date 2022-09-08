@@ -344,17 +344,63 @@
           "default": {
             "value": "{color._harissa.DEFAULT}",
             "type": "color"
+          },
+          "muted": {
+            "value": "{color._harissa.400}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color._harissa.50}",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "{color._harissa.700}",
+            "type": "color"
           }
         },
         "success": {
           "default": {
             "value": "{color._fennel.DEFAULT}",
             "type": "color"
+          },
+          "muted": {
+            "value": "{color._fennel.400}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color._fennel.50}",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "{color._fennel.700}",
+            "type": "color"
           }
         },
         "info": {
           "default": {
             "value": "{color._caribe.DEFAULT}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.brand.accent}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{color._mango.200}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color._mango.50}",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "{color._mango.700}",
+            "type": "color"
+          },
+          "inverted": {
+            "value": "{color.black}",
             "type": "color"
           }
         }
