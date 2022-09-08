@@ -211,7 +211,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "{color.brand.primary}",
+          "value": "{color._endeavour.400}",
           "type": "color"
         },
         "on-primary": {
@@ -280,7 +280,7 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{color.brand.primary}",
+            "value": "{color._endeavour.400}",
             "type": "color"
           },
           "muted": {
