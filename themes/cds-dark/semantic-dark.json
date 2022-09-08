@@ -203,11 +203,11 @@
     "color": {
       "text": {
         "default": {
-          "value": "{color.black}",
+          "value": "{color.white}",
           "type": "color"
         },
         "subtle": {
-          "value": "{color.gray.minus2}",
+          "value": "{color.white}",
           "type": "color"
         },
         "primary": {
@@ -243,21 +243,21 @@
           "type": "color"
         },
         "muted": {
-          "value": "{color.gray.minus1}",
+          "value": "{color.gray.plus5}",
           "type": "color"
         }
       },
       "background": {
         "default": {
-          "value": "{color.white}",
+          "value": "{color.gray.minus3}",
           "type": "color"
         },
         "canvas": {
-          "value": "{color.white}",
+          "value": "{color.gray.minus2}",
           "type": "color"
         },
         "surface": {
-          "value": "{color.gray.plus4}",
+          "value": "{color.gray.minus1}",
           "type": "color"
         },
         "primary": {
@@ -342,7 +342,7 @@
         },
         "danger": {
           "default": {
-            "value": "{color._harissa.DEFAULT}",
+            "value": "{color._harissa.100}",
             "type": "color"
           }
         },
