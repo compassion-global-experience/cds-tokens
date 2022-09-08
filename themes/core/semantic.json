@@ -362,6 +362,18 @@
           "default": {
             "value": "{color._fennel.DEFAULT}",
             "type": "color"
+          },
+          "muted": {
+            "value": "{color._fennel.400}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color._fennel.100}",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "{color._fennel.700}",
+            "type": "color"
           }
         },
         "info": {

@@ -21,6 +21,50 @@
         "value": "{semantic.color.actions.primary.amplified}",
         "type": "color"
       }
+    },
+    "danger": {
+      "background-color": {
+        "value": "{semantic.color.actions.danger.subtle}",
+        "type": "color"
+      },
+      "body-color": {
+        "value": "{semantic.color.actions.danger.amplified}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.actions.danger.default}",
+        "type": "color"
+      },
+      "header-color": {
+        "value": "{semantic.color.actions.danger.amplified}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.actions.danger.amplified}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "background-color": {
+        "value": "{semantic.color.actions.success.subtle}",
+        "type": "color"
+      },
+      "body-color": {
+        "value": "{semantic.color.actions.success.amplified}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.actions.success.default}",
+        "type": "color"
+      },
+      "header-color": {
+        "value": "{semantic.color.actions.success.amplified}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.actions.success.amplified}",
+        "type": "color"
+      }
     }
   },
   "ui": {

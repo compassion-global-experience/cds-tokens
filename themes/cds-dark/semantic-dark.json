@@ -342,7 +342,7 @@
         },
         "danger": {
           "default": {
-            "value": "{color._harissa.50}",
+            "value": "{color._harissa.300}",
             "type": "color"
           },
           "muted": {
@@ -360,7 +360,19 @@
         },
         "success": {
           "default": {
-            "value": "{color._fennel.200}",
+            "value": "{color._fennel.400}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{color._fennel.400}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color._fennel.700}",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "{color._fennel.100}",
             "type": "color"
           }
         },
