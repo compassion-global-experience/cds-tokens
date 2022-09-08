@@ -344,6 +344,18 @@
           "default": {
             "value": "{color._harissa.DEFAULT}",
             "type": "color"
+          },
+          "muted": {
+            "value": "{color._harissa.400}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color._harissa.50}",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "{color._harissa.700}",
+            "type": "color"
           }
         },
         "success": {
