@@ -32,7 +32,7 @@
         "type": "color"
       },
       "border-color": {
-        "value": "{color.gray.plus4}",
+        "value": "{semantic.color.background.surface}",
         "type": "color"
       }
     }
