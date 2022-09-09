@@ -12,7 +12,8 @@
       "components/form": "enabled",
       "cds-dark/semantic-dark": "disabled",
       "components/alert": "enabled",
-      "components/pagination": "enabled"
+      "components/pagination": "enabled",
+      "components/navigation": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -29,7 +30,8 @@
       "components/form": "enabled",
       "cds-dark/semantic-dark": "enabled",
       "components/alert": "enabled",
-      "components/pagination": "enabled"
+      "components/pagination": "enabled",
+      "components/navigation": "enabled"
     },
     "$figmaStyleReferences": {}
   }
