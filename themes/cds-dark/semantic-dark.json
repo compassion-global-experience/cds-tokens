@@ -324,15 +324,19 @@
         },
         "disabled": {
           "default": {
-            "value": "{color.gray.plus1}",
+            "value": "{color.gray.plus2}",
             "type": "color"
           },
           "muted": {
-            "value": "{color.gray.plus2}",
+            "value": "{color.gray.plus1}",
             "type": "color"
           },
           "subtle": {
             "value": "{color.gray.minus2}",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "{color.gray.minus1}",
             "type": "color"
           },
           "inverted": {
