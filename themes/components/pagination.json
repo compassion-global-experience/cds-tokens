@@ -9,7 +9,7 @@
       "type": "color"
     },
     "action-color": {
-      "value": "{semantic.color.text.primary}",
+      "value": "{semantic.color.actions.primary.default}",
       "type": "color"
     },
     "hover": {

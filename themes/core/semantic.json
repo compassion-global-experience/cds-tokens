@@ -408,6 +408,12 @@
             "type": "color"
           }
         }
+      },
+      "logo": {
+        "default": {
+          "value": "{color.brand.primary}",
+          "type": "color"
+        }
       }
     }
   },
