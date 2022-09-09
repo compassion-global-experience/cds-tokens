@@ -7,6 +7,7 @@
     "components/card",
     "components/form",
     "components/modal",
+    "components/pagination",
     "components/toast",
     "cds-dark/semantic-dark"
   ]
