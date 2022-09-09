@@ -99,15 +99,15 @@
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.disabled.default}",
+          "value": "{semantic.color.actions.disabled.muted}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.disabled.default}",
+          "value": "{semantic.color.actions.disabled.muted}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.disabled.default}",
+          "value": "{semantic.color.actions.disabled.muted}",
           "type": "color"
         }
       }
