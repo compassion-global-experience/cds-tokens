@@ -335,6 +335,10 @@
             "value": "{color.gray.plus6}",
             "type": "color"
           },
+          "amplified": {
+            "value": "{color.gray.plus3}",
+            "type": "color"
+          },
           "inverted": {
             "value": "{color.gray.minus3}",
             "type": "color"

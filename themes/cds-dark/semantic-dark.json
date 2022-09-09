@@ -211,7 +211,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "{color._endeavour.400}",
+          "value": "{color._endeavour.300}",
           "type": "color"
         },
         "on-primary": {
@@ -280,7 +280,7 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{color._endeavour.400}",
+            "value": "{color._endeavour.300}",
             "type": "color"
           },
           "muted": {
@@ -324,15 +324,19 @@
         },
         "disabled": {
           "default": {
-            "value": "{color.gray.plus1}",
+            "value": "{color.gray.plus2}",
             "type": "color"
           },
           "muted": {
-            "value": "{color.gray.plus2}",
+            "value": "{color.gray.plus1}",
             "type": "color"
           },
           "subtle": {
             "value": "{color.gray.minus2}",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "{color.gray.minus1}",
             "type": "color"
           },
           "inverted": {

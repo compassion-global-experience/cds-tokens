@@ -39,7 +39,7 @@
           "type": "color"
         },
         "hint-color": {
-          "value": "{semantic.color.actions.disabled.muted}",
+          "value": "{semantic.color.actions.disabled.default}",
           "type": "color"
         },
         "icon-color": {

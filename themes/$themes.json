@@ -11,7 +11,8 @@
       "components/toast": "enabled",
       "components/form": "enabled",
       "cds-dark/semantic-dark": "disabled",
-      "components/alert": "enabled"
+      "components/alert": "enabled",
+      "components/pagination": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -27,7 +28,8 @@
       "components/toast": "enabled",
       "components/form": "enabled",
       "cds-dark/semantic-dark": "enabled",
-      "components/alert": "enabled"
+      "components/alert": "enabled",
+      "components/pagination": "enabled"
     },
     "$figmaStyleReferences": {}
   }
