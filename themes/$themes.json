@@ -13,7 +13,8 @@
       "cds-dark/semantic-dark": "disabled",
       "components/alert": "enabled",
       "components/pagination": "enabled",
-      "components/navigation": "enabled"
+      "components/navigation": "enabled",
+      "components/badge": "disabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
@@ -206,7 +207,8 @@
       "cds-dark/semantic-dark": "enabled",
       "components/alert": "enabled",
       "components/pagination": "enabled",
-      "components/navigation": "enabled"
+      "components/navigation": "enabled",
+      "components/badge": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",

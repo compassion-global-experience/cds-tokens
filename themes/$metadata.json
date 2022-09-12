@@ -3,6 +3,7 @@
     "core/cds-core",
     "core/semantic",
     "components/alert",
+    "components/badge",
     "components/button",
     "components/card",
     "components/form",

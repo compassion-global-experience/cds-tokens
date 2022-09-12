@@ -77,6 +77,12 @@
         "value": "{borderRadius.plus1}",
         "type": "borderRadius"
       }
+    },
+    "badge": {
+      "border-radius": {
+        "value": "{borderRadius.plus1}",
+        "type": "borderRadius"
+      }
     }
   },
   "typography": {
