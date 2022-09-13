@@ -55,6 +55,60 @@
     "font-size": {
       "value": "{fontSize.minus2}",
       "type": "fontSizes"
+    },
+    "danger": {
+      "background-color": {
+        "value": "{semantic.color.actions.danger.default}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.actions.primary.inverted}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.actions.primary.inverted}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.actions.danger.default}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "background-color": {
+        "value": "{semantic.color.actions.warning.default}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.actions.warning.inverted}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.actions.primary.inverted}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.actions.warning.default}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "background-color": {
+        "value": "{semantic.color.actions.warning.default}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.actions.warning.inverted}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.actions.primary.inverted}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.actions.warning.default}",
+        "type": "color"
+      }
     }
   }
 }

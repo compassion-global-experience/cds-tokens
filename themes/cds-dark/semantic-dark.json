@@ -404,7 +404,7 @@
             "type": "color"
           },
           "inverted": {
-            "value": "{color.white}",
+            "value": "{color.black}",
             "type": "color"
           }
         }
