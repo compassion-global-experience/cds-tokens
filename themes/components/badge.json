@@ -62,11 +62,11 @@
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.actions.primary.inverted}",
+        "value": "{semantic.color.actions.danger.inverted}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.actions.primary.inverted}",
+        "value": "{semantic.color.actions.danger.inverted}",
         "type": "color"
       },
       "border-color": {
@@ -84,7 +84,7 @@
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.actions.primary.inverted}",
+        "value": "{semantic.color.actions.warning.inverted}",
         "type": "color"
       },
       "border-color": {
@@ -94,19 +94,19 @@
     },
     "success": {
       "background-color": {
-        "value": "{semantic.color.actions.warning.default}",
+        "value": "{semantic.color.actions.success.default}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.actions.warning.inverted}",
+        "value": "{semantic.color.actions.success.inverted}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.actions.primary.inverted}",
+        "value": "{semantic.color.actions.success.inverted}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.actions.warning.default}",
+        "value": "{semantic.color.actions.success.default}",
         "type": "color"
       }
     }

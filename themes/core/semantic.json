@@ -360,6 +360,10 @@
           "amplified": {
             "value": "{color._harissa.700}",
             "type": "color"
+          },
+          "inverted": {
+            "value": "{color.white}",
+            "type": "color"
           }
         },
         "success": {
@@ -377,6 +381,10 @@
           },
           "amplified": {
             "value": "{color._fennel.700}",
+            "type": "color"
+          },
+          "inverted": {
+            "value": "{color.white}",
             "type": "color"
           }
         },

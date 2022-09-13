@@ -360,11 +360,15 @@
           "amplified": {
             "value": "{color._harissa.50}",
             "type": "color"
+          },
+          "inverted": {
+            "value": "{color.black}",
+            "type": "color"
           }
         },
         "success": {
           "default": {
-            "value": "{color._fennel.400}",
+            "value": "{color._fennel.300}",
             "type": "color"
           },
           "muted": {
@@ -377,6 +381,10 @@
           },
           "amplified": {
             "value": "{color._fennel.50}",
+            "type": "color"
+          },
+          "inverted": {
+            "value": "{color.black}",
             "type": "color"
           }
         },
@@ -417,22 +425,22 @@
       }
     }
   },
-  "canvas": {
-    "border-radius": {
-      "value": "{borderRadius.plus2}",
-      "type": "borderRadius"
-    }
-  },
   "ui": {
-    "modal": {
-      "border-radius": {
+    "border-radius": {
+      "sm": {
+        "value": "{borderRadius.plus1}",
+        "type": "borderRadius"
+      },
+      "md": {
         "value": "{borderRadius.plus2}",
         "type": "borderRadius"
-      }
-    },
-    "card": {
-      "border-radius": {
-        "value": "{borderRadius.plus2}",
+      },
+      "lg": {
+        "value": "{borderRadius.plus3}",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "{borderRadius.plus4}",
         "type": "borderRadius"
       }
     }
