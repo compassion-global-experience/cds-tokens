@@ -4,6 +4,7 @@
     "core/semantic",
     "components/typography",
     "components/alert",
+    "components/badge",
     "components/button",
     "components/card",
     "components/form",

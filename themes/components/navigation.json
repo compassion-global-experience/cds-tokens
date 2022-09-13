@@ -21,7 +21,7 @@
   },
   "nav": {
     "border-radius": {
-      "value": "{ui.modal.border-radius}",
+      "value": "{ui.border-radius.md}",
       "type": "borderRadius"
     },
     "shadow": {

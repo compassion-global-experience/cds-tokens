@@ -42,7 +42,7 @@
   "ui": {
     "pagination": {
       "border-radius": {
-        "value": "{borderRadius.plus2}",
+        "value": "{ui.border-radius.md}",
         "type": "borderRadius"
       },
       "shadow": {
