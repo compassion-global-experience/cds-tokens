@@ -324,5 +324,15 @@
         "type": "borderRadius"
       }
     }
+  },
+  "fontFamily": {
+    "heading": {
+      "value": "{defaults.fontFamily.sans}",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "{defaults.fontFamily.sans}",
+      "type": "fontFamilies"
+    }
   }
 }
