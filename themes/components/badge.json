@@ -35,7 +35,11 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{actions.badge.border-radius}",
+      "value": "{ui.border-radius.sm}",
+      "type": "borderRadius"
+    },
+    "border-radius-pill": {
+      "value": "{ui.border-radius.xl}",
       "type": "borderRadius"
     },
     "shadow": {

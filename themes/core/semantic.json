@@ -77,12 +77,6 @@
         "value": "{borderRadius.plus1}",
         "type": "borderRadius"
       }
-    },
-    "badge": {
-      "border-radius": {
-        "value": "{borderRadius.plus1}",
-        "type": "borderRadius"
-      }
     }
   },
   "typography": {
@@ -423,22 +417,22 @@
       }
     }
   },
-  "canvas": {
-    "border-radius": {
-      "value": "{borderRadius.plus2}",
-      "type": "borderRadius"
-    }
-  },
   "ui": {
-    "modal": {
-      "border-radius": {
+    "border-radius": {
+      "sm": {
+        "value": "{borderRadius.plus1}",
+        "type": "borderRadius"
+      },
+      "md": {
         "value": "{borderRadius.plus2}",
         "type": "borderRadius"
-      }
-    },
-    "card": {
-      "border-radius": {
-        "value": "{borderRadius.plus2}",
+      },
+      "lg": {
+        "value": "{borderRadius.plus3}",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "{borderRadius.plus4}",
         "type": "borderRadius"
       }
     }
