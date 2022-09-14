@@ -1,39 +1,5 @@
 {
   "typography": {
-    "body": {
-      "p": {
-        "base": {
-          "regular": {
-            "value": "{typography.body.base.sans.regular}",
-            "type": "typography"
-          },
-          "bold": {
-            "value": "{typography.body.base.sans.bold}",
-            "type": "typography"
-          }
-        },
-        "minus1": {
-          "regular": {
-            "value": "{typography.body.minus1.sans.regular}",
-            "type": "typography"
-          },
-          "bold": {
-            "value": "{typography.body.minus1.sans.bold}",
-            "type": "typography"
-          }
-        },
-        "plus1": {
-          "regular": {
-            "value": "{typography.body.plus1.sans.regular}",
-            "type": "typography"
-          },
-          "bold": {
-            "value": "{typography.body.plus1.sans.bold}",
-            "type": "typography"
-          }
-        }
-      }
-    },
     "subheading": {
       "base": {
         "regular": {
@@ -273,6 +239,50 @@
           "bold": {
             "value": {
               "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.bold}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.base}"
+            },
+            "type": "typography"
+          }
+        }
+      }
+    },
+    "body": {
+      "p": {
+        "desktop": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.body}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.base}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamily.body}",
+              "fontWeight": "{fontWeight.sans.bold}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.base}"
+            },
+            "type": "typography"
+          }
+        },
+        "mobile": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.body}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.base}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamily.body}",
               "fontWeight": "{fontWeight.sans.bold}",
               "lineHeight": "{lineHeight.normal.base}",
               "fontSize": "{fontSize.base}"
