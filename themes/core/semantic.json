@@ -334,15 +334,5 @@
       "value": "{defaults.fontFamily.sans}",
       "type": "fontFamilies"
     }
-  },
-  "lineHeight": {
-    "heading": {
-      "value": "{lineHeight.normal.base}",
-      "type": "lineHeights"
-    },
-    "body": {
-      "value": "{lineHeight.normal.base}",
-      "type": "lineHeights"
-    }
   }
 }

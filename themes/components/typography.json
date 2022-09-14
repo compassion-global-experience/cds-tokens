@@ -1,27 +1,6 @@
 {
   "typography": {
     "heading": {
-      "h3": {
-        "regular": {
-          "value": "{typography.heading.plus4.sans.regular}",
-          "type": "typography"
-        },
-        "bold": {
-          "value": "{typography.heading.plus4.sans.bold}",
-          "type": "typography"
-        },
-        "desktop": {
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamily.heading}",
-              "fontWeight": "{fontWeight.sans.regular}",
-              "lineHeight": "{lineHeight.normal.base}",
-              "fontSize": "{fontSize.plus4}"
-            },
-            "type": "typography"
-          }
-        }
-      },
       "h4": {
         "regular": {
           "value": "{typography.heading.plus3.sans.regular}",
@@ -130,6 +109,48 @@
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.bold}",
               "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.plus3}"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "h3": {
+        "desktop": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.plus4}",
+              "fontSize": "{fontSize.plus4}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.bold}",
+              "lineHeight": "{lineHeight.normal.plus4}",
+              "fontSize": "{fontSize.plus4}"
+            },
+            "type": "typography"
+          }
+        },
+        "mobile": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.plus3}",
+              "fontSize": "{fontSize.plus3}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.bold}",
+              "lineHeight": "{lineHeight.normal.plus3}",
               "fontSize": "{fontSize.plus3}"
             },
             "type": "typography"
