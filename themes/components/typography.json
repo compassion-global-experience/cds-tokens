@@ -1,26 +1,6 @@
 {
   "typography": {
     "heading": {
-      "h1": {
-        "regular": {
-          "value": "{typography.heading.plus6.sans.regular}",
-          "type": "typography"
-        },
-        "bold": {
-          "value": "{typography.heading.plus7.sans.bold}",
-          "type": "typography"
-        }
-      },
-      "h2": {
-        "regular": {
-          "value": "{typography.heading.plus5.sans.regular}",
-          "type": "typography"
-        },
-        "bold": {
-          "value": "{typography.heading.plus5.sans.bold}",
-          "type": "typography"
-        }
-      },
       "h3": {
         "regular": {
           "value": "{typography.heading.plus4.sans.regular}",
@@ -29,6 +9,17 @@
         "bold": {
           "value": "{typography.heading.plus4.sans.bold}",
           "type": "typography"
+        },
+        "desktop": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.plus4}"
+            },
+            "type": "typography"
+          }
         }
       },
       "h4": {
@@ -59,6 +50,90 @@
         "bold": {
           "value": "{typography.heading.plus1.sans.bold}",
           "type": "typography"
+        }
+      },
+      "h1": {
+        "desktop": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.plus6}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.bold}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.plus6}"
+            },
+            "type": "typography"
+          }
+        },
+        "mobile": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.plus3}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.plus3}"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "h2": {
+        "desktop": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.plus5}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.bold}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.plus5}"
+            },
+            "type": "typography"
+          }
+        },
+        "mobile": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.plus3}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.bold}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.plus3}"
+            },
+            "type": "typography"
+          }
         }
       }
     },
