@@ -12,6 +12,7 @@
     "components/navigation",
     "components/pagination",
     "components/toast",
-    "cds-dark/semantic-dark"
+    "cds-dark/semantic-dark",
+    "neighbour-institute/theme-ni"
   ]
 }

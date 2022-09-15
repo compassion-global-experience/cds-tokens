@@ -15,7 +15,8 @@
       "components/pagination": "enabled",
       "components/navigation": "enabled",
       "components/badge": "enabled",
-      "components/typography": "disabled"
+      "components/typography": "disabled",
+      "neighbour-institute/theme-ni": "disabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
@@ -210,7 +211,8 @@
       "components/pagination": "enabled",
       "components/navigation": "enabled",
       "components/badge": "enabled",
-      "components/typography": "disabled"
+      "components/typography": "disabled",
+      "neighbour-institute/theme-ni": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -388,5 +390,26 @@
       "button.shadow.active": "S:2df49ca8966d8692b8acc6f589447f3c52cdaf14,",
       "ui.alert.shadow": "S:f53912406c136ae9317abc462c38c5ca8fbde2c4,"
     }
+  },
+  {
+    "id": "5e866cf20e9de3d475263f884c38a98e24dfea80",
+    "name": "neighbour-institute",
+    "selectedTokenSets": {
+      "core/cds-core": "source",
+      "core/semantic": "enabled",
+      "components/typography": "disabled",
+      "components/alert": "enabled",
+      "components/badge": "disabled",
+      "components/button": "enabled",
+      "components/card": "enabled",
+      "components/form": "enabled",
+      "components/modal": "enabled",
+      "components/navigation": "enabled",
+      "components/pagination": "enabled",
+      "components/toast": "enabled",
+      "cds-dark/semantic-dark": "disabled",
+      "neighbour-institute/theme-ni": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
