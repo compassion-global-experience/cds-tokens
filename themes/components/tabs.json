@@ -8,6 +8,10 @@
       "value": "{semantic.color.background.surface}",
       "type": "color"
     },
+    "no-background": {
+      "value": "{color.transparent}",
+      "type": "color"
+    },
     "underline-color": {
       "value": "{semantic.color.actions.disabled.amplified}",
       "type": "color"
@@ -53,8 +57,16 @@
         "value": "{depth.plus1}",
         "type": "boxShadow"
       },
+      "no-shadow": {
+        "value": "{depth.none}",
+        "type": "boxShadow"
+      },
       "border-width": {
         "value": "{border-width.1}",
+        "type": "borderWidth"
+      },
+      "no-border": {
+        "value": "{border-width.0}",
         "type": "borderWidth"
       }
     }
