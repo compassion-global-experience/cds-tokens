@@ -277,6 +277,10 @@
           }
         },
         "info": {
+          "inverted": {
+            "value": "{color.white}",
+            "type": "color"
+          },
           "default": {
             "value": "{color._caribe.DEFAULT}",
             "type": "color"
