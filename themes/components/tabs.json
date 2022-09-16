@@ -8,6 +8,10 @@
       "value": "{semantic.color.background.surface}",
       "type": "color"
     },
+    "underline-color": {
+      "value": "{semantic.color.actions.disabled.amplified}",
+      "type": "color"
+    },
     "action-color": {
       "value": "{semantic.color.actions.primary.default}",
       "type": "color"
@@ -48,6 +52,10 @@
       "shadow": {
         "value": "{depth.plus1}",
         "type": "boxShadow"
+      },
+      "border-width": {
+        "value": "{border-width.1}",
+        "type": "borderWidth"
       }
     }
   }
