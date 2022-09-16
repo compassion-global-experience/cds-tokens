@@ -27,11 +27,11 @@
       "type": "fontFamilies"
     },
     "padding-left": {
-      "value": "{space.minus1}",
+      "value": "{space.base}",
       "type": "spacing"
     },
     "padding-right": {
-      "value": "{space.minus1}",
+      "value": "{space.base}",
       "type": "spacing"
     },
     "border-radius": {
@@ -107,6 +107,42 @@
       },
       "border-color": {
         "value": "{semantic.color.actions.success.default}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "background-color": {
+        "value": "{semantic.color.actions.info.default}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.actions.info.inverted}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.actions.info.inverted}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.actions.info.default}",
+        "type": "color"
+      }
+    },
+    "nuetral": {
+      "background-color": {
+        "value": "{semantic.color.background.surface}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.text.subtle}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.text.subtle}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.background.surface}",
         "type": "color"
       }
     }

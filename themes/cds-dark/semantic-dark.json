@@ -389,6 +389,10 @@
           }
         },
         "info": {
+          "inverted": {
+            "value": "{color.black}",
+            "type": "color"
+          },
           "default": {
             "value": "{color._caribe.200}",
             "type": "color"
