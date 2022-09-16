@@ -11,6 +11,7 @@
     "components/modal",
     "components/navigation",
     "components/pagination",
+    "components/tabs",
     "components/toast",
     "cds-dark/semantic-dark",
     "neighbour-institute/theme-ni"
