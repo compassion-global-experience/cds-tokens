@@ -4,12 +4,12 @@
       "value": "{ui.border-radius.md}",
       "type": "borderRadius"
     },
-    "title": {
-      "value": "{typography.heading.h4.regular}",
+    "header": {
+      "value": "{typography.heading.h4.desktop.regular}",
       "type": "typography"
     },
     "body": {
-      "value": "{typography.body.p.base.regular}",
+      "value": "{typography.body.p.desktop.regular}",
       "type": "typography"
     },
     "shadow": {

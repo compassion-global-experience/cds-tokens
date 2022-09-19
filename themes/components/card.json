@@ -28,18 +28,24 @@
       "value": "{ui.border-radius.md}",
       "type": "borderRadius"
     },
-    "shadow": {
-      "default": {
-        "value": "{depth.plus1}",
-        "type": "boxShadow"
-      }
+    "default": {
+      "value": "{depth.plus1}",
+      "type": "boxShadow"
     },
     "borderWidth": {
       "value": "{border-width.1}",
       "type": "borderWidth"
     },
     "header": {
-      "value": "{typography.heading.h3.desktop.bold}",
+      "value": "{typography.heading.h4.desktop.bold}",
+      "type": "typography"
+    },
+    "body": {
+      "value": "{typography.body.p.desktop.regular}",
+      "type": "typography"
+    },
+    "subhead": {
+      "value": "{typography.subheading.desktop.bold}",
       "type": "typography"
     }
   }
