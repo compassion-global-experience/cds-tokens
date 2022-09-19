@@ -36,7 +36,7 @@
     },
     "typography": {
       "header": {
-        "value": "{typography.heading.h5.bold}",
+        "value": "{typography.heading.h5.desktop.bold}",
         "type": "typography"
       }
     }
