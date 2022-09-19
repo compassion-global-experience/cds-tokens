@@ -38,17 +38,9 @@
       "background-color": {
         "value": "{semantic.color.background.surface}",
         "type": "color"
-      },
-      "action-color": {
-        "value": "{semantic.color.text.muted}",
-        "type": "color"
       }
     },
     "disabled": {
-      "background-color": {
-        "value": "{semantic.color.actions.disabled.subtle}",
-        "type": "color"
-      },
       "action-color": {
         "value": "{semantic.color.actions.disabled.muted}",
         "type": "color"
