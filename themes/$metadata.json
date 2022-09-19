@@ -7,11 +7,12 @@
     "components/badge",
     "components/button",
     "components/card",
+    "components/dropdown",
     "components/form",
     "components/modal",
     "components/navigation",
     "components/pagination",
-    "components/tabs",
+    "components/tab",
     "components/toast",
     "cds-dark/semantic-dark",
     "neighbour-institute/theme-ni"
