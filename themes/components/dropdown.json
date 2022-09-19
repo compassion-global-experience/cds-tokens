@@ -17,11 +17,15 @@
       "type": "color"
     },
     "action-color": {
-      "value": "{semantic.color.actions.primary.default}",
+      "value": "{semantic.color.text.subtle}",
       "type": "color"
     },
     "text-color": {
       "value": "{semantic.color.text.subtle}",
+      "type": "color"
+    },
+    "icon-color": {
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "hover": {
@@ -71,11 +75,11 @@
       "type": "borderWidth"
     },
     "padding-left": {
-      "value": "{space.base}",
+      "value": "{space.plus2}",
       "type": "spacing"
     },
     "padding-right": {
-      "value": "{space.base}",
+      "value": "{space.plus2}",
       "type": "spacing"
     }
   }
