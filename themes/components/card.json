@@ -38,11 +38,9 @@
       "value": "{border-width.1}",
       "type": "borderWidth"
     },
-    "typography": {
-      "header": {
-        "value": "{typography.heading.h2.desktop.bold}",
-        "type": "typography"
-      }
+    "header": {
+      "value": "{typography.heading.h3.desktop.bold}",
+      "type": "typography"
     }
   }
 }
