@@ -1,29 +1,25 @@
 {
-  "color": {
-    "card": {
-      "background-color": {
-        "value": "{semantic.color.background.canvas}",
-        "type": "color"
-      },
-      "header-color": {
-        "value": "{semantic.color.text.primary}",
-        "type": "color"
-      },
-      "subhead-color": {
-        "value": "{semantic.color.text.subtle}",
-        "type": "color"
-      },
-      "body-color": {
-        "value": "{semantic.color.text.subtle}",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "{semantic.color.background.surface}",
-        "type": "color"
-      }
-    }
-  },
   "card": {
+    "background-color": {
+      "value": "{semantic.color.background.canvas}",
+      "type": "color"
+    },
+    "header-color": {
+      "value": "{semantic.color.text.primary}",
+      "type": "color"
+    },
+    "subhead-color": {
+      "value": "{semantic.color.text.subtle}",
+      "type": "color"
+    },
+    "body-color": {
+      "value": "{semantic.color.text.subtle}",
+      "type": "color"
+    },
+    "border-color": {
+      "value": "{semantic.color.background.surface}",
+      "type": "color"
+    },
     "border-radius": {
       "value": "{ui.border-radius.md}",
       "type": "borderRadius"

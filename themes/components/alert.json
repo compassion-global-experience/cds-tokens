@@ -87,18 +87,14 @@
         "value": "{semantic.color.actions.warning.amplified}",
         "type": "color"
       }
-    }
-  },
-  "ui": {
-    "alert": {
-      "border-radius": {
-        "value": "{ui.border-radius.md}",
-        "type": "borderRadius"
-      },
-      "shadow": {
-        "value": "{depth.plus2}",
-        "type": "boxShadow"
-      }
+    },
+    "border-radius": {
+      "value": "{ui.border-radius.md}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{depth.plus2}",
+      "type": "boxShadow"
     }
   }
 }

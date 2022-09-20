@@ -15,18 +15,14 @@
     "action-color": {
       "value": "{semantic.color.text.primary}",
       "type": "color"
-    }
-  },
-  "ui": {
-    "toast": {
-      "border-radius": {
-        "value": "{ui.border-radius.md}",
-        "type": "borderRadius"
-      },
-      "shadow": {
-        "value": "{depth.plus2}",
-        "type": "boxShadow"
-      }
+    },
+    "border-radius": {
+      "value": "{ui.border-radius.md}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{depth.plus2}",
+      "type": "boxShadow"
     }
   }
 }

@@ -103,26 +103,26 @@
     "border-radius": {
       "value": "{actions.input.border-radius}",
       "type": "borderRadius"
+    },
+    "input-label": {
+      "value": "{typography.label.minus1.sans.medium}",
+      "type": "typography"
+    },
+    "hint-text": {
+      "value": "{typography.label.minus2.sans.regular}",
+      "type": "typography"
+    },
+    "check-radio-label": {
+      "value": "{typography.label.base.sans.regular}",
+      "type": "typography"
+    },
+    "input-text": {
+      "value": "{typography.body.p.desktop.regular}",
+      "type": "typography"
+    },
+    "password-text": {
+      "value": "{typography.body.p.desktop.regular}",
+      "type": "typography"
     }
-  },
-  "input-label": {
-    "value": "{typography.label.minus1.sans.medium}",
-    "type": "typography"
-  },
-  "hint-text": {
-    "value": "{typography.label.minus2.sans.regular}",
-    "type": "typography"
-  },
-  "check-radio-label": {
-    "value": "{typography.label.base.sans.regular}",
-    "type": "typography"
-  },
-  "input-text": {
-    "value": "{typography.body.p.base.regular}",
-    "type": "typography"
-  },
-  "password-text": {
-    "value": "{typography.body.p.plus1.regular}",
-    "type": "typography"
   }
 }

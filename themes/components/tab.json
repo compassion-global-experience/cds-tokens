@@ -45,30 +45,26 @@
         "value": "{semantic.color.actions.disabled.muted}",
         "type": "color"
       }
-    }
-  },
-  "ui": {
-    "tab": {
-      "border-radius": {
-        "value": "{ui.border-radius.sm}",
-        "type": "borderRadius"
-      },
-      "shadow": {
-        "value": "{depth.plus1}",
-        "type": "boxShadow"
-      },
-      "no-shadow": {
-        "value": "{depth.none}",
-        "type": "boxShadow"
-      },
-      "border-width": {
-        "value": "{border-width.1}",
-        "type": "borderWidth"
-      },
-      "no-border": {
-        "value": "{border-width.0}",
-        "type": "borderWidth"
-      }
+    },
+    "border-radius": {
+      "value": "{ui.border-radius.sm}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{depth.plus1}",
+      "type": "boxShadow"
+    },
+    "no-shadow": {
+      "value": "{depth.none}",
+      "type": "boxShadow"
+    },
+    "border-width": {
+      "value": "{border-width.1}",
+      "type": "borderWidth"
+    },
+    "no-border": {
+      "value": "{border-width.0}",
+      "type": "borderWidth"
     }
   }
 }
