@@ -5,7 +5,6 @@
     "selectedTokenSets": {
       "core/cds-core": "source",
       "core/semantic": "enabled",
-      "components/typography": "enabled",
       "components/alert": "enabled",
       "components/badge": "enabled",
       "components/button": "enabled",
@@ -38,7 +37,6 @@
       "components/pagination": "enabled",
       "components/navigation": "enabled",
       "components/badge": "enabled",
-      "components/typography": "enabled",
       "neighbour-institute/theme-ni": "disabled",
       "components/dropdown": "enabled",
       "components/tab": "enabled"
@@ -236,7 +234,6 @@
       "components/pagination": "enabled",
       "components/navigation": "enabled",
       "components/badge": "enabled",
-      "components/typography": "enabled",
       "neighbour-institute/theme-ni": "disabled",
       "components/dropdown": "enabled",
       "components/tab": "enabled"

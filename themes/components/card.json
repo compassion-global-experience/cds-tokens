@@ -37,7 +37,7 @@
       "type": "typography"
     },
     "body": {
-      "value": "{typography.body.p.desktop.regular}",
+      "value": "{typography.body.p.desktop.base.regular}",
       "type": "typography"
     },
     "subhead": {

@@ -2,7 +2,6 @@
   "tokenSetOrder": [
     "core/cds-core",
     "core/semantic",
-    "components/typography",
     "components/alert",
     "components/badge",
     "components/button",
