@@ -1,27 +1,5 @@
 [
   {
-    "id": "5e866cf20e9de3d475263f884c38a98e24dfea80",
-    "name": "neighbour-institute",
-    "selectedTokenSets": {
-      "core/cds-core": "source",
-      "core/semantic": "enabled",
-      "components/alert": "enabled",
-      "components/badge": "enabled",
-      "components/button": "enabled",
-      "components/card": "enabled",
-      "components/form": "enabled",
-      "components/modal": "enabled",
-      "components/navigation": "enabled",
-      "components/pagination": "enabled",
-      "components/toast": "enabled",
-      "cds-dark/semantic-dark": "disabled",
-      "neighbour-institute/theme-ni": "enabled",
-      "components/dropdown": "enabled",
-      "components/tab": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "48e88560c93cc9d2ee59f0552d46a6c3e59f448d",
     "name": "cds-dark",
     "selectedTokenSets": {
@@ -39,7 +17,9 @@
       "components/badge": "enabled",
       "neighbour-institute/theme-ni": "disabled",
       "components/dropdown": "enabled",
-      "components/tab": "enabled"
+      "components/tab": "enabled",
+      "neighbour-institute/typography": "disabled",
+      "cds-light/typography": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -236,7 +216,9 @@
       "components/badge": "enabled",
       "neighbour-institute/theme-ni": "disabled",
       "components/dropdown": "enabled",
-      "components/tab": "enabled"
+      "components/tab": "enabled",
+      "neighbour-institute/typography": "disabled",
+      "cds-light/typography": "enabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
@@ -414,5 +396,29 @@
       "button.shadow.active": "S:489d9226021622c78c5d1ad220b042d29692a4fc,",
       "ui.alert.shadow": "S:3a35f072b81c291c7e02509ccf0acc4b330db8b0,"
     }
+  },
+  {
+    "id": "5e866cf20e9de3d475263f884c38a98e24dfea80",
+    "name": "neighbour-institute",
+    "selectedTokenSets": {
+      "core/cds-core": "source",
+      "core/semantic": "enabled",
+      "components/alert": "enabled",
+      "components/badge": "enabled",
+      "components/button": "enabled",
+      "components/card": "enabled",
+      "components/form": "enabled",
+      "components/modal": "enabled",
+      "components/navigation": "enabled",
+      "components/pagination": "enabled",
+      "components/toast": "enabled",
+      "cds-dark/semantic-dark": "disabled",
+      "neighbour-institute/theme-ni": "enabled",
+      "components/dropdown": "enabled",
+      "components/tab": "enabled",
+      "neighbour-institute/typography": "enabled",
+      "cds-light/typography": "disabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
