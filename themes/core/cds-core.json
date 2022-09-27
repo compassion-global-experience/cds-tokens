@@ -373,7 +373,7 @@
           }
         },
         "rootFontSize": {
-          "value": "16",
+          "value": "16px",
           "type": "other"
         }
       }
@@ -474,11 +474,11 @@
   "size": {
     "baselineGrid": {
       "minus1": {
-        "value": "4",
+        "value": "4px",
         "type": "sizing"
       },
       "base": {
-        "value": "8",
+        "value": "8px",
         "type": "sizing"
       }
     },
@@ -510,7 +510,7 @@
       }
     },
     "base": {
-      "value": "8",
+      "value": "8px",
       "type": "sizing"
     },
     "plus1": {
