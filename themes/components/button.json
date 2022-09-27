@@ -231,7 +231,7 @@
       },
       "hover": {
         "background-color": {
-          "value": "{semantic.color.actions.primary.subtle}",
+          "value": "{color.transparent}",
           "type": "color"
         },
         "text-color": {
