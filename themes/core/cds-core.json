@@ -362,13 +362,13 @@
       "modularScale": {
         "fontScale": {
           "base": {
-            "value": "1.25",
+            "value": "1.25px",
             "type": "other"
           }
         },
         "lineHeightScale": {
           "base": {
-            "value": "1.33",
+            "value": "1.33px",
             "type": "other"
           }
         },
