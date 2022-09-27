@@ -362,18 +362,18 @@
       "modularScale": {
         "fontScale": {
           "base": {
-            "value": "1.25px",
+            "value": "1.25",
             "type": "other"
           }
         },
         "lineHeightScale": {
           "base": {
-            "value": "1.33px",
+            "value": "1.33",
             "type": "other"
           }
         },
         "rootFontSize": {
-          "value": "16px",
+          "value": "16",
           "type": "other"
         }
       }
@@ -474,11 +474,11 @@
   "size": {
     "baselineGrid": {
       "minus1": {
-        "value": "4px",
+        "value": "4",
         "type": "sizing"
       },
       "base": {
-        "value": "8px",
+        "value": "8",
         "type": "sizing"
       }
     },
@@ -510,7 +510,7 @@
       }
     },
     "base": {
-      "value": "8px",
+      "value": "8",
       "type": "sizing"
     },
     "plus1": {
