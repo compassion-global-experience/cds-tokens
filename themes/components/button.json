@@ -54,6 +54,10 @@
           "value": "{semantic.color.actions.disabled.muted}",
           "type": "color"
         }
+      },
+      "border-radius": {
+        "value": "{actions.button.border-radius}",
+        "type": "borderRadius"
       }
     },
     "secondary": {
@@ -110,6 +114,10 @@
           "value": "{semantic.color.actions.disabled.muted}",
           "type": "color"
         }
+      },
+      "border-radius": {
+        "value": "{actions.button.border-radius}",
+        "type": "borderRadius"
       }
     },
     "height": {
@@ -196,10 +204,6 @@
         "type": "spacing"
       }
     },
-    "border-radius": {
-      "value": "{actions.button.border-radius}",
-      "type": "borderRadius"
-    },
     "shadow": {
       "active": {
         "value": "{depth.plus1}",
@@ -264,6 +268,10 @@
           "value": "{semantic.color.actions.disabled.muted}",
           "type": "color"
         }
+      },
+      "border-radius": {
+        "value": "0",
+        "type": "borderRadius"
       }
     }
   }
