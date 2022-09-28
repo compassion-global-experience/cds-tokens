@@ -652,39 +652,39 @@
       "type": "spacing"
     },
     "minus1": {
-      "value": "{size.minus1}",
+      "value": "{size.base} / 2",
       "type": "spacing"
     },
     "plus1": {
-      "value": "{size.plus1}",
+      "value": "{size.base} + {size.minus1}",
       "type": "spacing"
     },
     "plus2": {
-      "value": "{size.plus2}",
+      "value": "{size.base} * 2",
       "type": "spacing"
     },
     "plus3": {
-      "value": "{size.plus3}",
+      "value": "{size.base} * 3",
       "type": "spacing"
     },
     "plus4": {
-      "value": "{size.plus4}",
+      "value": "{size.base} * 4",
       "type": "spacing"
     },
     "plus5": {
-      "value": "{size.plus5}",
+      "value": "{size.base} * 5",
       "type": "spacing"
     },
     "plus6": {
-      "value": "{size.plus6}",
+      "value": "{size.base} * 6",
       "type": "spacing"
     },
     "plus7": {
-      "value": "{size.plus7}",
+      "value": "{size.base} * 7",
       "type": "spacing"
     },
     "plus8": {
-      "value": "{size.plus8}",
+      "value": "{size.base} * 8",
       "type": "spacing"
     }
   },
