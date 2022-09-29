@@ -123,6 +123,12 @@
     "password-text": {
       "value": "{typography.body.p.desktop.regular}",
       "type": "typography"
+    },
+    "select": {
+      "arrow": {
+        "value": "{icon.chevron.down}",
+        "type": "other"
+      }
     }
   }
 }
