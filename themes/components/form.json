@@ -93,7 +93,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{button.primary.hover.background-color}",
+          "value": "{semantic.color.actions.primary.muted}",
           "type": "color"
         }
       }
@@ -117,11 +117,11 @@
       "type": "typography"
     },
     "input-text": {
-      "value": "{typography.body.p.desktop.base.regular}",
+      "value": "{typography.body.p.desktop.regular}",
       "type": "typography"
     },
     "password-text": {
-      "value": "{typography.body.p.desktop.base.regular}",
+      "value": "{typography.body.p.desktop.regular}",
       "type": "typography"
     }
   }
