@@ -2,51 +2,19 @@
   "actions": {
     "small": {
       "value": "{size.plus4}",
-      "type": "sizing",
-      "padding-left": {
-        "value": "{size.plus2}",
-        "type": "sizing"
-      },
-      "padding-right": {
-        "value": "{size.plus2}",
-        "type": "sizing"
-      }
+      "type": "sizing"
     },
     "medium": {
       "value": "{size.plus5}",
-      "type": "sizing",
-      "padding-left": {
-        "value": "{size.plus3}",
-        "type": "sizing"
-      },
-      "padding-right": {
-        "value": "{size.plus3}",
-        "type": "sizing"
-      }
+      "type": "sizing"
     },
     "large": {
       "value": "{size.plus7}",
-      "type": "sizing",
-      "padding-left": {
-        "value": "{size.plus4}",
-        "type": "sizing"
-      },
-      "padding-right": {
-        "value": "{size.plus4}",
-        "type": "sizing"
-      }
+      "type": "sizing"
     },
     "extraLarge": {
       "value": "{size.plus9}",
-      "type": "sizing",
-      "padding-left": {
-        "value": "{size.plus4}",
-        "type": "sizing"
-      },
-      "padding-right": {
-        "value": "{size.plus4}",
-        "type": "sizing"
-      }
+      "type": "sizing"
     },
     "icon-size": {
       "small": {
