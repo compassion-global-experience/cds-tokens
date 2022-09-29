@@ -1,105 +1,101 @@
 {
-  "color": {
-    "form": {
+  "form": {
+    "label-color": {
+      "value": "{semantic.color.text.subtle}",
+      "type": "color"
+    },
+    "input-color": {
+      "value": "{semantic.color.text.subtle}",
+      "type": "color"
+    },
+    "hint-text-color": {
+      "value": "{semantic.color.text.muted}",
+      "type": "color"
+    },
+    "icon-color": {
+      "value": "{semantic.color.text.muted}",
+      "type": "color"
+    },
+    "background-color": {
+      "value": "{semantic.color.background.default}",
+      "type": "color"
+    },
+    "border-color": {
+      "value": "{semantic.color.background.surface}",
+      "type": "color"
+    },
+    "placeholder-color": {
+      "value": "{semantic.color.actions.disabled.muted}",
+      "type": "color"
+    },
+    "disabled": {
       "label-color": {
-        "value": "{semantic.color.text.subtle}",
+        "value": "{semantic.color.actions.disabled.default}",
         "type": "color"
       },
       "input-color": {
-        "value": "{semantic.color.text.subtle}",
+        "value": "{semantic.color.actions.disabled.default}",
         "type": "color"
       },
-      "hint-text": {
-        "value": "{semantic.color.text.muted}",
+      "hint-color": {
+        "value": "{semantic.color.actions.disabled.default}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.text.muted}",
+        "value": "{semantic.color.actions.disabled.muted}",
         "type": "color"
       },
       "background-color": {
-        "value": "{semantic.color.background.default}",
+        "value": "{semantic.color.actions.disabled.subtle}",
         "type": "color"
       },
       "border-color": {
         "value": "{semantic.color.background.surface}",
         "type": "color"
-      },
-      "placeholder-color": {
-        "value": "{semantic.color.actions.disabled.muted}",
+      }
+    },
+    "error": {
+      "hint-text": {
+        "value": "{semantic.color.actions.danger.default}",
         "type": "color"
       },
-      "disabled": {
-        "label-color": {
-          "value": "{semantic.color.actions.disabled.default}",
-          "type": "color"
-        },
-        "input-color": {
-          "value": "{semantic.color.actions.disabled.default}",
-          "type": "color"
-        },
-        "hint-color": {
-          "value": "{semantic.color.actions.disabled.default}",
-          "type": "color"
-        },
-        "icon-color": {
-          "value": "{semantic.color.actions.disabled.muted}",
-          "type": "color"
-        },
-        "background-color": {
-          "value": "{semantic.color.actions.disabled.subtle}",
-          "type": "color"
-        },
-        "border-color": {
-          "value": "{semantic.color.background.surface}",
-          "type": "color"
-        }
+      "border-color": {
+        "value": "{semantic.color.actions.danger.default}",
+        "type": "color"
       },
-      "error": {
-        "hint-text": {
-          "value": "{semantic.color.actions.danger.default}",
-          "type": "color"
-        },
-        "border-color": {
-          "value": "{semantic.color.actions.danger.default}",
-          "type": "color"
-        },
-        "icon-color": {
-          "value": "{semantic.color.actions.danger.default}",
-          "type": "color"
-        }
-      },
-      "success": {
-        "icon-color": {
-          "value": "{semantic.color.actions.success.default}",
-          "type": "color"
-        }
-      },
-      "info": {
-        "icon-color": {
-          "value": "{semantic.color.actions.info.default}",
-          "type": "color"
-        }
-      },
-      "focus": {
-        "border-color": {
-          "value": "{semantic.color.actions.primary.default}",
-          "type": "color"
-        }
-      },
-      "primary": {
-        "default": {
-          "value": "{semantic.color.actions.primary.default}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.color.actions.primary.muted}",
-          "type": "color"
-        }
+      "icon-color": {
+        "value": "{semantic.color.actions.danger.default}",
+        "type": "color"
       }
-    }
-  },
-  "form": {
+    },
+    "success": {
+      "icon-color": {
+        "value": "{semantic.color.actions.success.default}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "icon-color": {
+        "value": "{semantic.color.actions.info.default}",
+        "type": "color"
+      }
+    },
+    "focus": {
+      "border-color": {
+        "value": "{semantic.color.actions.primary.default}",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "default": {
+        "value": "{semantic.color.actions.primary.default}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{semantic.color.actions.primary.muted}",
+        "type": "color"
+      }
+    },
     "border-radius": {
       "value": "{actions.input.border-radius}",
       "type": "borderRadius"
