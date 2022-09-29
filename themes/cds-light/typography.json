@@ -7,8 +7,8 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.regular}",
-              "lineHeight": "{lineHeight.normal.base}",
-              "fontSize": "{fontSize.plus6}"
+              "lineHeight": "{lineHeight.normal.plus5}",
+              "fontSize": "{fontSize.plus5}"
             },
             "type": "typography"
           },
@@ -16,8 +16,8 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.bold}",
-              "lineHeight": "{lineHeight.normal.base}",
-              "fontSize": "{fontSize.plus6}"
+              "lineHeight": "{lineHeight.normal.plus5}",
+              "fontSize": "{fontSize.plus5}"
             },
             "type": "typography"
           }
@@ -27,7 +27,7 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.regular}",
-              "lineHeight": "{lineHeight.normal.base}",
+              "lineHeight": "{lineHeight.normal.plus3}",
               "fontSize": "{fontSize.plus3}"
             },
             "type": "typography"
@@ -36,7 +36,7 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.regular}",
-              "lineHeight": "{lineHeight.normal.base}",
+              "lineHeight": "{lineHeight.normal.plus3}",
               "fontSize": "{fontSize.plus3}"
             },
             "type": "typography"
@@ -50,7 +50,7 @@
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.regular}",
               "lineHeight": "{lineHeight.normal.plus4}",
-              "fontSize": "{fontSize.plus5}"
+              "fontSize": "{fontSize.plus4}"
             },
             "type": "typography"
           },
@@ -58,8 +58,8 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.bold}",
-              "lineHeight": "{lineHeight.normal.base}",
-              "fontSize": "{fontSize.plus5}"
+              "lineHeight": "{lineHeight.normal.plus4}",
+              "fontSize": "{fontSize.plus4}"
             },
             "type": "typography"
           }
@@ -69,7 +69,7 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.regular}",
-              "lineHeight": "{lineHeight.normal.base}",
+              "lineHeight": "{lineHeight.normal.plus3}",
               "fontSize": "{fontSize.plus3}"
             },
             "type": "typography"
@@ -78,7 +78,7 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.bold}",
-              "lineHeight": "{lineHeight.normal.base}",
+              "lineHeight": "{lineHeight.normal.plus3}",
               "fontSize": "{fontSize.plus3}"
             },
             "type": "typography"
@@ -91,8 +91,8 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.regular}",
-              "lineHeight": "{lineHeight.normal.plus4}",
-              "fontSize": "{fontSize.plus4}"
+              "lineHeight": "{lineHeight.normal.plus3}",
+              "fontSize": "{fontSize.plus3}"
             },
             "type": "typography"
           },
@@ -100,8 +100,8 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.bold}",
-              "lineHeight": "{lineHeight.normal.plus4}",
-              "fontSize": "{fontSize.plus4}"
+              "lineHeight": "{lineHeight.normal.plus3}",
+              "fontSize": "{fontSize.plus3}"
             },
             "type": "typography"
           }
@@ -111,8 +111,8 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.regular}",
-              "lineHeight": "{lineHeight.normal.plus3}",
-              "fontSize": "{fontSize.plus3}"
+              "lineHeight": "{lineHeight.normal.plus2}",
+              "fontSize": "{fontSize.plus2}"
             },
             "type": "typography"
           },
@@ -120,8 +120,8 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.bold}",
-              "lineHeight": "{lineHeight.normal.plus3}",
-              "fontSize": "{fontSize.plus3}"
+              "lineHeight": "{lineHeight.normal.plus2}",
+              "fontSize": "{fontSize.plus2}"
             },
             "type": "typography"
           }
@@ -133,28 +133,6 @@
             "value": {
               "fontFamily": "{fontFamily.heading}",
               "fontWeight": "{fontWeight.sans.regular}",
-              "lineHeight": "{lineHeight.normal.plus3}",
-              "fontSize": "{fontSize.plus3}"
-            },
-            "type": "typography"
-          },
-          "bold": {
-            "value": {
-              "fontFamily": "{fontFamily.heading}",
-              "fontWeight": "{fontWeight.sans.bold}",
-              "lineHeight": "{lineHeight.normal.plus3}",
-              "fontSize": "{fontSize.plus3}"
-            },
-            "type": "typography"
-          }
-        }
-      },
-      "h5": {
-        "desktop": {
-          "regular": {
-            "value": {
-              "fontFamily": "{fontFamily.heading}",
-              "fontWeight": "{fontWeight.sans.regular}",
               "lineHeight": "{lineHeight.normal.plus2}",
               "fontSize": "{fontSize.plus2}"
             },
@@ -191,7 +169,7 @@
           }
         }
       },
-      "h6": {
+      "h5": {
         "desktop": {
           "regular": {
             "value": {
@@ -208,6 +186,48 @@
               "fontWeight": "{fontWeight.sans.bold}",
               "lineHeight": "{lineHeight.normal.plus1}",
               "fontSize": "{fontSize.plus1}"
+            },
+            "type": "typography"
+          }
+        },
+        "mobile": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.base}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.bold}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.base}"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "h6": {
+        "desktop": {
+          "regular": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.base}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamily.heading}",
+              "fontWeight": "{fontWeight.sans.bold}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.base}"
             },
             "type": "typography"
           }
@@ -304,7 +324,7 @@
               "fontFamily": "{fontFamily.body}",
               "fontWeight": "{fontWeight.sans.regular}",
               "lineHeight": "{lineHeight.normal.base}",
-              "fontSize": "{fontSize.minus2}"
+              "fontSize": "{fontSize.minus1}"
             },
             "type": "typography"
           },
@@ -313,7 +333,7 @@
               "fontFamily": "{fontFamily.body}",
               "fontWeight": "{fontWeight.sans.bold}",
               "lineHeight": "{lineHeight.normal.base}",
-              "fontSize": "{fontSize.minus2}"
+              "fontSize": "{fontSize.minus1}"
             },
             "type": "typography"
           }
