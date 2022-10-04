@@ -1,7 +1,7 @@
 {
   "nav": {
     "background-color": {
-      "value": "{semantic.color.background.canvas}",
+      "value": "{semantic.color.background.default}",
       "type": "color"
     },
     "header-color": {
