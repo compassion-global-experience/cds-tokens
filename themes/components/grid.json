@@ -1,0 +1,54 @@
+{
+  "breakpoints": {
+    "xs": {
+      "value": "{size.breakpoints.xs}",
+      "type": "sizing"
+    },
+    "sm": {
+      "value": "{size.breakpoints.sm}",
+      "type": "sizing"
+    },
+    "md": {
+      "value": "{size.breakpoints.md}",
+      "type": "sizing"
+    },
+    "lg": {
+      "value": "{size.breakpoints.lg}",
+      "type": "sizing"
+    },
+    "xl": {
+      "value": "{size.breakpoints.xl}",
+      "type": "sizing"
+    },
+    "xxl": {
+      "value": "{size.breakpoints.xxl}",
+      "type": "sizing"
+    }
+  },
+  "containers": {
+    "xs": {
+      "value": "{breakpoints.xs} - 30",
+      "type": "sizing"
+    },
+    "sm": {
+      "value": "{size.breakpoints.sm} - 36",
+      "type": "sizing"
+    },
+    "md": {
+      "value": "{size.breakpoints.md}",
+      "type": "sizing"
+    },
+    "lg": {
+      "value": "{size.breakpoints.lg}",
+      "type": "sizing"
+    },
+    "xl": {
+      "value": "{size.breakpoints.xl}",
+      "type": "sizing"
+    },
+    "xxl": {
+      "value": "{size.breakpoints.xxl}",
+      "type": "sizing"
+    }
+  }
+}
