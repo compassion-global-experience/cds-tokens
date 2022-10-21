@@ -21,7 +21,7 @@
       "neighbour-institute/typography": "disabled",
       "cds-light/typography": "enabled",
       "cds-dark/typography": "disabled",
-      "spacing": "enabled"
+      "components/spacing": "enabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
@@ -222,7 +222,7 @@
       "neighbour-institute/typography": "disabled",
       "cds-light/typography": "disabled",
       "cds-dark/typography": "enabled",
-      "spacing": "enabled"
+      "components/spacing": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -423,7 +423,7 @@
       "neighbour-institute/typography": "enabled",
       "cds-light/typography": "disabled",
       "cds-dark/typography": "disabled",
-      "spacing": "enabled"
+      "components/spacing": "enabled"
     },
     "$figmaStyleReferences": {}
   }
