@@ -35,19 +35,19 @@
       "type": "sizing"
     },
     "md": {
-      "value": "{size.breakpoints.md}",
+      "value": "{size.breakpoints.md} - 48",
       "type": "sizing"
     },
     "lg": {
-      "value": "{size.breakpoints.lg}",
+      "value": "{size.breakpoints.lg} - 32",
       "type": "sizing"
     },
     "xl": {
-      "value": "{size.breakpoints.xl}",
+      "value": "{size.breakpoints.xl} - 60",
       "type": "sizing"
     },
     "xxl": {
-      "value": "{size.breakpoints.xxl}",
+      "value": "{size.breakpoints.xxl} - 80",
       "type": "sizing"
     }
   }
