@@ -18,3 +18,5 @@ jobs:
           cache: "npm"
       - run: npm install
       - run: npm run build
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v9.1.1
