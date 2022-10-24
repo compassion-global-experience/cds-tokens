@@ -108,7 +108,7 @@ function getStyleDictionaryConfig(theme) {
         // map the array of token file paths to style dictionary output files
         files: [
           {
-            destination: `${theme}.scss`,
+            destination: `${theme}.css`,
             format: `css/variables`,
             selector: `.${theme}-theme`,
           },
