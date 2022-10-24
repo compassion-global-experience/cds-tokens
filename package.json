@@ -1,0 +1,32 @@
+{
+  "name": "cds-tokens",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm-run-all transform resolve-tokens",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "transform": "npm run transform-light && npm run transform-dark",
+    "transform-light": "npx token-transformer themes tokens/_cds-light/tokens.json core/cds-core,core/semantic,cds-light/semantic,cds-light/typography,components/form,components/spacing,components/navigation core/cds-core",
+    "transform-dark": "npx token-transformer themes tokens/_cds-dark/tokens.json core/cds-core,core/semantic,cds-dark/semantic-dark,cds-dark/typography,components/form,components/spacing,components/navigation core/cds-core",
+    "resolve-tokens": "node ./build.js",
+    "build-sass": "sass --style=compressed dist/scss/cds.scss dist/css/cds.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compassion-global-experience/cds-tokens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compassion-global-experience/cds-tokens/issues"
+  },
+  "homepage": "https://github.com/compassion-global-experience/cds-tokens#readme",
+  "dependencies": {
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.55.0",
+    "style-dictionary": "^3.7.1",
+    "token-transformer": "^0.0.27"
+  }
+}
