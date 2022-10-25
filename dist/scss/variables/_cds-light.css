@@ -137,8 +137,10 @@
   --typography-heading-h6-mobile-regular: 16px/20px Gotham Book;
   --typography-heading-h6-mobile-bold: 16px/20px Gotham Bold;
   --typography-body-p-desktop-regular: 16px/20px Gotham Book;
+  --typography-body-p-desktop-semibold: 16px/20px Gotham Medium;
   --typography-body-p-desktop-bold: 16px/20px Gotham Bold;
   --typography-body-p-mobile-regular: 16px/20px Gotham Book;
+  --typography-body-p-mobile-semibold: 16px/20px Gotham Medium;
   --typography-body-p-mobile-bold: 16px/20px Gotham Bold;
   --typography-body-p-minus1-desktop-regular: 13px/20px Gotham Book;
   --typography-body-p-minus1-desktop-bold: 13px/20px Gotham Bold;
