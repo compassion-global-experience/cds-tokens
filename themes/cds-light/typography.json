@@ -266,6 +266,15 @@
             },
             "type": "typography"
           },
+          "semibold": {
+            "value": {
+              "fontFamily": "{fontFamily.body}",
+              "fontWeight": "{fontWeight.sans.medium}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.base}"
+            },
+            "type": "typography"
+          },
           "bold": {
             "value": {
               "fontFamily": "{fontFamily.body}",
@@ -281,6 +290,15 @@
             "value": {
               "fontFamily": "{fontFamily.body}",
               "fontWeight": "{fontWeight.sans.regular}",
+              "lineHeight": "{lineHeight.normal.base}",
+              "fontSize": "{fontSize.base}"
+            },
+            "type": "typography"
+          },
+          "semibold": {
+            "value": {
+              "fontFamily": "{fontFamily.body}",
+              "fontWeight": "{fontWeight.sans.medium}",
               "lineHeight": "{lineHeight.normal.base}",
               "fontSize": "{fontSize.base}"
             },

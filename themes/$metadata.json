@@ -15,6 +15,7 @@
     "components/pagination",
     "components/spacing",
     "components/tab",
+    "components/table",
     "components/toast",
     "cds-dark/typography",
     "cds-dark/semantic-dark",
