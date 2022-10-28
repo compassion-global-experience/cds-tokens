@@ -4,7 +4,6 @@
     "name": "cds-dark",
     "selectedTokenSets": {
       "core/cds-core": "source",
-      "core/semantic": "enabled",
       "components/button": "enabled",
       "components/card": "enabled",
       "components/modal": "enabled",
@@ -18,8 +17,11 @@
       "neighbour-institute/theme-ni": "disabled",
       "components/dropdown": "enabled",
       "components/tab": "enabled",
-      "neighbour-institute/typography": "disabled",
-      "cds-light/typography": "disabled"
+      "components/spacing": "enabled",
+      "components/grid": "enabled",
+      "components/table": "enabled",
+      "cds-light/semantic": "enabled",
+      "components/type": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -203,7 +205,6 @@
     "name": "cds-light",
     "selectedTokenSets": {
       "core/cds-core": "source",
-      "core/semantic": "enabled",
       "components/button": "enabled",
       "components/card": "enabled",
       "components/modal": "enabled",
@@ -217,8 +218,11 @@
       "neighbour-institute/theme-ni": "disabled",
       "components/dropdown": "enabled",
       "components/tab": "enabled",
-      "neighbour-institute/typography": "disabled",
-      "cds-light/typography": "enabled"
+      "components/spacing": "enabled",
+      "components/grid": "enabled",
+      "components/table": "enabled",
+      "cds-light/semantic": "enabled",
+      "components/type": "enabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
@@ -402,7 +406,6 @@
     "name": "neighbour-institute",
     "selectedTokenSets": {
       "core/cds-core": "source",
-      "core/semantic": "enabled",
       "components/alert": "enabled",
       "components/badge": "enabled",
       "components/button": "enabled",
@@ -416,8 +419,11 @@
       "neighbour-institute/theme-ni": "enabled",
       "components/dropdown": "enabled",
       "components/tab": "enabled",
-      "neighbour-institute/typography": "enabled",
-      "cds-light/typography": "disabled"
+      "components/spacing": "enabled",
+      "components/grid": "enabled",
+      "components/table": "enabled",
+      "cds-light/semantic": "enabled",
+      "components/type": "enabled"
     },
     "$figmaStyleReferences": {}
   }

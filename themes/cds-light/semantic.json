@@ -312,5 +312,63 @@
         "type": "other"
       }
     }
+  },
+  "font": {
+    "heading": {
+      "value": "{defaults.fontFamily.sans}",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "{defaults.fontFamily.sans}",
+      "type": "fontFamilies"
+    },
+    "weight": {
+      "regular": {
+        "value": "{fontWeight.sans.regular}",
+        "type": "fontWeights"
+      },
+      "semibold": {
+        "value": "{fontWeight.sans.medium}",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "{fontWeight.sans.bold}",
+        "type": "fontWeights"
+      }
+    },
+    "xs": {
+      "value": "{fontSize.minus1}",
+      "type": "fontSizes"
+    },
+    "sm": {
+      "value": "{fontSize.base}",
+      "type": "fontSizes"
+    },
+    "md": {
+      "value": "{fontSize.plus1}",
+      "type": "fontSizes"
+    },
+    "lg": {
+      "value": "{fontSize.plus2}",
+      "type": "fontSizes"
+    },
+    "xl": {
+      "value": "{fontSize.plus3}",
+      "type": "fontSizes"
+    },
+    "xxxl": {
+      "value": "{fontSize.plus4}",
+      "type": "fontSizes"
+    },
+    "xxxxl": {
+      "value": "{fontSize.plus5}",
+      "type": "fontSizes"
+    },
+    "lineheight": {
+      "xs": {
+        "value": "{lineHeight.normal.base}",
+        "type": "lineHeights"
+      }
+    }
   }
 }

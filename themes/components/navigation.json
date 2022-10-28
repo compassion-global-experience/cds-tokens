@@ -1,7 +1,7 @@
 {
   "nav": {
     "background-color": {
-      "value": "{semantic.color.background.canvas}",
+      "value": "{semantic.color.background.default}",
       "type": "color"
     },
     "header-color": {
@@ -32,7 +32,7 @@
     },
     "typography": {
       "header": {
-        "value": "{typography.heading.h5.desktop.bold}",
+        "value": "{type.heading.h5.desktop.bold}",
         "type": "typography"
       }
     }

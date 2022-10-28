@@ -113,11 +113,11 @@
       "type": "typography"
     },
     "input-text": {
-      "value": "{typography.body.p.desktop.regular}",
+      "value": "{type.body.p.desktop.regular}",
       "type": "typography"
     },
     "password-text": {
-      "value": "{typography.body.p.desktop.regular}",
+      "value": "{type.body.p.desktop.regular}",
       "type": "typography"
     },
     "select": {
