@@ -589,7 +589,7 @@
         "type": "lineHeights"
       },
       "plus5": {
-        "value": "round((round(({fontSize.plus4} * {defaults.typography.modularScale.lineHeightScale.base}) / {size.baselineGrid.minus1})) * {size.baselineGrid.minus1})",
+        "value": "round((round(({fontSize.plus5} * {defaults.typography.modularScale.lineHeightScale.base}) / {size.baselineGrid.minus1})) * {size.baselineGrid.minus1})",
         "type": "lineHeights"
       },
       "plus6": {
@@ -3408,6 +3408,12 @@
         }
       ],
       "type": "boxShadow"
+    }
+  },
+  "textCase": {
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
     }
   }
 }

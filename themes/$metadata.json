@@ -1,8 +1,7 @@
 {
   "tokenSetOrder": [
     "core/cds-core",
-    "core/semantic",
-    "cds-light/typography",
+    "cds-light/semantic",
     "components/alert",
     "components/badge",
     "components/button",
@@ -17,9 +16,8 @@
     "components/tab",
     "components/table",
     "components/toast",
-    "cds-dark/typography",
+    "components/type",
     "cds-dark/semantic-dark",
-    "neighbour-institute/theme-ni",
-    "neighbour-institute/typography"
+    "neighbour-institute/theme-ni"
   ]
 }

@@ -47,14 +47,6 @@
       }
     }
   },
-  "spacing": {
-    "column": {
-      "desktop": {
-        "value": "{space.plus8}",
-        "type": "spacing"
-      }
-    }
-  },
   "semantic": {
     "color": {
       "text": {
@@ -310,6 +302,92 @@
       "down": {
         "value": "url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e\")",
         "type": "other"
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "heading": {
+        "value": "{defaults.fontFamily.sans}",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "{defaults.fontFamily.sans}",
+        "type": "fontFamilies"
+      }
+    },
+    "weight": {
+      "regular": {
+        "value": "{fontWeight.sans.regular}",
+        "type": "fontWeights"
+      },
+      "semibold": {
+        "value": "{fontWeight.sans.medium}",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "{fontWeight.sans.bold}",
+        "type": "fontWeights"
+      }
+    },
+    "size": {
+      "xs": {
+        "value": "{fontSize.minus1}",
+        "type": "fontSizes"
+      },
+      "sm": {
+        "value": "{fontSize.base}",
+        "type": "fontSizes"
+      },
+      "md": {
+        "value": "{fontSize.plus1}",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "{fontSize.plus2}",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "{fontSize.plus3}",
+        "type": "fontSizes"
+      },
+      "xxl": {
+        "value": "{fontSize.plus4}",
+        "type": "fontSizes"
+      },
+      "xxxl": {
+        "value": "{fontSize.plus5}",
+        "type": "fontSizes"
+      }
+    },
+    "lineheight": {
+      "xs": {
+        "value": "{lineHeight.normal.minus1}",
+        "type": "lineHeights"
+      },
+      "sm": {
+        "value": "{lineHeight.normal.base}",
+        "type": "lineHeights"
+      },
+      "md": {
+        "value": "{lineHeight.normal.plus1}",
+        "type": "lineHeights"
+      },
+      "lg": {
+        "value": "{lineHeight.normal.plus2}",
+        "type": "lineHeights"
+      },
+      "xl": {
+        "value": "{lineHeight.normal.plus3}",
+        "type": "lineHeights"
+      },
+      "xxl": {
+        "value": "{lineHeight.normal.plus4}",
+        "type": "lineHeights"
+      },
+      "xxxl": {
+        "value": "{lineHeight.normal.plus5}",
+        "type": "lineHeights"
       }
     }
   }

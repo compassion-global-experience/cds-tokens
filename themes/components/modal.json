@@ -5,7 +5,7 @@
       "type": "borderRadius"
     },
     "header": {
-      "value": "{typography.heading.h4.desktop.regular}",
+      "value": "{type.heading.h4.desktop.regular}",
       "type": "typography"
     },
     "body": {
