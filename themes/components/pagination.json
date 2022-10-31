@@ -45,6 +45,60 @@
     "shadow": {
       "value": "{depth.plus1}",
       "type": "boxShadow"
+    },
+    "md": {
+      "padding-left": {
+        "value": "{padding.3}",
+        "type": "spacing"
+      },
+      "padding-top": {
+        "value": "{padding.2}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{padding.2}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{padding.3}",
+        "type": "spacing"
+      },
+      "font": {
+        "value": {
+          "fontFamily": "{font.family.body}",
+          "fontWeight": "{font.weight.semibold}",
+          "lineHeight": "{font.lineheight.sm}",
+          "fontSize": "{font.size.sm}"
+        },
+        "type": "typography"
+      }
+    },
+    "sm": {
+      "font": {
+        "value": {
+          "fontFamily": "{font.family.body}",
+          "fontWeight": "{font.weight.semibold}",
+          "lineHeight": "{font.lineheight.xs}",
+          "fontSize": "{font.size.xs}"
+        },
+        "type": "typography"
+      },
+      "padding-left": {
+        "value": "{padding.2}",
+        "type": "spacing"
+      },
+      "padding-top": {
+        "value": "{padding.1}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{padding.1}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{padding.2}",
+        "type": "spacing"
+      }
     }
   }
 }
