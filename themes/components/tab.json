@@ -65,6 +65,31 @@
     "no-border": {
       "value": "{border-width.0}",
       "type": "borderWidth"
+    },
+    "padding-left": {
+      "value": "{padding.3}",
+      "type": "spacing"
+    },
+    "padding-top": {
+      "value": "{padding.2}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{padding.2}",
+      "type": "spacing"
+    },
+    "padding-right": {
+      "value": "{padding.3}",
+      "type": "spacing"
+    },
+    "font": {
+      "value": {
+        "fontFamily": "{font.family.body}",
+        "fontWeight": "{font.weight.semibold}",
+        "lineHeight": "{font.lineheight.sm}",
+        "fontSize": "{font.size.sm}"
+      },
+      "type": "typography"
     }
   }
 }
