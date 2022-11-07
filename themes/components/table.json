@@ -20,6 +20,10 @@
       "value": "{semantic.color.text.default}",
       "type": "color"
     },
+    "text-color": {
+      "value": "{semantic.color.text.default}",
+      "type": "color"
+    },
     "action-color": {
       "value": "{semantic.color.actions.primary.default}",
       "type": "color"
