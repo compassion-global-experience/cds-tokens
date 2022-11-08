@@ -95,6 +95,28 @@
     "shadow": {
       "value": "{depth.plus2}",
       "type": "boxShadow"
+    },
+    "nuetral": {
+      "background-color": {
+        "value": "{semantic.color.background.surface}",
+        "type": "color"
+      },
+      "body-color": {
+        "value": "{semantic.color.text.subtle}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.text.muted}",
+        "type": "color"
+      },
+      "header-color": {
+        "value": "{semantic.color.text.subtle}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.text.subtle}",
+        "type": "color"
+      }
     }
   }
 }
