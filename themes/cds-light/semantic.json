@@ -267,6 +267,28 @@
             "value": "{color.black}",
             "type": "color"
           }
+        },
+        "secondary": {
+          "default": {
+            "value": "{color.brand.secondary}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{color._caribe.200}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color._caribe.100}",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "{color._caribe.700}",
+            "type": "color"
+          },
+          "inverted": {
+            "value": "{color.white}",
+            "type": "color"
+          }
         }
       },
       "logo": {

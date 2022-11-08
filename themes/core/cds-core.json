@@ -320,23 +320,15 @@
     },
     "brand": {
       "primary": {
-        "value": "#005eb8",
+        "value": "{color._endeavour.600}",
         "type": "color"
       },
       "secondary": {
-        "value": "#0086bf",
-        "type": "color"
-      },
-      "secondaryLight": {
-        "value": "#afd8ff",
-        "type": "color"
-      },
-      "secondaryDark": {
-        "value": "#20556b",
+        "value": "{color._caribe.500}",
         "type": "color"
       },
       "accent": {
-        "value": "#ffb500",
+        "value": "{color._mango.500}",
         "type": "color"
       }
     },
