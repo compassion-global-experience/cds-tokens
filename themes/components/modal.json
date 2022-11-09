@@ -13,7 +13,7 @@
       "type": "typography"
     },
     "shadow": {
-      "value": "{depth.plus2}",
+      "value": "{core.depth.plus2}",
       "type": "boxShadow"
     },
     "background-color": {

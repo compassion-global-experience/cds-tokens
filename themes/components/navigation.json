@@ -22,12 +22,12 @@
     },
     "shadow": {
       "default": {
-        "value": "{depth.plus1}",
+        "value": "{core.depth.plus1}",
         "type": "boxShadow"
       }
     },
     "borderWidth": {
-      "value": "{border-width.1}",
+      "value": "{core.border-width.1}",
       "type": "borderWidth"
     },
     "typography": {

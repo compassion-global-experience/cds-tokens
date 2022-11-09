@@ -9,7 +9,7 @@
       "type": "color"
     },
     "no-background": {
-      "value": "{color.transparent}",
+      "value": "{core.color.transparent}",
       "type": "color"
     },
     "underline-color": {
@@ -51,19 +51,19 @@
       "type": "borderRadius"
     },
     "shadow": {
-      "value": "{depth.plus1}",
+      "value": "{core.depth.plus1}",
       "type": "boxShadow"
     },
     "no-shadow": {
-      "value": "{depth.none}",
+      "value": "{core.depth.none}",
       "type": "boxShadow"
     },
     "border-width": {
-      "value": "{border-width.1}",
+      "value": "{core.border-width.1}",
       "type": "borderWidth"
     },
     "no-border": {
-      "value": "{border-width.0}",
+      "value": "{core.border-width.0}",
       "type": "borderWidth"
     },
     "padding-left": {

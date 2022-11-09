@@ -43,7 +43,7 @@
       "type": "borderRadius"
     },
     "shadow": {
-      "value": "{depth.plus1}",
+      "value": "{core.depth.plus1}",
       "type": "boxShadow"
     },
     "md": {

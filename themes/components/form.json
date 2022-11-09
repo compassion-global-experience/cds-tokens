@@ -101,15 +101,15 @@
       "type": "borderRadius"
     },
     "input-label": {
-      "value": "{typography.label.minus1.sans.medium}",
+      "value": "{core.typography.label.minus1.sans.medium}",
       "type": "typography"
     },
     "hint-text": {
-      "value": "{typography.label.minus2.sans.regular}",
+      "value": "{core.typography.label.minus2.sans.regular}",
       "type": "typography"
     },
     "check-radio-label": {
-      "value": "{typography.label.base.sans.regular}",
+      "value": "{core.typography.label.base.sans.regular}",
       "type": "typography"
     },
     "input-text": {

@@ -304,7 +304,7 @@
     },
     "case": {
       "uppercase": {
-        "value": "{textCase.uppercase}",
+        "value": "{core.textCase.uppercase}",
         "type": "textCase"
       }
     }

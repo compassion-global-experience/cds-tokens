@@ -63,7 +63,7 @@
     "secondary": {
       "default": {
         "background-color": {
-          "value": "{color.transparent}",
+          "value": "{core.color.transparent}",
           "type": "color"
         },
         "text-color": {
@@ -99,7 +99,7 @@
       },
       "disabled": {
         "background-color": {
-          "value": "{color.transparent}",
+          "value": "{core.color.transparent}",
           "type": "color"
         },
         "text-color": {
@@ -122,11 +122,11 @@
     },
     "small": {
       "padding-x": {
-        "value": "{space.base}",
+        "value": "{core.space.base}",
         "type": "spacing"
       },
       "padding-y": {
-        "value": "{space.base}",
+        "value": "{core.space.base}",
         "type": "spacing"
       },
       "font": {
@@ -141,11 +141,11 @@
     },
     "medium": {
       "padding-x": {
-        "value": "{space.plus2}",
+        "value": "{core.space.plus2}",
         "type": "spacing"
       },
       "padding-y": {
-        "value": "{space.plus1}",
+        "value": "{core.space.plus1}",
         "type": "spacing"
       },
       "font": {
@@ -160,11 +160,11 @@
     },
     "large": {
       "padding-x": {
-        "value": "{space.plus3}",
+        "value": "{core.space.plus3}",
         "type": "spacing"
       },
       "padding-y": {
-        "value": "{space.plus2}",
+        "value": "{core.space.plus2}",
         "type": "spacing"
       },
       "font": {
@@ -179,11 +179,11 @@
     },
     "extraLarge": {
       "padding-x": {
-        "value": "{space.plus5}",
+        "value": "{core.space.plus5}",
         "type": "spacing"
       },
       "padding-y": {
-        "value": "{space.plus3}",
+        "value": "{core.space.plus3}",
         "type": "spacing"
       },
       "font": {
@@ -198,18 +198,18 @@
     },
     "shadow": {
       "active": {
-        "value": "{depth.plus1}",
+        "value": "{core.depth.plus1}",
         "type": "boxShadow"
       }
     },
     "border-width": {
-      "value": "{border-width.1}",
+      "value": "{core.border-width.1}",
       "type": "borderWidth"
     },
     "tertiary": {
       "default": {
         "background-color": {
-          "value": "{color.transparent}",
+          "value": "{core.color.transparent}",
           "type": "color"
         },
         "text-color": {
@@ -227,7 +227,7 @@
       },
       "hover": {
         "background-color": {
-          "value": "{color.transparent}",
+          "value": "{core.color.transparent}",
           "type": "color"
         },
         "text-color": {
@@ -245,7 +245,7 @@
       },
       "disabled": {
         "background-color": {
-          "value": "{color.transparent}",
+          "value": "{core.color.transparent}",
           "type": "color"
         },
         "text-color": {

@@ -1,27 +1,27 @@
 {
   "breakpoints": {
     "xs": {
-      "value": "{size.breakpoints.xs}",
+      "value": "{core.size.breakpoints.xs}",
       "type": "sizing"
     },
     "sm": {
-      "value": "{size.breakpoints.sm}",
+      "value": "{core.size.breakpoints.sm}",
       "type": "sizing"
     },
     "md": {
-      "value": "{size.breakpoints.md}",
+      "value": "{core.size.breakpoints.md}",
       "type": "sizing"
     },
     "lg": {
-      "value": "{size.breakpoints.lg}",
+      "value": "{core.size.breakpoints.lg}",
       "type": "sizing"
     },
     "xl": {
-      "value": "{size.breakpoints.xl}",
+      "value": "{core.size.breakpoints.xl}",
       "type": "sizing"
     },
     "xxl": {
-      "value": "{size.breakpoints.xxl}",
+      "value": "{core.size.breakpoints.xxl}",
       "type": "sizing"
     }
   },
@@ -31,23 +31,23 @@
       "type": "sizing"
     },
     "sm": {
-      "value": "{size.breakpoints.sm} - 36",
+      "value": "{core.size.breakpoints.sm} - 36",
       "type": "sizing"
     },
     "md": {
-      "value": "{size.breakpoints.md} - 48",
+      "value": "{core.size.breakpoints.md} - 48",
       "type": "sizing"
     },
     "lg": {
-      "value": "{size.breakpoints.lg} - 32",
+      "value": "{core.size.breakpoints.lg} - 32",
       "type": "sizing"
     },
     "xl": {
-      "value": "{size.breakpoints.xl} - 60",
+      "value": "{core.size.breakpoints.xl} - 60",
       "type": "sizing"
     },
     "xxl": {
-      "value": "{size.breakpoints.xxl} - 80",
+      "value": "{core.size.breakpoints.xxl} - 80",
       "type": "sizing"
     }
   }

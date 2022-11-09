@@ -19,19 +19,19 @@
       }
     },
     "font-weight": {
-      "value": "{fontWeight.sans.bold}",
+      "value": "{core.fontWeight.sans.bold}",
       "type": "fontWeights"
     },
     "font-family": {
-      "value": "{defaults.fontFamily.sans}",
+      "value": "{core.fontFamily.sans}",
       "type": "fontFamilies"
     },
     "padding-left": {
-      "value": "{space.base}",
+      "value": "{core.space.base}",
       "type": "spacing"
     },
     "padding-right": {
-      "value": "{space.base}",
+      "value": "{core.space.base}",
       "type": "spacing"
     },
     "border-radius": {
@@ -44,16 +44,16 @@
     },
     "shadow": {
       "active": {
-        "value": "{depth.plus1}",
+        "value": "{core.depth.plus1}",
         "type": "boxShadow"
       }
     },
     "border-width": {
-      "value": "{border-width.1}",
+      "value": "{core.border-width.1}",
       "type": "borderWidth"
     },
     "font-size": {
-      "value": "{fontSize.minus2}",
+      "value": "{core.fontSize.minus2}",
       "type": "fontSizes"
     },
     "danger": {
