@@ -159,12 +159,12 @@
       }
     },
     "large": {
-      "padding-left": {
+      "padding-x": {
         "value": "{space.plus3}",
         "type": "spacing"
       },
-      "padding-right": {
-        "value": "{space.plus3}",
+      "padding-y": {
+        "value": "{space.plus2}",
         "type": "spacing"
       },
       "font": {
@@ -178,12 +178,12 @@
       }
     },
     "extraLarge": {
-      "padding-left": {
+      "padding-x": {
         "value": "{space.plus5}",
         "type": "spacing"
       },
-      "padding-right": {
-        "value": "{space.plus5}",
+      "padding-y": {
+        "value": "{space.plus3}",
         "type": "spacing"
       },
       "font": {
