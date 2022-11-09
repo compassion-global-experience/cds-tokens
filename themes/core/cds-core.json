@@ -327,6 +327,14 @@
         "value": "{color._caribe.500}",
         "type": "color"
       },
+      "secondaryLight": {
+        "value": "#afd8ff",
+        "type": "color"
+      },
+      "secondaryDark": {
+        "value": "{color._nautilus.500}",
+        "type": "color"
+      },
       "accent": {
         "value": "{color._mango.500}",
         "type": "color"
