@@ -1,11 +1,11 @@
 {
   "dropdown": {
     "background-color": {
-      "value": "{semantic.color.background.canvas}",
+      "value": "{theme.color.background.canvas}",
       "type": "color"
     },
     "border-color": {
-      "value": "{semantic.color.background.surface}",
+      "value": "{theme.color.background.surface}",
       "type": "color"
     },
     "no-background": {
@@ -13,41 +13,41 @@
       "type": "color"
     },
     "underline-color": {
-      "value": "{semantic.color.actions.disabled.amplified}",
+      "value": "{theme.color.actions.disabled.amplified}",
       "type": "color"
     },
     "action-color": {
-      "value": "{semantic.color.text.subtle}",
+      "value": "{theme.color.text.subtle}",
       "type": "color"
     },
     "text-color": {
-      "value": "{semantic.color.text.subtle}",
+      "value": "{theme.color.text.subtle}",
       "type": "color"
     },
     "icon-color": {
-      "value": "{semantic.color.text.muted}",
+      "value": "{theme.color.text.muted}",
       "type": "color"
     },
     "hover": {
       "background-color": {
-        "value": "{semantic.color.actions.primary.subtle}",
+        "value": "{theme.color.actions.primary.subtle}",
         "type": "color"
       }
     },
     "active": {
       "background-color": {
-        "value": "{semantic.color.background.surface}",
+        "value": "{theme.color.background.surface}",
         "type": "color"
       }
     },
     "disabled": {
       "action-color": {
-        "value": "{semantic.color.actions.disabled.muted}",
+        "value": "{theme.color.actions.disabled.muted}",
         "type": "color"
       }
     },
     "border-radius": {
-      "value": "{ui.border-radius.sm}",
+      "value": "{theme.ui.border-radius.sm}",
       "type": "borderRadius"
     },
     "shadow": {

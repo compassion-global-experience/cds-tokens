@@ -2,55 +2,55 @@
   "background": {
     "primary": {
       "default": {
-        "value": "{semantic.color.actions.primary.default}",
+        "value": "{theme.color.actions.primary.default}",
         "type": "color"
       },
       "subtle": {
-        "value": "{semantic.color.actions.primary.subtle}",
+        "value": "{theme.color.actions.primary.subtle}",
         "type": "color"
       },
       "muted": {
-        "value": "{semantic.color.actions.primary.muted}",
+        "value": "{theme.color.actions.primary.muted}",
         "type": "color"
       },
       "amplified": {
-        "value": "{semantic.color.actions.primary.amplified}",
+        "value": "{theme.color.actions.primary.amplified}",
         "type": "color"
       }
     },
     "accent": {
       "default": {
-        "value": "{semantic.color.actions.accent.default}",
+        "value": "{theme.color.actions.accent.default}",
         "type": "color"
       },
       "subtle": {
-        "value": "{semantic.color.actions.accent.subtle}",
+        "value": "{theme.color.actions.accent.subtle}",
         "type": "color"
       },
       "muted": {
-        "value": "{semantic.color.actions.accent.muted}",
+        "value": "{theme.color.actions.accent.muted}",
         "type": "color"
       },
       "amplified": {
-        "value": "{semantic.color.actions.accent.amplified}",
+        "value": "{theme.color.actions.accent.amplified}",
         "type": "color"
       }
     },
     "secondary": {
       "default": {
-        "value": "{semantic.color.actions.secondary.default}",
+        "value": "{theme.color.actions.secondary.default}",
         "type": "color"
       },
       "subtle": {
-        "value": "{semantic.color.actions.secondary.subtle}",
+        "value": "{theme.color.actions.secondary.subtle}",
         "type": "color"
       },
       "muted": {
-        "value": "{semantic.color.actions.secondary.muted}",
+        "value": "{theme.color.actions.secondary.muted}",
         "type": "color"
       },
       "amplified": {
-        "value": "{semantic.color.actions.secondary.amplified}",
+        "value": "{theme.color.actions.secondary.amplified}",
         "type": "color"
       }
     }

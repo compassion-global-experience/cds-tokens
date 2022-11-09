@@ -1,7 +1,7 @@
 {
   "modal": {
     "border-radius": {
-      "value": "{ui.border-radius.md}",
+      "value": "{theme.ui.border-radius.md}",
       "type": "borderRadius"
     },
     "header": {
@@ -17,19 +17,19 @@
       "type": "boxShadow"
     },
     "background-color": {
-      "value": "{semantic.color.background.canvas}",
+      "value": "{theme.color.background.canvas}",
       "type": "color"
     },
     "header-color": {
-      "value": "{semantic.color.text.subtle}",
+      "value": "{theme.color.text.subtle}",
       "type": "color"
     },
     "body-color": {
-      "value": "{semantic.color.text.subtle}",
+      "value": "{theme.color.text.subtle}",
       "type": "color"
     },
     "border-color": {
-      "value": "{semantic.color.background.surface}",
+      "value": "{theme.color.background.surface}",
       "type": "color"
     }
   }

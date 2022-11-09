@@ -1,23 +1,23 @@
 {
   "nav": {
     "background-color": {
-      "value": "{semantic.color.background.default}",
+      "value": "{theme.color.background.default}",
       "type": "color"
     },
     "header-color": {
-      "value": "{semantic.color.text.primary}",
+      "value": "{theme.color.text.primary}",
       "type": "color"
     },
     "action-color": {
-      "value": "{semantic.color.text.subtle}",
+      "value": "{theme.color.text.subtle}",
       "type": "color"
     },
     "border-color": {
-      "value": "{semantic.color.background.surface}",
+      "value": "{theme.color.background.surface}",
       "type": "color"
     },
     "border-radius": {
-      "value": "{ui.border-radius.md}",
+      "value": "{theme.ui.border-radius.md}",
       "type": "borderRadius"
     },
     "shadow": {

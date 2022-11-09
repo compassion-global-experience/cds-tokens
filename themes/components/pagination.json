@@ -1,45 +1,45 @@
 {
   "pagination": {
     "background-color": {
-      "value": "{semantic.color.background.canvas}",
+      "value": "{theme.color.background.canvas}",
       "type": "color"
     },
     "border-color": {
-      "value": "{semantic.color.background.surface}",
+      "value": "{theme.color.background.surface}",
       "type": "color"
     },
     "action-color": {
-      "value": "{semantic.color.actions.primary.default}",
+      "value": "{theme.color.actions.primary.default}",
       "type": "color"
     },
     "hover": {
       "background-color": {
-        "value": "{semantic.color.actions.primary.subtle}",
+        "value": "{theme.color.actions.primary.subtle}",
         "type": "color"
       }
     },
     "active": {
       "background-color": {
-        "value": "{semantic.color.background.surface}",
+        "value": "{theme.color.background.surface}",
         "type": "color"
       },
       "action-color": {
-        "value": "{semantic.color.text.muted}",
+        "value": "{theme.color.text.muted}",
         "type": "color"
       }
     },
     "disabled": {
       "background-color": {
-        "value": "{semantic.color.actions.disabled.subtle}",
+        "value": "{theme.color.actions.disabled.subtle}",
         "type": "color"
       },
       "action-color": {
-        "value": "{semantic.color.actions.disabled.muted}",
+        "value": "{theme.color.actions.disabled.muted}",
         "type": "color"
       }
     },
     "border-radius": {
-      "value": "{ui.border-radius.md}",
+      "value": "{theme.ui.border-radius.md}",
       "type": "borderRadius"
     },
     "shadow": {
@@ -65,10 +65,10 @@
       },
       "font": {
         "value": {
-          "fontFamily": "{font.family.body}",
-          "fontWeight": "{font.weight.semibold}",
-          "lineHeight": "{font.lineheight.sm}",
-          "fontSize": "{font.size.sm}"
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.semibold}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
         },
         "type": "typography"
       }
@@ -76,10 +76,10 @@
     "sm": {
       "font": {
         "value": {
-          "fontFamily": "{font.family.body}",
-          "fontWeight": "{font.weight.semibold}",
-          "lineHeight": "{font.lineheight.xs}",
-          "fontSize": "{font.size.xs}"
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.semibold}",
+          "lineHeight": "{theme.font.lineheight.xs}",
+          "fontSize": "{theme.font.size.xs}"
         },
         "type": "typography"
       },
@@ -103,10 +103,10 @@
     "lg": {
       "font": {
         "value": {
-          "fontFamily": "{font.family.body}",
-          "fontWeight": "{font.weight.semibold}",
-          "lineHeight": "{font.lineheight.md}",
-          "fontSize": "{font.size.md}"
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.semibold}",
+          "lineHeight": "{theme.font.lineheight.md}",
+          "fontSize": "{theme.font.size.md}"
         },
         "type": "typography"
       },

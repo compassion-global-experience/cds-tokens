@@ -2,19 +2,19 @@
   "badge": {
     "primary": {
       "background-color": {
-        "value": "{semantic.color.actions.primary.default}",
+        "value": "{theme.color.actions.primary.default}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.actions.primary.inverted}",
+        "value": "{theme.color.actions.primary.inverted}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.actions.primary.inverted}",
+        "value": "{theme.color.actions.primary.inverted}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.actions.primary.default}",
+        "value": "{theme.color.actions.primary.default}",
         "type": "color"
       }
     },
@@ -35,11 +35,11 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{ui.border-radius.sm}",
+      "value": "{theme.ui.border-radius.sm}",
       "type": "borderRadius"
     },
     "border-radius-pill": {
-      "value": "{ui.border-radius.xl}",
+      "value": "{theme.ui.border-radius.xl}",
       "type": "borderRadius"
     },
     "shadow": {
@@ -58,91 +58,91 @@
     },
     "danger": {
       "background-color": {
-        "value": "{semantic.color.actions.danger.default}",
+        "value": "{theme.color.actions.danger.default}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.actions.danger.inverted}",
+        "value": "{theme.color.actions.danger.inverted}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.actions.danger.inverted}",
+        "value": "{theme.color.actions.danger.inverted}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.actions.danger.default}",
+        "value": "{theme.color.actions.danger.default}",
         "type": "color"
       }
     },
     "warning": {
       "background-color": {
-        "value": "{semantic.color.actions.warning.default}",
+        "value": "{theme.color.actions.warning.default}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.actions.warning.inverted}",
+        "value": "{theme.color.actions.warning.inverted}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.actions.warning.inverted}",
+        "value": "{theme.color.actions.warning.inverted}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.actions.warning.default}",
+        "value": "{theme.color.actions.warning.default}",
         "type": "color"
       }
     },
     "success": {
       "background-color": {
-        "value": "{semantic.color.actions.success.default}",
+        "value": "{theme.color.actions.success.default}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.actions.success.inverted}",
+        "value": "{theme.color.actions.success.inverted}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.actions.success.inverted}",
+        "value": "{theme.color.actions.success.inverted}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.actions.success.default}",
+        "value": "{theme.color.actions.success.default}",
         "type": "color"
       }
     },
     "info": {
       "background-color": {
-        "value": "{semantic.color.actions.info.default}",
+        "value": "{theme.color.actions.info.default}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.actions.info.inverted}",
+        "value": "{theme.color.actions.info.inverted}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.actions.info.inverted}",
+        "value": "{theme.color.actions.info.inverted}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.actions.info.default}",
+        "value": "{theme.color.actions.info.default}",
         "type": "color"
       }
     },
     "nuetral": {
       "background-color": {
-        "value": "{semantic.color.background.surface}",
+        "value": "{theme.color.background.surface}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.text.subtle}",
+        "value": "{theme.color.text.subtle}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.text.subtle}",
+        "value": "{theme.color.text.subtle}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.background.surface}",
+        "value": "{theme.color.background.surface}",
         "type": "color"
       }
     }

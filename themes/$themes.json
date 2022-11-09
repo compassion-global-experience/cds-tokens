@@ -9,7 +9,6 @@
       "components/modal": "enabled",
       "components/toast": "enabled",
       "components/form": "enabled",
-      "cds-dark/semantic-dark": "enabled",
       "components/alert": "enabled",
       "components/pagination": "enabled",
       "components/navigation": "enabled",
@@ -20,9 +19,10 @@
       "components/spacing": "enabled",
       "components/grid": "enabled",
       "components/table": "enabled",
-      "cds-light/semantic": "enabled",
       "components/type": "enabled",
-      "components/background": "enabled"
+      "components/background": "enabled",
+      "cds-dark/theme-cds-dark": "enabled",
+      "cds-light/theme-cds-light": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -215,16 +215,16 @@
       "components/navigation": "enabled",
       "components/pagination": "enabled",
       "components/toast": "enabled",
-      "cds-dark/semantic-dark": "disabled",
       "neighbour-institute/theme-ni": "enabled",
       "components/dropdown": "enabled",
       "components/tab": "enabled",
       "components/spacing": "enabled",
       "components/grid": "enabled",
       "components/table": "enabled",
-      "cds-light/semantic": "enabled",
       "components/type": "enabled",
-      "components/background": "enabled"
+      "components/background": "enabled",
+      "cds-dark/theme-cds-dark": "disabled",
+      "cds-light/theme-cds-light": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -238,7 +238,6 @@
       "components/modal": "enabled",
       "components/toast": "enabled",
       "components/form": "enabled",
-      "cds-dark/semantic-dark": "disabled",
       "components/alert": "enabled",
       "components/pagination": "enabled",
       "components/navigation": "enabled",
@@ -249,9 +248,10 @@
       "components/spacing": "enabled",
       "components/grid": "enabled",
       "components/table": "enabled",
-      "cds-light/semantic": "enabled",
       "components/type": "enabled",
-      "components/background": "enabled"
+      "components/background": "enabled",
+      "cds-dark/theme-cds-dark": "disabled",
+      "cds-light/theme-cds-light": "enabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
