@@ -117,6 +117,26 @@
         "value": "{semantic.color.text.subtle}",
         "type": "color"
       }
+    },
+    "desktop": {
+      "header": {
+        "value": "{type.heading.h5.desktop.bold}",
+        "type": "typography"
+      },
+      "body": {
+        "value": "{type.body.p.desktop.regular}",
+        "type": "typography"
+      }
+    },
+    "mobile": {
+      "header": {
+        "value": "{type.heading.h5.desktop.bold}",
+        "type": "typography"
+      },
+      "body": {
+        "value": "{type.body.p.desktop.regular}",
+        "type": "typography"
+      }
     }
   }
 }
