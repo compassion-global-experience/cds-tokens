@@ -120,21 +120,41 @@
     },
     "desktop": {
       "header": {
-        "value": "{type.heading.h5.desktop.bold}",
+        "value": {
+          "fontFamily": "{theme.font.family.heading}",
+          "fontWeight": "{theme.font.weight.bold}",
+          "lineHeight": "{theme.font.lineheight.md}",
+          "fontSize": "{theme.font.size.md}"
+        },
         "type": "typography"
       },
       "body": {
-        "value": "{type.body.p.desktop.regular}",
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.regular}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
         "type": "typography"
       }
     },
     "mobile": {
       "header": {
-        "value": "{type.heading.h5.desktop.bold}",
+        "value": {
+          "fontFamily": "{theme.font.family.heading}",
+          "fontWeight": "{theme.font.weight.bold}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
         "type": "typography"
       },
       "body": {
-        "value": "{type.body.p.desktop.regular}",
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.regular}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
         "type": "typography"
       }
     }
