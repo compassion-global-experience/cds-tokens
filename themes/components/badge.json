@@ -27,7 +27,7 @@
       "type": "fontFamilies"
     },
     "padding-x": {
-      "value": "{core.space.base}",
+      "value": "{core.space.minus1}",
       "type": "spacing"
     },
     "padding-y": {
