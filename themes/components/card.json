@@ -24,7 +24,7 @@
       "value": "{theme.ui.border-radius.md}",
       "type": "borderRadius"
     },
-    "default": {
+    "shadow": {
       "value": "{core.depth.plus1}",
       "type": "boxShadow"
     },
@@ -33,15 +33,30 @@
       "type": "borderWidth"
     },
     "header": {
-      "value": "{type.heading.h4.desktop.bold}",
-      "type": "typography"
-    },
-    "body": {
-      "value": "{type.body.p.desktop.regular}",
+      "value": {
+        "fontFamily": "{theme.font.family.heading}",
+        "fontWeight": "{theme.font.weight.bold}",
+        "lineHeight": "{theme.font.lineheight.lg}",
+        "fontSize": "{theme.font.size.lg}"
+      },
       "type": "typography"
     },
     "subhead": {
-      "value": "{type.subheading.desktop.bold}",
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{core.fontWeight.sans.bold}",
+        "lineHeight": "{theme.font.lineheight.md}",
+        "fontSize": "{theme.font.size.md}"
+      },
+      "type": "typography"
+    },
+    "body": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.regular}",
+        "fontSize": "{theme.font.size.sm}",
+        "lineHeight": "{theme.font.lineheight.sm}"
+      },
       "type": "typography"
     }
   }
