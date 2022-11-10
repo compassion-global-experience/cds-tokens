@@ -293,6 +293,10 @@
         "xl": {
           "value": "{core.borderRadius.plus4}",
           "type": "borderRadius"
+        },
+        "none": {
+          "value": "0",
+          "type": "borderRadius"
         }
       }
     },

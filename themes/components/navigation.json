@@ -16,10 +16,6 @@
       "value": "{theme.color.background.surface}",
       "type": "color"
     },
-    "border-radius": {
-      "value": "{theme.ui.border-radius.md}",
-      "type": "borderRadius"
-    },
     "shadow": {
       "default": {
         "value": "{core.depth.plus1}",
@@ -30,9 +26,18 @@
       "value": "{core.border-width.1}",
       "type": "borderWidth"
     },
-    "typography": {
-      "header": {
-        "value": "{type.heading.h5.desktop.bold}",
+    "border-radius": {
+      "value": "{theme.ui.border-radius.none}",
+      "type": "borderRadius"
+    },
+    "action": {
+      "font": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.semibold}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
         "type": "typography"
       }
     }
