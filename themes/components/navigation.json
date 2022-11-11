@@ -48,14 +48,12 @@
         "value": "{theme.color.background.primary}",
         "type": "color"
       },
-      "border-color": {
-        "value": "{theme.color.background.primary}",
-        "type": "color"
-      }
-    },
-    "inverse": {
       "action-color": {
         "value": "{theme.color.text.on-primary}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{theme.color.background.primary}",
         "type": "color"
       },
       "logo-color": {

@@ -60,7 +60,7 @@
         "type": "borderRadius"
       }
     },
-    "secondary": {
+    "outline": {
       "default": {
         "background-color": {
           "value": "{core.color.transparent}",
@@ -114,10 +114,66 @@
           "value": "{theme.color.actions.disabled.muted}",
           "type": "color"
         }
-      },
+      }
+    },
+    "secondary": {
       "border-radius": {
         "value": "{theme.actions.button.border-radius}",
         "type": "borderRadius"
+      },
+      "default": {
+        "background-color": {
+          "value": "{theme.color.actions.secondary.default}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.color.actions.primary.inverted}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{theme.color.actions.primary.inverted}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{theme.color.actions.secondary.default}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "{theme.color.actions.secondary.muted}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.color.actions.primary.inverted}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{theme.color.actions.primary.inverted}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{theme.color.actions.secondary.muted}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "value": "{theme.color.actions.disabled.muted}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.color.actions.disabled.subtle}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{theme.color.actions.disabled.subtle}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{theme.color.actions.disabled.muted}",
+          "type": "color"
+        }
       }
     },
     "small": {
@@ -206,7 +262,7 @@
       "value": "{core.border-width.1}",
       "type": "borderWidth"
     },
-    "tertiary": {
+    "link": {
       "default": {
         "background-color": {
           "value": "{core.color.transparent}",
@@ -260,7 +316,9 @@
           "value": "{theme.color.actions.disabled.muted}",
           "type": "color"
         }
-      },
+      }
+    },
+    "tertiary": {
       "border-radius": {
         "value": "0",
         "type": "borderRadius"
