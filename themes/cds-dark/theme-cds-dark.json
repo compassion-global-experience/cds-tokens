@@ -109,7 +109,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "{core.color.brand.primary}",
+          "value": "{core.color._endeavour.800}",
           "type": "color"
         },
         "secondary": {
@@ -271,6 +271,10 @@
       },
       "logo": {
         "default": {
+          "value": "{core.color.white}",
+          "type": "color"
+        },
+        "inverse": {
           "value": "{core.color.white}",
           "type": "color"
         }

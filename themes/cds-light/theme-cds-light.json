@@ -295,6 +295,10 @@
         "default": {
           "value": "{core.color.brand.primary}",
           "type": "color"
+        },
+        "inverse": {
+          "value": "{core.color.white}",
+          "type": "color"
         }
       }
     },
