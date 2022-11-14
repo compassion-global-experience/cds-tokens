@@ -11,7 +11,6 @@
       "components/form": "enabled",
       "components/alert": "enabled",
       "components/pagination": "enabled",
-      "components/navigation": "enabled",
       "components/badge": "enabled",
       "neighbour-institute/theme-ni": "disabled",
       "components/dropdown": "enabled",
@@ -22,7 +21,8 @@
       "components/type": "enabled",
       "components/background": "enabled",
       "cds-dark/theme-cds-dark": "enabled",
-      "cds-light/theme-cds-light": "enabled"
+      "cds-light/theme-cds-light": "enabled",
+      "components/header": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -211,7 +211,6 @@
       "components/card": "enabled",
       "components/form": "enabled",
       "components/modal": "enabled",
-      "components/navigation": "enabled",
       "components/pagination": "enabled",
       "components/toast": "enabled",
       "neighbour-institute/theme-ni": "enabled",
@@ -223,7 +222,8 @@
       "components/type": "enabled",
       "components/background": "enabled",
       "cds-dark/theme-cds-dark": "disabled",
-      "cds-light/theme-cds-light": "enabled"
+      "cds-light/theme-cds-light": "enabled",
+      "components/header": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -239,7 +239,6 @@
       "components/form": "enabled",
       "components/alert": "enabled",
       "components/pagination": "enabled",
-      "components/navigation": "enabled",
       "components/badge": "enabled",
       "neighbour-institute/theme-ni": "disabled",
       "components/dropdown": "enabled",
@@ -250,7 +249,8 @@
       "components/type": "enabled",
       "components/background": "enabled",
       "cds-dark/theme-cds-dark": "disabled",
-      "cds-light/theme-cds-light": "enabled"
+      "cds-light/theme-cds-light": "enabled",
+      "components/header": "enabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",

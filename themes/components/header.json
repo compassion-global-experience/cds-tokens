@@ -1,5 +1,5 @@
 {
-  "nav": {
+  "header": {
     "default": {
       "background-color": {
         "value": "{theme.color.background.default}",

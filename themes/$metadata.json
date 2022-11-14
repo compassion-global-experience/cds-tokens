@@ -11,7 +11,7 @@
     "components/form",
     "components/grid",
     "components/modal",
-    "components/navigation",
+    "components/header",
     "components/pagination",
     "components/spacing",
     "components/tab",

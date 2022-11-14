@@ -112,16 +112,36 @@
           "value": "{core.color.brand.primary}",
           "type": "color"
         },
-        "secondary": {
-          "value": "{core.color.brand.secondary}",
-          "type": "color"
-        },
         "primary-subtle": {
           "value": "{core.color._endeavour.100}",
           "type": "color"
         },
         "primary-amplified": {
           "value": "{core.color._endeavour.700}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.color.brand.secondary}",
+          "type": "color"
+        },
+        "secondary-subtle": {
+          "value": "{core.color._caribe.100}",
+          "type": "color"
+        },
+        "secondary-amplified": {
+          "value": "{core.color._caribe.700}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.color.brand.accent}",
+          "type": "color"
+        },
+        "accent-subtle": {
+          "value": "{core.color._mango.50}",
+          "type": "color"
+        },
+        "accent-amplified": {
+          "value": "{core.color._mango.700}",
           "type": "color"
         }
       },
