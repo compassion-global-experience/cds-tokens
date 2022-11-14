@@ -73,6 +73,15 @@
     "padding-right": {
       "value": "{core.space.plus2}",
       "type": "spacing"
+    },
+    "font": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.regular}",
+        "fontSize": "{theme.font.size.sm}",
+        "lineHeight": "{theme.font.lineheight.sm}"
+      },
+      "type": "typography"
     }
   }
 }
