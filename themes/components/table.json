@@ -55,7 +55,7 @@
       }
     },
     "border-radius": {
-      "value": "{theme.ui.border-radius.sm}",
+      "value": "{theme.ui.border-radius.none}",
       "type": "borderRadius"
     },
     "border-width": {
@@ -66,13 +66,27 @@
       "value": "{core.border-width.0}",
       "type": "borderWidth"
     },
-    "shadow": {
-      "value": "{core.depth.plus1}",
-      "type": "boxShadow"
+    "header": {
+      "font": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{core.fontWeight.sans.medium}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
+        "type": "typography"
+      }
     },
-    "no-shadow": {
-      "value": "{core.depth.none}",
-      "type": "boxShadow"
+    "cell": {
+      "font": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{core.fontWeight.mono.regular}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
+        "type": "typography"
+      }
     }
   }
 }
