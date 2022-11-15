@@ -302,6 +302,14 @@
       "value": "{theme.color.text.default}",
       "type": "color"
     },
+    "color-white": {
+      "value": "{core.color.white}",
+      "type": "color"
+    },
+    "color-accent": {
+      "value": "{theme.color.text.accent}",
+      "type": "color"
+    },
     "case": {
       "uppercase": {
         "value": "{core.textCase.uppercase}",
