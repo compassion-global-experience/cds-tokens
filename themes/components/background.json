@@ -41,6 +41,20 @@
         "value": "{theme.color.background.secondary-amplified}",
         "type": "color"
       }
+    },
+    "nuetral": {
+      "subtle": {
+        "value": "{theme.color.background.canvas}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{theme.color.background.default}",
+        "type": "color"
+      },
+      "amplified": {
+        "value": "{theme.color.background.surface}",
+        "type": "color"
+      }
     }
   }
 }
