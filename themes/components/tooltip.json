@@ -29,6 +29,10 @@
       "value": "{theme.color.text.default}",
       "type": "color"
     },
+    "border-color": {
+      "value": "{theme.color.text.default}",
+      "type": "color"
+    },
     "text-color": {
       "value": "{theme.color.background.default}",
       "type": "color"
