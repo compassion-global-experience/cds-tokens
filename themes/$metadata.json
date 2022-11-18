@@ -5,6 +5,7 @@
     "components/alert",
     "components/background",
     "components/badge",
+    "components/breadcrumb",
     "components/button",
     "components/card",
     "components/dropdown",

@@ -23,7 +23,8 @@
       "cds-dark/theme-cds-dark": "enabled",
       "cds-light/theme-cds-light": "enabled",
       "components/header": "enabled",
-      "components/tooltip": "enabled"
+      "components/tooltip": "enabled",
+      "components/breadcrumb": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -225,7 +226,8 @@
       "cds-dark/theme-cds-dark": "disabled",
       "cds-light/theme-cds-light": "enabled",
       "components/header": "enabled",
-      "components/tooltip": "enabled"
+      "components/tooltip": "enabled",
+      "components/breadcrumb": "enabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
@@ -427,7 +429,8 @@
       "cds-dark/theme-cds-dark": "disabled",
       "cds-light/theme-cds-light": "enabled",
       "components/header": "enabled",
-      "components/tooltip": "enabled"
+      "components/tooltip": "enabled",
+      "components/breadcrumb": "enabled"
     },
     "$figmaStyleReferences": {}
   }
