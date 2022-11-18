@@ -1,7 +1,7 @@
 {
   "breadcrumb": {
     "divider-color": {
-      "value": "{theme.color.actions.disabled.amplified}",
+      "value": "{theme.color.actions.disabled.muted}",
       "type": "color"
     },
     "action-color": {
@@ -10,7 +10,7 @@
     },
     "active": {
       "action-color": {
-        "value": "{theme.color.text.muted}",
+        "value": "{theme.color.actions.disabled.muted}",
         "type": "color"
       }
     },
