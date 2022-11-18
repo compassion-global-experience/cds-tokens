@@ -22,7 +22,8 @@
       "components/background": "enabled",
       "cds-dark/theme-cds-dark": "enabled",
       "cds-light/theme-cds-light": "enabled",
-      "components/header": "enabled"
+      "components/header": "enabled",
+      "components/tooltip": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -201,33 +202,6 @@
     }
   },
   {
-    "id": "5e866cf20e9de3d475263f884c38a98e24dfea80",
-    "name": "neighbour-institute",
-    "selectedTokenSets": {
-      "core/cds-core": "source",
-      "components/alert": "enabled",
-      "components/badge": "enabled",
-      "components/button": "enabled",
-      "components/card": "enabled",
-      "components/form": "enabled",
-      "components/modal": "enabled",
-      "components/pagination": "enabled",
-      "components/toast": "enabled",
-      "neighbour-institute/theme-ni": "enabled",
-      "components/dropdown": "enabled",
-      "components/tab": "enabled",
-      "components/spacing": "enabled",
-      "components/grid": "enabled",
-      "components/table": "enabled",
-      "components/type": "enabled",
-      "components/background": "enabled",
-      "cds-dark/theme-cds-dark": "disabled",
-      "cds-light/theme-cds-light": "enabled",
-      "components/header": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "460265c886b2216afb81180f57cdc14baaf16731",
     "name": "cds-light",
     "selectedTokenSets": {
@@ -250,7 +224,8 @@
       "components/background": "enabled",
       "cds-dark/theme-cds-dark": "disabled",
       "cds-light/theme-cds-light": "enabled",
-      "components/header": "enabled"
+      "components/header": "enabled",
+      "components/tooltip": "enabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
@@ -427,5 +402,33 @@
       "button.shadow.active": "S:489d9226021622c78c5d1ad220b042d29692a4fc,",
       "ui.alert.shadow": "S:3a35f072b81c291c7e02509ccf0acc4b330db8b0,"
     }
+  },
+  {
+    "id": "5e866cf20e9de3d475263f884c38a98e24dfea80",
+    "name": "neighbour-institute",
+    "selectedTokenSets": {
+      "core/cds-core": "source",
+      "components/alert": "enabled",
+      "components/badge": "enabled",
+      "components/button": "enabled",
+      "components/card": "enabled",
+      "components/form": "enabled",
+      "components/modal": "enabled",
+      "components/pagination": "enabled",
+      "components/toast": "enabled",
+      "neighbour-institute/theme-ni": "enabled",
+      "components/dropdown": "enabled",
+      "components/tab": "enabled",
+      "components/spacing": "enabled",
+      "components/grid": "enabled",
+      "components/table": "enabled",
+      "components/type": "enabled",
+      "components/background": "enabled",
+      "cds-dark/theme-cds-dark": "disabled",
+      "cds-light/theme-cds-light": "enabled",
+      "components/header": "enabled",
+      "components/tooltip": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

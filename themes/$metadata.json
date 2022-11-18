@@ -17,6 +17,7 @@
     "components/tab",
     "components/table",
     "components/toast",
+    "components/tooltip",
     "components/type",
     "cds-dark/theme-cds-dark",
     "neighbour-institute/theme-ni"
