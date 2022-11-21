@@ -96,7 +96,7 @@
       "value": "{core.depth.plus2}",
       "type": "boxShadow"
     },
-    "nuetral": {
+    "neutral": {
       "background-color": {
         "value": "{theme.color.background.surface}",
         "type": "color"

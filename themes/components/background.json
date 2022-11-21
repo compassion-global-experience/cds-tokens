@@ -42,7 +42,7 @@
         "type": "color"
       }
     },
-    "nuetral": {
+    "neutral": {
       "subtle": {
         "value": "{theme.color.background.canvas}",
         "type": "color"
