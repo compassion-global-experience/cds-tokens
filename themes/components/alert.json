@@ -118,8 +118,8 @@
         "type": "color"
       }
     },
-    "desktop": {
-      "header": {
+    "header": {
+      "font": {
         "value": {
           "fontFamily": "{theme.font.family.heading}",
           "fontWeight": "{theme.font.weight.bold}",
@@ -127,28 +127,10 @@
           "fontSize": "{theme.font.size.md}"
         },
         "type": "typography"
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{theme.font.weight.regular}",
-          "lineHeight": "{theme.font.lineheight.sm}",
-          "fontSize": "{theme.font.size.sm}"
-        },
-        "type": "typography"
       }
     },
-    "mobile": {
-      "header": {
-        "value": {
-          "fontFamily": "{theme.font.family.heading}",
-          "fontWeight": "{theme.font.weight.bold}",
-          "lineHeight": "{theme.font.lineheight.sm}",
-          "fontSize": "{theme.font.size.sm}"
-        },
-        "type": "typography"
-      },
-      "body": {
+    "body": {
+      "font": {
         "value": {
           "fontFamily": "{theme.font.family.body}",
           "fontWeight": "{theme.font.weight.regular}",
@@ -165,6 +147,10 @@
     "padding-y": {
       "value": "{core.space.plus2}",
       "type": "spacing"
+    },
+    "close-color": {
+      "value": "{theme.color.text.subtle}",
+      "type": "color"
     }
   }
 }
