@@ -47,7 +47,7 @@
       }
     },
     "border-radius": {
-      "value": "{theme.ui.border-radius.sm}",
+      "value": "{theme.ui.border-radius.md}",
       "type": "borderRadius"
     },
     "shadow": {
@@ -74,14 +74,27 @@
       "value": "{padding.2}",
       "type": "spacing"
     },
-    "font": {
-      "value": {
-        "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.semibold}",
-        "lineHeight": "{theme.font.lineheight.sm}",
-        "fontSize": "{theme.font.size.sm}"
-      },
-      "type": "typography"
+    "heading": {
+      "font": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.semibold}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
+        "type": "typography"
+      }
+    },
+    "body": {
+      "font": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.regular}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
+        "type": "typography"
+      }
     }
   }
 }
