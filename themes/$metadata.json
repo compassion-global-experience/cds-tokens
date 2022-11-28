@@ -22,6 +22,7 @@
     "components/tooltip",
     "components/type",
     "cds-dark/theme-cds-dark",
-    "neighbour-institute/theme-ni"
+    "neighbour-institute/theme-ni",
+    "compassion-us/theme-us-light"
   ]
 }

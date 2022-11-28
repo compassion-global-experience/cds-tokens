@@ -25,7 +25,8 @@
       "components/header": "enabled",
       "components/tooltip": "enabled",
       "components/breadcrumb": "enabled",
-      "components/accordion": "enabled"
+      "components/accordion": "enabled",
+      "compassion-us/theme-us-light": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -229,7 +230,8 @@
       "components/header": "enabled",
       "components/tooltip": "enabled",
       "components/breadcrumb": "enabled",
-      "components/accordion": "enabled"
+      "components/accordion": "enabled",
+      "compassion-us/theme-us-light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -259,7 +261,8 @@
       "components/header": "enabled",
       "components/tooltip": "enabled",
       "components/breadcrumb": "enabled",
-      "components/accordion": "enabled"
+      "components/accordion": "enabled",
+      "compassion-us/theme-us-light": "disabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
@@ -436,5 +439,36 @@
       "button.shadow.active": "S:489d9226021622c78c5d1ad220b042d29692a4fc,",
       "ui.alert.shadow": "S:3a35f072b81c291c7e02509ccf0acc4b330db8b0,"
     }
+  },
+  {
+    "id": "f967a136c341394a1798c0f9005f596082c11f21",
+    "name": "compassion-us",
+    "selectedTokenSets": {
+      "core/cds-core": "source",
+      "cds-light/theme-cds-light": "disabled",
+      "components/accordion": "enabled",
+      "components/alert": "enabled",
+      "components/background": "enabled",
+      "components/badge": "enabled",
+      "components/breadcrumb": "enabled",
+      "components/button": "enabled",
+      "components/card": "enabled",
+      "components/dropdown": "enabled",
+      "components/form": "enabled",
+      "components/grid": "enabled",
+      "components/modal": "enabled",
+      "components/header": "enabled",
+      "components/pagination": "enabled",
+      "components/spacing": "enabled",
+      "components/tab": "enabled",
+      "components/table": "enabled",
+      "components/toast": "enabled",
+      "components/tooltip": "enabled",
+      "components/type": "enabled",
+      "cds-dark/theme-cds-dark": "disabled",
+      "neighbour-institute/theme-ni": "disabled",
+      "compassion-us/theme-us-light": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
