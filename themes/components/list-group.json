@@ -1,5 +1,5 @@
 {
-  "accordion": {
+  "list-group": {
     "background-color": {
       "value": "{theme.color.background.canvas}",
       "type": "color"
@@ -16,7 +16,15 @@
       "value": "{theme.color.actions.primary.default}",
       "type": "color"
     },
+    "icon-color": {
+      "value": "{theme.color.actions.primary.default}",
+      "type": "color"
+    },
     "body-color": {
+      "value": "{theme.color.text.subtle}",
+      "type": "color"
+    },
+    "heading-color": {
       "value": "{theme.color.text.subtle}",
       "type": "color"
     },
@@ -66,27 +74,32 @@
       "value": "{padding.2}",
       "type": "spacing"
     },
-    "link": {
-      "font": {
-        "value": {
-          "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{theme.font.weight.semibold}",
-          "lineHeight": "{theme.font.lineheight.sm}",
-          "fontSize": "{theme.font.size.sm}"
-        },
-        "type": "typography"
-      }
+    "heading-font": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.bold}",
+        "lineHeight": "{theme.font.lineheight.sm}",
+        "fontSize": "{theme.font.size.sm}"
+      },
+      "type": "typography"
     },
-    "body": {
-      "font": {
-        "value": {
-          "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{theme.font.weight.regular}",
-          "lineHeight": "{theme.font.lineheight.sm}",
-          "fontSize": "{theme.font.size.sm}"
-        },
-        "type": "typography"
-      }
+    "action-font": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.semibold}",
+        "lineHeight": "{theme.font.lineheight.sm}",
+        "fontSize": "{theme.font.size.sm}"
+      },
+      "type": "typography"
+    },
+    "body-font": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.regular}",
+        "lineHeight": "{theme.font.lineheight.sm}",
+        "fontSize": "{theme.font.size.sm}"
+      },
+      "type": "typography"
     }
   }
 }

@@ -26,7 +26,8 @@
       "components/tooltip": "enabled",
       "components/breadcrumb": "enabled",
       "components/accordion": "enabled",
-      "compassion-us/theme-us-light": "disabled"
+      "compassion-us/theme-us-light": "disabled",
+      "components/list-group": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -230,7 +231,8 @@
       "components/tooltip": "enabled",
       "components/breadcrumb": "enabled",
       "components/accordion": "enabled",
-      "compassion-us/theme-us-light": "disabled"
+      "compassion-us/theme-us-light": "disabled",
+      "components/list-group": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -261,7 +263,8 @@
       "components/tooltip": "enabled",
       "components/breadcrumb": "enabled",
       "components/accordion": "enabled",
-      "compassion-us/theme-us-light": "disabled"
+      "compassion-us/theme-us-light": "disabled",
+      "components/list-group": "enabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
@@ -465,7 +468,8 @@
       "components/type": "enabled",
       "cds-dark/theme-cds-dark": "disabled",
       "neighbour-institute/theme-ni": "disabled",
-      "compassion-us/theme-us-light": "enabled"
+      "compassion-us/theme-us-light": "enabled",
+      "components/list-group": "enabled"
     },
     "$figmaStyleReferences": {}
   }

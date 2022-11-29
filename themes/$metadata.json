@@ -12,6 +12,7 @@
     "components/dropdown",
     "components/form",
     "components/grid",
+    "components/list-group",
     "components/modal",
     "components/header",
     "components/pagination",
