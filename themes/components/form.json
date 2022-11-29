@@ -131,7 +131,7 @@
     "check-radio-label": {
       "value": {
         "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{core.fontWeight.sans.medium}",
+        "fontWeight": "{theme.font.weight.regular}",
         "lineHeight": "{theme.font.lineheight.sm}",
         "fontSize": "{theme.font.size.sm}"
       },
