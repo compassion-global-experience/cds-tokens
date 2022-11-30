@@ -131,6 +131,14 @@
   --header-primary-action-color: #ffffff;
   --header-primary-border-color: #005EB8;
   --header-primary-logo-color: #ffffff;
+  --header-secondary-background-color: #0086BF;
+  --header-secondary-action-color: #ffffff;
+  --header-secondary-border-color: #0086BF;
+  --header-secondary-logo-color: #ffffff;
+  --header-accent-background-color: #FFB500;
+  --header-accent-action-color: #ffffff;
+  --header-accent-border-color: #FFB500;
+  --header-accent-logo-color: #ffffff;
   --breakpoints-xs: 320px;
   --breakpoints-sm: 576px;
   --breakpoints-md: 768px;
