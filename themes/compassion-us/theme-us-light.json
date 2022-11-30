@@ -55,7 +55,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{core.color.gray.minus2}",
+          "value": "{core.color._nautilus.500}",
           "type": "color"
         },
         "primary": {
@@ -357,25 +357,25 @@
     "font": {
       "family": {
         "heading": {
-          "value": "{core.fontFamily.sans}",
+          "value": "Montserrat",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "{core.fontFamily.sans}",
+          "value": "Montserrat",
           "type": "fontFamilies"
         }
       },
       "weight": {
         "regular": {
-          "value": "{core.fontWeight.sans.regular}",
+          "value": "Regular",
           "type": "fontWeights"
         },
         "semibold": {
-          "value": "{core.fontWeight.sans.medium}",
+          "value": "Medium",
           "type": "fontWeights"
         },
         "bold": {
-          "value": "{core.fontWeight.sans.bold}",
+          "value": "Bold",
           "type": "fontWeights"
         }
       },
