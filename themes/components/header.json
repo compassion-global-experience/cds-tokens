@@ -60,6 +60,42 @@
         "value": "{theme.color.logo.inverse}",
         "type": "color"
       }
+    },
+    "secondary": {
+      "background-color": {
+        "value": "{theme.color.background.secondary}",
+        "type": "color"
+      },
+      "action-color": {
+        "value": "{theme.color.text.on-primary}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{theme.color.background.secondary}",
+        "type": "color"
+      },
+      "logo-color": {
+        "value": "{theme.color.logo.inverse}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "background-color": {
+        "value": "{theme.color.background.accent}",
+        "type": "color"
+      },
+      "action-color": {
+        "value": "{theme.color.text.on-primary}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{theme.color.background.accent}",
+        "type": "color"
+      },
+      "logo-color": {
+        "value": "{theme.color.logo.inverse}",
+        "type": "color"
+      }
     }
   }
 }
