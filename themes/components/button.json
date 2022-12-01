@@ -447,6 +447,10 @@
     "uppercase": {
       "value": "uppercase",
       "type": "textCase"
+    },
+    "no-radius": {
+      "value": "0",
+      "type": "borderRadius"
     }
   }
 }
