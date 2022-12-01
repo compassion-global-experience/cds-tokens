@@ -186,7 +186,7 @@
             "type": "color"
           },
           "inverted": {
-            "value": "{core.color.black}",
+            "value": "#425563",
             "type": "color"
           }
         },
@@ -381,7 +381,7 @@
       },
       "size": {
         "xs": {
-          "value": "{core.fontSize.minus1}",
+          "value": "11",
           "type": "fontSizes"
         },
         "sm": {
@@ -411,7 +411,7 @@
       },
       "lineheight": {
         "xs": {
-          "value": "{core.lineHeight.normal.minus1}",
+          "value": "14",
           "type": "lineHeights"
         },
         "sm": {
