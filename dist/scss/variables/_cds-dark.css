@@ -139,6 +139,10 @@
   --header-accent-action-color: #ffffff;
   --header-accent-border-color: #8F6500;
   --header-accent-logo-color: #ffffff;
+  --header-neutral-background-color: #2e2f2a;
+  --header-neutral-action-color: #ffffff;
+  --header-neutral-border-color: #2e2f2a;
+  --header-neutral-logo-color: #ffffff;
   --breakpoints-xs: 320px;
   --breakpoints-sm: 576px;
   --breakpoints-md: 768px;
