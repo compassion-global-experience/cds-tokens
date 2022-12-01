@@ -96,6 +96,24 @@
         "value": "{theme.color.logo.inverse}",
         "type": "color"
       }
+    },
+    "neutral": {
+      "background-color": {
+        "value": "{theme.color.actions.disabled.subtle}",
+        "type": "color"
+      },
+      "action-color": {
+        "value": "{theme.color.text.on-primary}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{theme.color.actions.disabled.subtle}",
+        "type": "color"
+      },
+      "logo-color": {
+        "value": "{theme.color.logo.inverse}",
+        "type": "color"
+      }
     }
   }
 }
