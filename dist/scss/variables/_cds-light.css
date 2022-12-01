@@ -302,6 +302,7 @@
   --button-accent-solid-disabled-text-color: #f6f6f5;
   --button-accent-solid-disabled-icon-color: #f6f6f5;
   --button-accent-solid-disabled-border-color: #acaea7;
+  --button-uppercase: uppercase;
   --breadcrumb-divider-color: #acaea7;
   --breadcrumb-action-color: #005EB8;
   --breadcrumb-active-action-color: #acaea7;
