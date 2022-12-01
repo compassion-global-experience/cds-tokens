@@ -36,8 +36,8 @@
       "value": {
         "fontFamily": "{theme.font.family.body}",
         "fontWeight": "{theme.font.weight.semibold}",
-        "lineHeight": "{theme.font.lineheight.xs}",
-        "fontSize": "{theme.font.size.xs}"
+        "lineHeight": "{theme.font.lineheight.sm}",
+        "fontSize": "{theme.font.size.sm}"
       },
       "type": "typography"
     },
