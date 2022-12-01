@@ -443,6 +443,10 @@
           }
         }
       }
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
     }
   }
 }
