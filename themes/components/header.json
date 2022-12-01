@@ -41,6 +41,15 @@
       },
       "type": "typography"
     },
+    "action-font-bold": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.bold}",
+        "lineHeight": "{theme.font.lineheight.sm}",
+        "fontSize": "{theme.font.size.sm}"
+      },
+      "type": "typography"
+    },
     "primary": {
       "background-color": {
         "value": "{theme.color.background.primary}",
@@ -116,10 +125,6 @@
     "uppercase": {
       "value": "uppercase",
       "type": "textCase"
-    },
-    "font-bold": {
-      "value": "{theme.font.weight.bold}",
-      "type": "fontWeights"
     }
   }
 }
