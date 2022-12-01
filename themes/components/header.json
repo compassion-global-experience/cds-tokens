@@ -32,16 +32,14 @@
       "value": "{theme.ui.border-radius.none}",
       "type": "borderRadius"
     },
-    "action": {
-      "font": {
-        "value": {
-          "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{theme.font.weight.semibold}",
-          "lineHeight": "{theme.font.lineheight.sm}",
-          "fontSize": "{theme.font.size.sm}"
-        },
-        "type": "typography"
-      }
+    "action-font": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.semibold}",
+        "lineHeight": "{theme.font.lineheight.sm}",
+        "fontSize": "{theme.font.size.sm}"
+      },
+      "type": "typography"
     },
     "primary": {
       "background-color": {
@@ -114,6 +112,14 @@
         "value": "{theme.color.logo.inverse}",
         "type": "color"
       }
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    },
+    "font-bold": {
+      "value": "{theme.font.weight.bold}",
+      "type": "fontWeights"
     }
   }
 }
