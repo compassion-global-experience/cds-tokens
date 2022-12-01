@@ -126,7 +126,7 @@
   --header-shadow-default: 0px 0.475px 0.6px -1.25px #00000014, 0px 3.75px 5px -1.25px #00000026;
   --header-border-width: 1px;
   --header-border-radius: 0px;
-  --header-action-font: 13px/16px Gotham Medium;
+  --header-action-font: 16px/20px Gotham Medium;
   --header-action-font-bold: 13px/16px Gotham Bold;
   --header-primary-background-color: #004180;
   --header-primary-action-color: #ffffff;
