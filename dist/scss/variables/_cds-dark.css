@@ -143,6 +143,8 @@
   --header-neutral-action-color: #ffffff;
   --header-neutral-border-color: #2e2f2a;
   --header-neutral-logo-color: #ffffff;
+  --header-uppercase: uppercase;
+  --header-font-bold: Bold;
   --breakpoints-xs: 320px;
   --breakpoints-sm: 576px;
   --breakpoints-md: 768px;
