@@ -145,6 +145,17 @@
         "fontSize": "{theme.font.size.sm}"
       },
       "type": "typography"
+    },
+    "small": {
+      "input-value": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.regular}",
+          "lineHeight": "{theme.font.lineheight.xs}",
+          "fontSize": "{theme.font.size.xs}"
+        },
+        "type": "typography"
+      }
     }
   }
 }
