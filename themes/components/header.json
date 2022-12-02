@@ -125,6 +125,15 @@
     "uppercase": {
       "value": "uppercase",
       "type": "textCase"
+    },
+    "action-font-small": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "lineHeight": "{theme.font.lineheight.xxs}",
+        "fontSize": "{theme.font.size.xxs}",
+        "fontWeight": "{theme.font.weight.semibold}"
+      },
+      "type": "typography"
     }
   }
 }
