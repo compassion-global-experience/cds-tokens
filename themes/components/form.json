@@ -119,6 +119,15 @@
       },
       "type": "typography"
     },
+    "input-group-text": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.semibold}",
+        "lineHeight": "{theme.font.lineheight.sm}",
+        "fontSize": "{theme.font.size.sm}"
+      },
+      "type": "typography"
+    },
     "input-value": {
       "value": {
         "fontFamily": "{theme.font.family.body}",

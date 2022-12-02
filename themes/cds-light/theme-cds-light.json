@@ -37,7 +37,7 @@
       },
       "button": {
         "border-radius": {
-          "value": "{core.borderRadius.plus2}",
+          "value": "{core.borderRadius.plus1}",
           "type": "borderRadius"
         }
       },
