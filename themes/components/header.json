@@ -45,6 +45,15 @@
       "value": {
         "fontFamily": "{theme.font.family.body}",
         "fontWeight": "{theme.font.weight.bold}",
+        "lineHeight": "{theme.font.lineheight.sm}",
+        "fontSize": "{theme.font.size.sm}"
+      },
+      "type": "typography"
+    },
+    "action-font-bold-small": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.bold}",
         "lineHeight": "{theme.font.lineheight.xs}",
         "fontSize": "{theme.font.size.xs}"
       },
