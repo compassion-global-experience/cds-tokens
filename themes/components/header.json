@@ -157,6 +157,24 @@
         "value": "{theme.color.actions.accent.default}",
         "type": "color"
       }
+    },
+    "primary-amplified": {
+      "background-color": {
+        "value": "{theme.color.background.primary-amplified}",
+        "type": "color"
+      },
+      "action-color": {
+        "value": "{theme.color.text.on-primary}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{theme.color.background.primary-amplified}",
+        "type": "color"
+      },
+      "logo-color": {
+        "value": "{theme.color.logo.inverse}",
+        "type": "color"
+      }
     }
   }
 }
