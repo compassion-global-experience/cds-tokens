@@ -149,6 +149,7 @@
   --header-uppercase: uppercase;
   --header-action-font-small: 13px/16px Gotham Medium;
   --header-action-hover-color-accent: #FFB500;
+  --header-action-default-color-accent: #FFB500;
   --header-action-hover-border-bottom-accent: #FFB500;
   --header-primary-amplified-background-color: #004180;
   --header-primary-amplified-action-color: #ffffff;
