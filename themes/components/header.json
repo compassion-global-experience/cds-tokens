@@ -153,6 +153,10 @@
         "value": "{theme.color.actions.accent.default}",
         "type": "color"
       },
+      "default-color-accent": {
+        "value": "{theme.color.actions.accent.default}",
+        "type": "color"
+      },
       "hover-border-bottom-accent": {
         "value": "{theme.color.actions.accent.default}",
         "type": "color"
