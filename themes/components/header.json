@@ -28,10 +28,6 @@
       "value": "{core.border-width.1}",
       "type": "borderWidth"
     },
-    "border-width-action": {
-      "value": "{core.border-width.4}",
-      "type": "borderWidth"
-    },
     "border-radius": {
       "value": "{theme.ui.border-radius.none}",
       "type": "borderRadius"
@@ -42,24 +38,6 @@
         "fontWeight": "{theme.font.weight.semibold}",
         "lineHeight": "{theme.font.lineheight.sm}",
         "fontSize": "{theme.font.size.sm}"
-      },
-      "type": "typography"
-    },
-    "action-font-bold": {
-      "value": {
-        "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.bold}",
-        "lineHeight": "{theme.font.lineheight.sm}",
-        "fontSize": "{theme.font.size.sm}"
-      },
-      "type": "typography"
-    },
-    "action-font-bold-small": {
-      "value": {
-        "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.bold}",
-        "lineHeight": "{theme.font.lineheight.xs}",
-        "fontSize": "{theme.font.size.xs}"
       },
       "type": "typography"
     },
@@ -74,105 +52,6 @@
       },
       "border-color": {
         "value": "{theme.color.background.primary}",
-        "type": "color"
-      },
-      "logo-color": {
-        "value": "{theme.color.logo.inverse}",
-        "type": "color"
-      }
-    },
-    "secondary": {
-      "background-color": {
-        "value": "{theme.color.background.secondary}",
-        "type": "color"
-      },
-      "action-color": {
-        "value": "{theme.color.text.on-primary}",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "{theme.color.background.secondary}",
-        "type": "color"
-      },
-      "logo-color": {
-        "value": "{theme.color.logo.inverse}",
-        "type": "color"
-      }
-    },
-    "accent": {
-      "background-color": {
-        "value": "{theme.color.background.accent}",
-        "type": "color"
-      },
-      "action-color": {
-        "value": "{theme.color.text.on-primary}",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "{theme.color.background.accent}",
-        "type": "color"
-      },
-      "logo-color": {
-        "value": "{theme.color.logo.inverse}",
-        "type": "color"
-      }
-    },
-    "neutral": {
-      "background-color": {
-        "value": "{theme.color.actions.disabled.subtle}",
-        "type": "color"
-      },
-      "action-color": {
-        "value": "{theme.color.text.subtle}",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "{theme.color.actions.disabled.subtle}",
-        "type": "color"
-      },
-      "logo-color": {
-        "value": "{theme.color.logo.default}",
-        "type": "color"
-      }
-    },
-    "uppercase": {
-      "value": "uppercase",
-      "type": "textCase"
-    },
-    "action-font-small": {
-      "value": {
-        "fontFamily": "{theme.font.family.body}",
-        "lineHeight": "{theme.font.lineheight.xxs}",
-        "fontSize": "{theme.font.size.xxs}",
-        "fontWeight": "{theme.font.weight.semibold}"
-      },
-      "type": "typography"
-    },
-    "action": {
-      "hover-color-accent": {
-        "value": "{theme.color.actions.accent.default}",
-        "type": "color"
-      },
-      "default-color-accent": {
-        "value": "{theme.color.actions.accent.default}",
-        "type": "color"
-      },
-      "hover-border-bottom-accent": {
-        "value": "{theme.color.actions.accent.default}",
-        "type": "color"
-      }
-    },
-    "primary-amplified": {
-      "background-color": {
-        "value": "{theme.color.background.primary-amplified}",
-        "type": "color"
-      },
-      "action-color": {
-        "value": "{theme.color.text.on-primary}",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "{theme.color.background.primary-amplified}",
         "type": "color"
       },
       "logo-color": {
