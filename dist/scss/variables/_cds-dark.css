@@ -125,9 +125,11 @@
   --header-default-logo-color: #ffffff;
   --header-shadow-default: 0px 0.475px 0.6px -1.25px #00000014, 0px 3.75px 5px -1.25px #00000026;
   --header-border-width: 1px;
+  --header-border-width-action: 4px;
   --header-border-radius: 0px;
   --header-action-font: 16px/20px Gotham Medium;
-  --header-action-font-bold: 13px/16px Gotham Bold;
+  --header-action-font-bold: 16px/20px Gotham Bold;
+  --header-action-font-bold-small: 13px/16px Gotham Bold;
   --header-primary-background-color: #004180;
   --header-primary-action-color: #ffffff;
   --header-primary-border-color: #004180;
@@ -145,6 +147,13 @@
   --header-neutral-border-color: #2e2f2a;
   --header-neutral-logo-color: #ffffff;
   --header-uppercase: uppercase;
+  --header-action-font-small: 13px/16px Gotham Medium;
+  --header-action-hover-color-accent: #FFB500;
+  --header-action-hover-border-bottom-accent: #FFB500;
+  --header-primary-amplified-background-color: #005EB8;
+  --header-primary-amplified-action-color: #ffffff;
+  --header-primary-amplified-border-color: #005EB8;
+  --header-primary-amplified-logo-color: #ffffff;
   --breakpoints-xs: 320px;
   --breakpoints-sm: 576px;
   --breakpoints-md: 768px;
