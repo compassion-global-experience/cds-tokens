@@ -24,11 +24,11 @@
         "type": "boxShadow"
       }
     },
-    "borderWidth": {
+    "border-width": {
       "value": "{core.border-width.1}",
       "type": "borderWidth"
     },
-    "borderWidth-action": {
+    "border-width-action": {
       "value": "{core.border-width.4}",
       "type": "borderWidth"
     },
