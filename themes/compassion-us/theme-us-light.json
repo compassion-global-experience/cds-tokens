@@ -3,7 +3,7 @@
     "actions": {
       "button": {
         "border-radius": {
-          "value": "{core.borderRadius.plus1}",
+          "value": "{core.borderRadius.plus2}",
           "type": "borderRadius"
         }
       },
@@ -43,6 +43,14 @@
             "value": "{core.space.plus2}",
             "type": "spacing"
           }
+        },
+        "border-width": {
+          "value": "{core.border-width.1}",
+          "type": "borderWidth"
+        },
+        "underline": {
+          "value": "{core.border-width.0}",
+          "type": "borderWidth"
         }
       },
       "secondary": {
@@ -75,6 +83,14 @@
             "value": "{core.space.plus2}",
             "type": "spacing"
           }
+        },
+        "border-width": {
+          "value": "{core.border-width.1}",
+          "type": "borderWidth"
+        },
+        "underline": {
+          "value": "{core.border-width.0}",
+          "type": "borderWidth"
         }
       },
       "tertiary": {
@@ -107,6 +123,14 @@
             "value": "{core.space.base}",
             "type": "spacing"
           }
+        },
+        "border-width": {
+          "value": "{core.border-width.0}",
+          "type": "borderWidth"
+        },
+        "underline": {
+          "value": "{core.border-width.1}",
+          "type": "borderWidth"
         }
       }
     },
