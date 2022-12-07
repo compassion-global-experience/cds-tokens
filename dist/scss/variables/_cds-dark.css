@@ -143,8 +143,15 @@
   --containers-lg: 960px;
   --containers-xl: 1140px;
   --containers-xxl: 1320px;
-  --form-select-option-default-text-color: #ffffff;
+  --form-input-color: #ffffff;
+  --form-placeholder-color: #919389;
+  --form-border-color: #4b4c45;
+  --form-background-color: #1d1e1b;
+  --form-icon-color: #ecedec;
+  --form-hint-text-color: #ecedec;
+  --form-label-color: #ffffff;
   --form-select-option-default-background-color: #2e2f2a;
+  --form-select-option-default-text-color: #ffffff;
   --form-select-option-hover-text-color: #61B3FF;
   --form-select-option-hover-background-color: #004180;
   --form-select-option-border-radius: 8px;
@@ -154,12 +161,6 @@
   --form-select-option-active-text-color: #ffffff;
   --form-select-option-active-background-color: #4b4c45;
   --form-select-option-shadow: 0px 0.475px 0.6px -1.25px #00000014, 0px 3.75px 5px -1.25px #00000026;
-  --form-label-color: #ffffff;
-  --form-hint-text-color: #ecedec;
-  --form-icon-color: #ecedec;
-  --form-background-color: #1d1e1b;
-  --form-border-color: #4b4c45;
-  --form-placeholder-color: #919389;
   --form-disabled-label-color: #acaea7;
   --form-disabled-input-color: #acaea7;
   --form-disabled-hint-color: #acaea7;
@@ -181,6 +182,7 @@
   --form-input-small: [object Object];
   --form-input-medium-padding-x: 16px;
   --form-input-medium-padding-y: 12px;
+  --form-input-large: [object Object];
   --form-border-radius-none: 0px;
   --form-hint-text: 10px/12px Gotham Book;
   --form-select-arrow: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='white' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
