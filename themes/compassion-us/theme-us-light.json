@@ -141,7 +141,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{core.color._nautilus.500}",
+          "value": "#425563",
           "type": "color"
         },
         "primary": {
@@ -177,7 +177,7 @@
           "type": "color"
         },
         "muted": {
-          "value": "{core.color._nautilus.400}",
+          "value": "#425563",
           "type": "color"
         }
       },
