@@ -137,7 +137,7 @@
         "type": "color"
       }
     },
-    "primary": {
+    "check-radio": {
       "default": {
         "value": "{theme.color.actions.primary.default}",
         "type": "color"
@@ -248,15 +248,25 @@
       "border-width": {
         "value": "{core.border-width.1}",
         "type": "borderWidth"
+      },
+      "PIN": {
+        "padding-x": {
+          "value": "{core.space.base} + 2",
+          "type": "spacing"
+        },
+        "padding-y": {
+          "value": "{accordion.padding-y} + 2",
+          "type": "spacing"
+        }
       }
-    },
-    "border-radius-none": {
-      "value": "0",
-      "type": "borderRadius"
     },
     "hint-text": {
       "value": "{core.typography.label.minus2.sans.regular}",
       "type": "typography"
+    },
+    "border-radius-none": {
+      "value": "0",
+      "type": "borderRadius"
     },
     "select": {
       "arrow": {
