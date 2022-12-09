@@ -177,7 +177,7 @@
           "type": "color"
         },
         "muted": {
-          "value": "{core.color.gray.minus1}",
+          "value": "{core.color._nautilus.400}",
           "type": "color"
         }
       },
