@@ -299,7 +299,7 @@
       }
     },
     "color": {
-      "value": "{theme.color.text.default}",
+      "value": "{theme.color.text.subtle}",
       "type": "color"
     },
     "color-white": {
