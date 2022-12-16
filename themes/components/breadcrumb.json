@@ -10,7 +10,7 @@
     },
     "active": {
       "action-color": {
-        "value": "{theme.color.actions.disabled.muted}",
+        "value": "{theme.color.text.muted}",
         "type": "color"
       }
     },
