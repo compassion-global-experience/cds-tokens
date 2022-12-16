@@ -202,9 +202,10 @@
   --dropdown-no-shadow: 0px 0px 0px 0px #00000000;
   --dropdown-border-width: 1px;
   --dropdown-no-border: 0px;
-  --dropdown-padding-left: 16px;
-  --dropdown-padding-right: 16px;
+  --dropdown-padding-y: 12px;
+  --dropdown-padding-x: 16px;
   --dropdown-font: 16px/20px Gotham Book;
+  --dropdown-divider-padding-y: 6px;
   --card-background-color: #ffffff;
   --card-header-color: #005EB8;
   --card-subhead-color: #2e2f2a;
@@ -285,7 +286,7 @@
   --button-shadow-active: 0px 0.475px 0.6px -1.25px #00000014, 0px 3.75px 5px -1.25px #00000026;
   --breadcrumb-divider-color: #acaea7;
   --breadcrumb-action-color: #005EB8;
-  --breadcrumb-active-action-color: #acaea7;
+  --breadcrumb-active-action-color: #4b4c45;
   --breadcrumb-md-font: 16px/20px Gotham Medium;
   --breadcrumb-sm-font: 13px/16px Gotham Medium;
   --badge-primary-background-color: #005EB8;
