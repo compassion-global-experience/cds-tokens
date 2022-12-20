@@ -342,7 +342,7 @@
         }
       },
       "white": {
-        "value": "#ffffff",
+        "value": "#FFFFFF",
         "type": "color"
       },
       "black": {
