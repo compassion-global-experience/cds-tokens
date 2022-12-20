@@ -86,7 +86,7 @@
     "action-font": {
       "value": {
         "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.semibold}",
+        "fontWeight": "{theme.font.weight.regular}",
         "lineHeight": "{theme.font.lineheight.sm}",
         "fontSize": "{theme.font.size.sm}"
       },
