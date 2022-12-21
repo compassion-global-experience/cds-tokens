@@ -58,6 +58,14 @@
         "lineHeight": "{theme.font.lineheight.sm}"
       },
       "type": "typography"
+    },
+    "padding-x": {
+      "value": "{core.space.plus2}",
+      "type": "spacing"
+    },
+    "padding-y": {
+      "value": "{core.space.plus2}",
+      "type": "spacing"
     }
   }
 }
