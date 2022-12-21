@@ -28,7 +28,7 @@
       "value": "{core.depth.plus1}",
       "type": "boxShadow"
     },
-    "borderWidth": {
+    "border-width": {
       "value": "{core.border-width.1}",
       "type": "borderWidth"
     },
