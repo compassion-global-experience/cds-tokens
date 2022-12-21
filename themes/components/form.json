@@ -255,7 +255,7 @@
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{accordion.padding-y} + 2",
+          "value": "{core.space.plus1} + 2",
           "type": "spacing"
         }
       }
