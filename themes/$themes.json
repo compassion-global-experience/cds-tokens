@@ -12,7 +12,6 @@
       "components/alert": "enabled",
       "components/pagination": "enabled",
       "components/badge": "enabled",
-      "neighbour-institute/theme-ni": "disabled",
       "components/dropdown": "enabled",
       "components/tab": "enabled",
       "components/spacing": "enabled",
@@ -26,7 +25,6 @@
       "components/tooltip": "enabled",
       "components/breadcrumb": "enabled",
       "components/accordion": "enabled",
-      "compassion-us/theme-us-light": "disabled",
       "components/list-group": "enabled"
     },
     "$figmaStyleReferences": {
@@ -225,13 +223,11 @@
       "components/table": "enabled",
       "components/type": "enabled",
       "components/background": "enabled",
-      "cds-dark/theme-cds-dark": "disabled",
       "cds-light/theme-cds-light": "enabled",
       "components/header": "enabled",
       "components/tooltip": "enabled",
       "components/breadcrumb": "enabled",
       "components/accordion": "enabled",
-      "compassion-us/theme-us-light": "disabled",
       "components/list-group": "enabled"
     },
     "$figmaStyleReferences": {}
@@ -249,7 +245,6 @@
       "components/alert": "enabled",
       "components/pagination": "enabled",
       "components/badge": "enabled",
-      "neighbour-institute/theme-ni": "disabled",
       "components/dropdown": "enabled",
       "components/tab": "enabled",
       "components/spacing": "enabled",
@@ -257,13 +252,11 @@
       "components/table": "enabled",
       "components/type": "enabled",
       "components/background": "enabled",
-      "cds-dark/theme-cds-dark": "disabled",
       "cds-light/theme-cds-light": "enabled",
       "components/header": "enabled",
       "components/tooltip": "enabled",
       "components/breadcrumb": "enabled",
       "components/accordion": "enabled",
-      "compassion-us/theme-us-light": "disabled",
       "components/list-group": "enabled"
     },
     "$figmaStyleReferences": {
@@ -446,7 +439,6 @@
     "name": "compassion-us",
     "selectedTokenSets": {
       "core/cds-core": "source",
-      "cds-light/theme-cds-light": "disabled",
       "components/accordion": "enabled",
       "components/alert": "enabled",
       "components/background": "enabled",
@@ -466,8 +458,6 @@
       "components/toast": "enabled",
       "components/tooltip": "enabled",
       "components/type": "enabled",
-      "cds-dark/theme-cds-dark": "disabled",
-      "neighbour-institute/theme-ni": "disabled",
       "compassion-us/theme-us-light": "enabled",
       "components/list-group": "enabled"
     },
