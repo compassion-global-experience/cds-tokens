@@ -77,10 +77,8 @@
   --tab-no-shadow: 0px 0px 0px 0px #00000000;
   --tab-border-width: 1px;
   --tab-no-border: 0px;
-  --tab-padding-left: 16px;
-  --tab-padding-top: 12px;
-  --tab-padding-bottom: 12px;
-  --tab-padding-right: 16px;
+  --tab-padding-x: 16px;
+  --tab-padding-y: 12px;
   --tab-font: 16px/20px Gotham Medium;
   --margin-1: 8px;
   --margin-2: 12px;
