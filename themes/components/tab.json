@@ -66,20 +66,12 @@
       "value": "{core.border-width.0}",
       "type": "borderWidth"
     },
-    "padding-left": {
+    "padding-x": {
       "value": "{padding.3}",
       "type": "spacing"
     },
-    "padding-top": {
+    "padding-y": {
       "value": "{padding.2}",
-      "type": "spacing"
-    },
-    "padding-bottom": {
-      "value": "{padding.2}",
-      "type": "spacing"
-    },
-    "padding-right": {
-      "value": "{padding.3}",
       "type": "spacing"
     },
     "font": {
