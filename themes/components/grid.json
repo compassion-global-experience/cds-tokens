@@ -27,7 +27,7 @@
   },
   "containers": {
     "xs": {
-      "value": "{breakpoints.xs} - 30",
+      "value": "{core.size.breakpoints.xs} - 30",
       "type": "sizing"
     },
     "sm": {
