@@ -156,14 +156,38 @@
         "value": "{core.border-width.1}",
         "type": "borderWidth"
       },
-      "small": {
-        "value": {
-          "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{theme.font.weight.regular}",
-          "lineHeight": "{theme.font.lineheight.xs}",
-          "fontSize": "{theme.font.size.xs}"
+      "text": {
+        "small": {
+          "value": {
+            "fontFamily": "{theme.font.family.body}",
+            "fontWeight": "{theme.font.weight.regular}",
+            "lineHeight": "{theme.font.lineheight.xs}",
+            "fontSize": "{theme.font.size.xs}"
+          },
+          "type": "typography"
         },
-        "type": "typography",
+        "medium": {
+          "value": {
+            "fontFamily": "{theme.font.family.body}",
+            "fontWeight": "{theme.font.weight.regular}",
+            "lineHeight": "{theme.font.lineheight.sm}",
+            "fontSize": "{theme.font.size.sm}"
+          },
+          "type": "typography"
+        }
+      },
+      "test": {
+        "large": {
+          "value": {
+            "fontFamily": "{theme.font.family.body}",
+            "fontWeight": "{theme.font.weight.regular}",
+            "lineHeight": "{theme.font.lineheight.md}",
+            "fontSize": "{theme.font.size.md}"
+          },
+          "type": "typography"
+        }
+      },
+      "small": {
         "padding-x": {
           "value": "{core.space.base}",
           "type": "spacing"
@@ -174,13 +198,6 @@
         }
       },
       "medium": {
-        "value": {
-          "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{theme.font.weight.regular}",
-          "lineHeight": "{theme.font.lineheight.sm}",
-          "fontSize": "{theme.font.size.sm}"
-        },
-        "type": "typography",
         "padding-x": {
           "value": "{core.space.plus2}",
           "type": "spacing"
@@ -191,13 +208,6 @@
         }
       },
       "large": {
-        "value": {
-          "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{theme.font.weight.regular}",
-          "lineHeight": "{theme.font.lineheight.md}",
-          "fontSize": "{theme.font.size.md}"
-        },
-        "type": "typography",
         "padding-x": {
           "value": "{core.space.plus3}",
           "type": "spacing"
