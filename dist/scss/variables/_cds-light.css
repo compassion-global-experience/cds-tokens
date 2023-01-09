@@ -174,10 +174,10 @@
   --form-check-radio-hover: #007BF0;
   --form-input-border-radius: 4px;
   --form-input-label-text: 13px/16px Gotham Medium;
+  --form-input-border-width: 1px;
   --form-input-medium: [object Object];
   --form-input-small: [object Object];
   --form-input-large: [object Object];
-  --form-input-border-width: 1px;
   --form-input-pin-padding-x: 10px;
   --form-input-pin-padding-y: 14px;
   --form-hint-text: 10px/12px Gotham Book;
