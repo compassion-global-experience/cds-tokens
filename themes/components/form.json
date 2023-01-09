@@ -174,9 +174,7 @@
             "fontSize": "{theme.font.size.sm}"
           },
           "type": "typography"
-        }
-      },
-      "test": {
+        },
         "large": {
           "value": {
             "fontFamily": "{theme.font.family.body}",
@@ -240,6 +238,37 @@
         "fontSize": "{theme.font.size.sm}"
       },
       "type": "typography"
+    },
+    "input-group": {
+      "text": {
+        "small": {
+          "value": {
+            "fontFamily": "{theme.font.family.body}",
+            "fontWeight": "{theme.font.weight.semibold}",
+            "lineHeight": "{theme.font.lineheight.xs}",
+            "fontSize": "{theme.font.size.xs}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{theme.font.family.body}",
+            "fontWeight": "{theme.font.weight.semibold}",
+            "lineHeight": "{theme.font.lineheight.sm}",
+            "fontSize": "{theme.font.size.sm}"
+          },
+          "type": "typography"
+        },
+        "large": {
+          "value": {
+            "fontFamily": "{theme.font.family.body}",
+            "fontWeight": "{theme.font.weight.semibold}",
+            "lineHeight": "{theme.font.lineheight.md}",
+            "fontSize": "{theme.font.size.md}"
+          },
+          "type": "typography"
+        }
+      }
     }
   }
 }
