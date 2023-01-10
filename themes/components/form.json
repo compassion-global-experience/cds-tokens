@@ -183,6 +183,15 @@
             "fontSize": "{theme.font.size.md}"
           },
           "type": "typography"
+        },
+        "label": {
+          "value": {
+            "fontFamily": "{theme.font.family.body}",
+            "fontWeight": "{theme.font.weight.semibold}",
+            "lineHeight": "{theme.font.lineheight.xs}",
+            "fontSize": "{theme.font.size.xs}"
+          },
+          "type": "typography"
         }
       },
       "small": {
