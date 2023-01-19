@@ -46,5 +46,23 @@
         "type": "typography"
       }
     }
+  },
+  "default": {
+    "max-width": {
+      "value": "660",
+      "type": "sizing"
+    }
+  },
+  "small": {
+    "max-width": {
+      "value": "320",
+      "type": "sizing"
+    }
+  },
+  "wide": {
+    "max-width": {
+      "value": "990",
+      "type": "sizing"
+    }
   }
 }
