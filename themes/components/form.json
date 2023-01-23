@@ -333,6 +333,15 @@
           "value": "{theme.color.background.primary-subtle}",
           "type": "color"
         }
+      },
+      "text": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.semibold}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
+        "type": "typography"
       }
     }
   },
