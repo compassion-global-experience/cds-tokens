@@ -16,6 +16,7 @@
     "components/modal",
     "components/header",
     "components/pagination",
+    "components/progress-bar",
     "components/spacing",
     "components/tab",
     "components/table",

@@ -1,0 +1,45 @@
+{
+  "progress-bar": {
+    "label": {
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.regular}",
+        "lineHeight": "{theme.font.lineheight.xs}",
+        "fontSize": "{theme.font.size.xs}"
+      },
+      "type": "typography"
+    }
+  },
+  "progress": {
+    "progress-color": {
+      "value": "{theme.color.background.primary}",
+      "type": "color"
+    },
+    "background-color": {
+      "value": "{theme.color.background.surface}",
+      "type": "color"
+    },
+    "label-color": {
+      "value": "{theme.color.text.subtle}",
+      "type": "color"
+    },
+    "default": {
+      "height": {
+        "value": "{core.size.base}",
+        "type": "sizing"
+      }
+    },
+    "small": {
+      "height": {
+        "value": "{core.size.minus1}",
+        "type": "sizing"
+      }
+    },
+    "large": {
+      "height": {
+        "value": "{core.size.plus1}",
+        "type": "sizing"
+      }
+    }
+  }
+}
