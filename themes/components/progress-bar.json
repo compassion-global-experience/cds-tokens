@@ -1,5 +1,5 @@
 {
-  "progress-bar": {
+  "progress": {
     "label": {
       "value": {
         "fontFamily": "{theme.font.family.body}",
@@ -8,9 +8,7 @@
         "fontSize": "{theme.font.size.xs}"
       },
       "type": "typography"
-    }
-  },
-  "progress": {
+    },
     "progress-color": {
       "value": "{theme.color.background.primary}",
       "type": "color"
