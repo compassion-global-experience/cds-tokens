@@ -5,6 +5,10 @@
       "type": "color"
     },
     "header-color": {
+      "value": "{theme.color.text.subtle}",
+      "type": "color"
+    },
+    "header-color-link": {
       "value": "{theme.color.text.primary}",
       "type": "color"
     },
