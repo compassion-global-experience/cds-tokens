@@ -229,7 +229,8 @@
   --dropdown-font: 16px/20px Gotham Book;
   --dropdown-divider-padding-y: 6px;
   --card-background-color: #2e2f2a;
-  --card-header-color: #61B3FF;
+  --card-header-color: #FFFFFF;
+  --card-header-color-link: #61B3FF;
   --card-subhead-color: #FFFFFF;
   --card-body-color: #FFFFFF;
   --card-border-color: #4b4c45;
