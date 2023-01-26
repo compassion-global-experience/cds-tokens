@@ -1,0 +1,28 @@
+{
+  "border": {
+    "color": {
+      "neutral": {
+        "value": "{theme.color.background.surface}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{theme.color.text.primary}",
+        "type": "color"
+      }
+    },
+    "radius": {
+      "none": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "rounded": {
+        "value": "{theme.ui.border-radius.md}",
+        "type": "borderRadius"
+      }
+    },
+    "width": {
+      "value": "1",
+      "type": "borderWidth"
+    }
+  }
+}

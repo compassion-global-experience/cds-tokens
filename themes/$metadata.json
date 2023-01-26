@@ -6,6 +6,7 @@
     "components/alert",
     "components/background",
     "components/badge",
+    "components/border",
     "components/breadcrumb",
     "components/button",
     "components/card",
