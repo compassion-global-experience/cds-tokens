@@ -144,6 +144,7 @@
   --containers-lg: 960px;
   --containers-xl: 1140px;
   --containers-xxl: 1320px;
+  --containers-fluid: 100%px;
   --form-input-color: #2e2f2a;
   --form-placeholder-color: #acaea7;
   --form-border-color: #e3e4e2;
