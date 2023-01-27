@@ -21,8 +21,14 @@
       }
     },
     "width": {
-      "value": "1",
-      "type": "borderWidth"
+      "default": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "none": {
+        "value": "0",
+        "type": "borderWidth"
+      }
     }
   }
 }
