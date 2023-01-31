@@ -47,7 +47,7 @@
       "type": "sizing"
     },
     "xxl": {
-      "value": "{core.size.breakpoints.xxl} - 80",
+      "value": "{core.size.breakpoints.xl} - 60",
       "type": "sizing"
     },
     "fluid": {
