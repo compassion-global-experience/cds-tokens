@@ -1,0 +1,40 @@
+{
+  "link": {
+    "color": {
+      "default": {
+        "value": "{theme.color.actions.primary.default}",
+        "type": "color"
+      },
+      "white": {
+        "value": "{core.color.white}",
+        "type": "color"
+      }
+    },
+    "text-decoration": {
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration"
+      }
+    },
+    "font": {
+      "default": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.regular}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
+        "type": "typography"
+      },
+      "bold": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.bold}",
+          "lineHeight": "{theme.font.lineheight.sm}",
+          "fontSize": "{theme.font.size.sm}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}
