@@ -28,8 +28,7 @@
       "components/list-group": "enabled",
       "components/progress-bar": "enabled",
       "components/nav": "enabled",
-      "components/border": "enabled",
-      "components/link": "disabled"
+      "components/border": "enabled"
     },
     "$figmaStyleReferences": {}
   },
