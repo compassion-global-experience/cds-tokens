@@ -183,11 +183,11 @@
       },
       "background": {
         "default": {
-          "value": "{core.color.gray.minus3}",
+          "value": "#0c152a",
           "type": "color"
         },
         "canvas": {
-          "value": "{core.color.gray.minus2}",
+          "value": "#0c152a",
           "type": "color"
         },
         "surface": {
@@ -446,15 +446,15 @@
         },
         "heading": {
           "regular": {
-            "value": "{core.fontWeight.sans.regular}",
+            "value": "Regular",
             "type": "fontWeights"
           },
           "semibold": {
-            "value": "{core.fontWeight.sans.medium}",
+            "value": "Regular",
             "type": "fontWeights"
           },
           "bold": {
-            "value": "{core.fontWeight.sans.bold}",
+            "value": "Regular",
             "type": "fontWeights"
           }
         }
