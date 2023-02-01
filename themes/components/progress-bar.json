@@ -3,7 +3,7 @@
     "label": {
       "value": {
         "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.regular}",
+        "fontWeight": "{theme.font.weight.body.regular}",
         "lineHeight": "{theme.font.lineheight.xs}",
         "fontSize": "{theme.font.size.xs}"
       },

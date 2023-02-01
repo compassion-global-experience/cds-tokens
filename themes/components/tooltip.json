@@ -19,7 +19,7 @@
     "font": {
       "value": {
         "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.regular}",
+        "fontWeight": "{theme.font.weight.body.regular}",
         "lineHeight": "{theme.font.lineheight.xs} -3",
         "fontSize": "{theme.font.size.xs} -3"
       },

@@ -430,17 +430,33 @@
         }
       },
       "weight": {
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
+        "body": {
+          "regular": {
+            "value": "Regular",
+            "type": "fontWeights"
+          },
+          "semibold": {
+            "value": "SemiBold",
+            "type": "fontWeights"
+          },
+          "bold": {
+            "value": "Bold",
+            "type": "fontWeights"
+          }
         },
-        "semibold": {
-          "value": "SemiBold",
-          "type": "fontWeights"
-        },
-        "bold": {
-          "value": "Bold",
-          "type": "fontWeights"
+        "header": {
+          "regular": {
+            "value": "Regular",
+            "type": "fontWeights"
+          },
+          "semibold": {
+            "value": "SemiBold",
+            "type": "fontWeights"
+          },
+          "bold": {
+            "value": "Bold",
+            "type": "fontWeights"
+          }
         }
       },
       "size": {

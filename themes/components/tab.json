@@ -77,7 +77,7 @@
     "font": {
       "value": {
         "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.semibold}",
+        "fontWeight": "{theme.font.weight.body.semibold}",
         "lineHeight": "{theme.font.lineheight.sm}",
         "fontSize": "{theme.font.size.sm}"
       },

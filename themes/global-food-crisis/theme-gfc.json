@@ -430,17 +430,33 @@
         }
       },
       "weight": {
-        "regular": {
-          "value": "{core.fontWeight.sans.regular}",
-          "type": "fontWeights"
+        "body": {
+          "regular": {
+            "value": "{core.fontWeight.sans.regular}",
+            "type": "fontWeights"
+          },
+          "semibold": {
+            "value": "{core.fontWeight.sans.medium}",
+            "type": "fontWeights"
+          },
+          "bold": {
+            "value": "{core.fontWeight.sans.bold}",
+            "type": "fontWeights"
+          }
         },
-        "semibold": {
-          "value": "{core.fontWeight.sans.medium}",
-          "type": "fontWeights"
-        },
-        "bold": {
-          "value": "{core.fontWeight.sans.bold}",
-          "type": "fontWeights"
+        "heading": {
+          "regular": {
+            "value": "{core.fontWeight.sans.regular}",
+            "type": "fontWeights"
+          },
+          "semibold": {
+            "value": "{core.fontWeight.sans.medium}",
+            "type": "fontWeights"
+          },
+          "bold": {
+            "value": "{core.fontWeight.sans.bold}",
+            "type": "fontWeights"
+          }
         }
       },
       "size": {

@@ -28,7 +28,7 @@
       "font": {
         "value": {
           "fontFamily": "{theme.font.family.heading}",
-          "fontWeight": "{theme.font.weight.regular}",
+          "fontWeight": "{theme.font.weight.body.regular}",
           "fontSize": "{theme.font.size.lg}",
           "lineHeight": "{theme.font.lineheight.lg}"
         },
@@ -39,7 +39,7 @@
       "font": {
         "value": {
           "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{theme.font.weight.regular}",
+          "fontWeight": "{theme.font.weight.body.regular}",
           "lineHeight": "{theme.font.lineheight.sm}",
           "fontSize": "{theme.font.size.sm}"
         },

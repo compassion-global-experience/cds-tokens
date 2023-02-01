@@ -77,7 +77,7 @@
     "heading-font": {
       "value": {
         "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.bold}",
+        "fontWeight": "{theme.font.weight.body.bold}",
         "lineHeight": "{theme.font.lineheight.sm}",
         "fontSize": "{theme.font.size.sm}"
       },
@@ -86,7 +86,7 @@
     "action-font": {
       "value": {
         "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.regular}",
+        "fontWeight": "{theme.font.weight.body.regular}",
         "lineHeight": "{theme.font.lineheight.sm}",
         "fontSize": "{theme.font.size.sm}"
       },
@@ -95,7 +95,7 @@
     "body-font": {
       "value": {
         "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.regular}",
+        "fontWeight": "{theme.font.weight.body.regular}",
         "lineHeight": "{theme.font.lineheight.sm}",
         "fontSize": "{theme.font.size.sm}"
       },

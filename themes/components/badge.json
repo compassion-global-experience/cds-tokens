@@ -131,7 +131,7 @@
     "font": {
       "value": {
         "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.bold}",
+        "fontWeight": "{theme.font.weight.body.bold}",
         "lineHeight": "{theme.font.lineheight.xs} -3",
         "fontSize": "{theme.font.size.xs} -3"
       },
