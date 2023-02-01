@@ -27,6 +27,7 @@
     "components/tooltip",
     "components/type",
     "cds-dark/theme-cds-dark",
+    "global-food-crisis/theme-gfc",
     "neighbour-institute/theme-ni",
     "compassion-us/theme-us-light"
   ]

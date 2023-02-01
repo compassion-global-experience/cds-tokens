@@ -28,7 +28,8 @@
       "components/list-group": "enabled",
       "components/progress-bar": "enabled",
       "components/nav": "enabled",
-      "components/border": "enabled"
+      "components/border": "enabled",
+      "global-food-crisis/theme-gfc": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -59,7 +60,8 @@
       "compassion-us/theme-us-light": "enabled",
       "components/list-group": "enabled",
       "components/border": "enabled",
-      "components/link": "enabled"
+      "components/link": "enabled",
+      "global-food-crisis/theme-gfc": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -92,7 +94,8 @@
       "components/progress-bar": "enabled",
       "components/nav": "enabled",
       "components/border": "enabled",
-      "components/link": "enabled"
+      "components/link": "enabled",
+      "global-food-crisis/theme-gfc": "disabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:c2366ebf641bd515d18f7f9bf103801084862014,",
@@ -299,7 +302,8 @@
       "components/progress-bar": "enabled",
       "components/nav": "enabled",
       "components/border": "enabled",
-      "components/link": "enabled"
+      "components/link": "enabled",
+      "global-food-crisis/theme-gfc": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -475,5 +479,37 @@
       "button.shadow.active": "S:2df49ca8966d8692b8acc6f589447f3c52cdaf14,",
       "ui.alert.shadow": "S:f53912406c136ae9317abc462c38c5ca8fbde2c4,"
     }
+  },
+  {
+    "id": "5a1aba2fdd974c3676423ec123104516b118b1ba",
+    "name": "global-food-crisis",
+    "selectedTokenSets": {
+      "core/cds-core": "source",
+      "components/accordion": "enabled",
+      "components/alert": "enabled",
+      "components/background": "enabled",
+      "components/badge": "enabled",
+      "components/breadcrumb": "enabled",
+      "components/button": "enabled",
+      "components/card": "enabled",
+      "components/dropdown": "enabled",
+      "components/form": "enabled",
+      "components/grid": "enabled",
+      "components/header": "enabled",
+      "components/list-group": "enabled",
+      "components/modal": "enabled",
+      "components/pagination": "enabled",
+      "components/spacing": "enabled",
+      "components/tab": "enabled",
+      "components/table": "enabled",
+      "components/toast": "enabled",
+      "components/tooltip": "enabled",
+      "components/type": "enabled",
+      "components/border": "enabled",
+      "components/link": "enabled",
+      "components/nav": "enabled",
+      "global-food-crisis/theme-gfc": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
