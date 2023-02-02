@@ -191,7 +191,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "#3d4455",
+          "value": "#555b6a",
           "type": "color"
         },
         "primary": {
@@ -242,7 +242,7 @@
             "type": "color"
           },
           "subtle": {
-            "value": "#cbb200",
+            "value": "#4c4300",
             "type": "color"
           },
           "amplified": {
@@ -278,7 +278,7 @@
         },
         "disabled": {
           "default": {
-            "value": "#b6b9bf",
+            "value": "#9ea1aa",
             "type": "color"
           },
           "muted": {
