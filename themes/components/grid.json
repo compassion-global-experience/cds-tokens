@@ -23,10 +23,6 @@
     "xxl": {
       "value": "{core.size.breakpoints.xxl}",
       "type": "sizing"
-    },
-    "fluid": {
-      "value": "100%",
-      "type": "sizing"
     }
   },
   "containers": {

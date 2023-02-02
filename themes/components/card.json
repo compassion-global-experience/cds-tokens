@@ -9,7 +9,7 @@
       "type": "color"
     },
     "header-color-link": {
-      "value": "{theme.color.text.primary}",
+      "value": "{theme.color.actions.primary.default}",
       "type": "color"
     },
     "subhead-color": {

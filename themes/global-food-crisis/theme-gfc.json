@@ -187,11 +187,11 @@
           "type": "color"
         },
         "canvas": {
-          "value": "#0c152a",
+          "value": "#242c3f",
           "type": "color"
         },
         "surface": {
-          "value": "{core.color.gray.minus1}",
+          "value": "#3d4455",
           "type": "color"
         },
         "primary": {
@@ -234,19 +234,19 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{core.color._endeavour.300}",
+            "value": "#fedf00",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color._endeavour.500}",
+            "value": "#fff5b3",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color._endeavour.700}",
+            "value": "#cbb200",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color._endeavour.100}",
+            "value": "#fffce6",
             "type": "color"
           },
           "inverted": {
@@ -278,19 +278,19 @@
         },
         "disabled": {
           "default": {
-            "value": "{core.color.gray.plus2}",
+            "value": "#b6b9bf",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color.gray.plus1}",
+            "value": "#868a95",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color.gray.minus2}",
+            "value": "#242c3f",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color.gray.minus1}",
+            "value": "#3d4455",
             "type": "color"
           },
           "inverted": {
