@@ -41,11 +41,11 @@
       },
       "hover": {
         "text-color": {
-          "value": "{theme.color.text.primary}",
+          "value": "{theme.color.actions.primary.default}",
           "type": "color"
         },
         "background-color": {
-          "value": "{theme.color.text.primary-subtle}",
+          "value": "{theme.color.actions.primary.subtle}",
           "type": "color"
         }
       },
@@ -330,7 +330,7 @@
           "type": "color"
         },
         "background-color": {
-          "value": "{theme.color.background.primary-subtle}",
+          "value": "{theme.color.actions.primary.subtle}",
           "type": "color"
         }
       },
