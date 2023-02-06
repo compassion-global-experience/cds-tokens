@@ -28,7 +28,7 @@
       "font": {
         "value": {
           "fontFamily": "{theme.font.family.heading}",
-          "fontWeight": "{theme.font.weight.body.regular}",
+          "fontWeight": "{theme.font.weight.heading.regular}",
           "fontSize": "{theme.font.size.lg}",
           "lineHeight": "{theme.font.lineheight.lg}"
         },
