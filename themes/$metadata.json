@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "core/cds-core",
     "cds-light/theme-cds-light",
+    "tearfund/theme-tearfund",
     "components/accordion",
     "components/alert",
     "components/background",
