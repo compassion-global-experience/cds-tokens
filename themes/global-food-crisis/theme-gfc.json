@@ -384,6 +384,74 @@
           "value": "{core.color.white}",
           "type": "color"
         }
+      },
+      "buttons": {
+        "primary": {
+          "default": {
+            "value": "#fedf00",
+            "type": "color"
+          },
+          "muted": {
+            "value": "#fff5b3",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "#4c4300",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "#fffce6",
+            "type": "color"
+          },
+          "inverted": {
+            "value": "{core.color.black}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "default": {
+            "value": "#fedf00",
+            "type": "color"
+          },
+          "muted": {
+            "value": "#fff5b3",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "#4c4300",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "#fffce6",
+            "type": "color"
+          },
+          "inverted": {
+            "value": "{core.color.black}",
+            "type": "color"
+          }
+        },
+        "tertiary": {
+          "default": {
+            "value": "#fedf00",
+            "type": "color"
+          },
+          "muted": {
+            "value": "#fff5b3",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "#4c4300",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "#fffce6",
+            "type": "color"
+          },
+          "inverted": {
+            "value": "{core.color.black}",
+            "type": "color"
+          }
+        }
       }
     },
     "ui": {
