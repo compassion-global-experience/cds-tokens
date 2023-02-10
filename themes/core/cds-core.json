@@ -3107,7 +3107,7 @@
           "type": "lineHeights"
         },
         "base": {
-          "value": "round((round(({core.fontSize.minus1} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
+          "value": "round((round(({core.fontSize.base} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
           "type": "lineHeights"
         },
         "plus1": {
