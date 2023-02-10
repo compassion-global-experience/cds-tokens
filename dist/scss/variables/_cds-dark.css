@@ -17,16 +17,16 @@
   --type-heading-h4-mobile-bold: 20px/20px Gotham Bold;
   --type-heading-h5-desktop-regular: 20px/20px Gotham Book;
   --type-heading-h5-desktop-bold: 20px/20px Gotham Bold;
-  --type-heading-h5-mobile-regular: 16px/16px Gotham Book;
-  --type-heading-h5-mobile-bold: 16px/16px Gotham Bold;
-  --type-heading-h6-desktop-regular: 16px/16px Gotham Book;
-  --type-heading-h6-desktop-bold: 16px/16px Gotham Bold;
-  --type-heading-h6-mobile-regular: 16px/16px Gotham Book;
-  --type-heading-h6-mobile-bold: 16px/16px Gotham Bold;
-  --type-body-p-desktop-regular: 16px/16px Gotham Book;
-  --type-body-p-desktop-bold: 16px/16px Gotham Bold;
-  --type-body-p-mobile-regular: 16px/16px Gotham Book;
-  --type-body-p-mobile-bold: 16px/16px Gotham Bold;
+  --type-heading-h5-mobile-regular: 16px/20px Gotham Book;
+  --type-heading-h5-mobile-bold: 16px/20px Gotham Bold;
+  --type-heading-h6-desktop-regular: 16px/20px Gotham Book;
+  --type-heading-h6-desktop-bold: 16px/20px Gotham Bold;
+  --type-heading-h6-mobile-regular: 16px/20px Gotham Book;
+  --type-heading-h6-mobile-bold: 16px/20px Gotham Bold;
+  --type-body-p-desktop-regular: 16px/20px Gotham Book;
+  --type-body-p-desktop-bold: 16px/20px Gotham Bold;
+  --type-body-p-mobile-regular: 16px/20px Gotham Book;
+  --type-body-p-mobile-bold: 16px/20px Gotham Bold;
   --type-color: #FFFFFF;
   --type-color-white: #FFFFFF;
   --type-color-accent: #FFB500;
@@ -60,8 +60,8 @@
   --table-border-radius: 0px;
   --table-border-width: 1px;
   --table-no-border: 0px;
-  --table-header-font: 16px/16px Gotham Medium;
-  --table-cell-font: 16px/16px Gotham Regular;
+  --table-header-font: 16px/20px Gotham Medium;
+  --table-cell-font: 16px/20px Gotham Regular;
   --tab-background-color: #2e2f2a;
   --tab-border-color: #4b4c45;
   --tab-no-background: #00000000;
@@ -79,7 +79,7 @@
   --tab-no-border: 0px;
   --tab-padding-x: 16px;
   --tab-padding-y: 12px;
-  --tab-font: 16px/16px Gotham Medium;
+  --tab-font: 16px/20px Gotham Medium;
   --margin-1: 8px;
   --margin-2: 12px;
   --margin-3: 16px;
@@ -102,7 +102,7 @@
   --pagination-shadow: 0px 0.475px 0.6px -1.25px #00000014, 0px 3.75px 5px -1.25px #00000026;
   --pagination-md-padding-x: 16px;
   --pagination-md-padding-y: 12px;
-  --pagination-md-font: 16px/16px Gotham Medium;
+  --pagination-md-font: 16px/20px Gotham Medium;
   --pagination-sm-font: 13px/16px Gotham Medium;
   --pagination-sm-padding-x: 12px;
   --pagination-sm-padding-y: 8px;
@@ -116,7 +116,7 @@
   --modal-body-color: #FFFFFF;
   --modal-border-color: #4b4c45;
   --modal-header-font: 25px/28px Gotham Book;
-  --modal-body-font: 16px/16px Gotham Book;
+  --modal-body-font: 16px/20px Gotham Book;
   --modal-default-max-width: 660px;
   --modal-small-max-width: 320px;
   --modal-wide-max-width: 990px;
@@ -127,7 +127,7 @@
   --header-shadow-default: 0px 0.475px 0.6px -1.25px #00000014, 0px 3.75px 5px -1.25px #00000026;
   --header-border-width: 1px;
   --header-border-radius: 0px;
-  --header-action-font: 16px/16px Gotham Medium;
+  --header-action-font: 16px/20px Gotham Medium;
   --header-primary-background-color: #004180;
   --header-primary-action-color: #FFFFFF;
   --header-primary-border-color: #004180;
@@ -157,7 +157,7 @@
   --form-select-option-hover-text-color: #61B3FF;
   --form-select-option-hover-background-color: #004180;
   --form-select-option-border-radius: 8px;
-  --form-select-option-text: 16px/16px Gotham Medium;
+  --form-select-option-text: 16px/20px Gotham Medium;
   --form-select-option-padding-x: 16px;
   --form-select-option-padding-y: 12px;
   --form-select-option-active-text-color: #FFFFFF;
@@ -179,7 +179,7 @@
   --form-input-border-radius: 4px;
   --form-input-border-width: 1px;
   --form-input-text-small: 13px/16px Gotham Book;
-  --form-input-text-medium: 16px/16px Gotham Book;
+  --form-input-text-medium: 16px/20px Gotham Book;
   --form-input-text-large: 20px/20px Gotham Book;
   --form-input-text-label: 13px/16px Gotham Medium;
   --form-input-small-padding-x: 8px;
@@ -191,9 +191,9 @@
   --form-hint-text: 10px/12px Gotham Book;
   --form-border-radius-none: 0px;
   --form-select-arrow: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='white' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
-  --form-check-radio-label: 16px/16px Gotham Book;
+  --form-check-radio-label: 16px/20px Gotham Book;
   --form-input-group-text-small: 13px/16px Gotham Medium;
-  --form-input-group-text-medium: 16px/16px Gotham Medium;
+  --form-input-group-text-medium: 16px/20px Gotham Medium;
   --form-input-group-text-large: 20px/20px Gotham Medium;
   --form-radio-button-default-label-color: #61B3FF;
   --form-radio-button-default-border-color: #61B3FF;
@@ -207,7 +207,7 @@
   --form-radio-button-hover-border-color: #61B3FF;
   --form-radio-button-hover-icon-color: #61B3FF;
   --form-radio-button-hover-background-color: #004180;
-  --form-radio-button-text: 16px/16px Gotham Medium;
+  --form-radio-button-text: 16px/20px Gotham Medium;
   --radio-button-border-radius: 8px;
   --dropdown-background-color: #2e2f2a;
   --dropdown-border-color: #4b4c45;
@@ -227,7 +227,7 @@
   --dropdown-no-border: 0px;
   --dropdown-padding-y: 12px;
   --dropdown-padding-x: 16px;
-  --dropdown-font: 16px/16px Gotham Book;
+  --dropdown-font: 16px/20px Gotham Book;
   --dropdown-divider-padding-y: 6px;
   --card-background-color: #2e2f2a;
   --card-header-color: #FFFFFF;
@@ -240,7 +240,7 @@
   --card-border-width: 1px;
   --card-header: 25px/28px Gotham Bold;
   --card-subhead: 20px/20px Gotham Bold;
-  --card-body: 16px/16px Gotham Book;
+  --card-body: 16px/20px Gotham Book;
   --card-padding-x: 16px;
   --card-padding-y: 16px;
   --button-primary-default-background-color: #61B3FF;
@@ -307,7 +307,7 @@
   --button-tertiary-border-width: 0px;
   --button-tertiary-underline: 1px;
   --button-small-font: 13px/16px Gotham Bold;
-  --button-medium-font: 16px/16px Gotham Bold;
+  --button-medium-font: 16px/20px Gotham Bold;
   --button-large-font: 20px/20px Gotham Bold;
   --button-shadow-active: 0px 0.475px 0.6px -1.25px #00000014, 0px 3.75px 5px -1.25px #00000026;
   --button-cta-default-background-color: #FFB500;
@@ -325,7 +325,7 @@
   --breadcrumb-divider-color: #919389;
   --breadcrumb-action-color: #61B3FF;
   --breadcrumb-active-action-color: #ecedec;
-  --breadcrumb-md-font: 16px/16px Gotham Medium;
+  --breadcrumb-md-font: 16px/20px Gotham Medium;
   --breadcrumb-sm-font: 13px/16px Gotham Medium;
   --badge-primary-background-color: #61B3FF;
   --badge-primary-text-color: #000000;
@@ -397,7 +397,7 @@
   --alert-neutral-header-color: #FFFFFF;
   --alert-neutral-icon-color: #FFFFFF;
   --alert-header-font: 20px/20px Gotham Bold;
-  --alert-body-font: 16px/16px Gotham Book;
+  --alert-body-font: 16px/20px Gotham Book;
   --alert-padding-x: 16px;
   --alert-padding-y: 16px;
   --alert-close-color: #FFFFFF;
@@ -416,6 +416,6 @@
   --accordion-no-border: 0px;
   --accordion-padding-x: 16px;
   --accordion-padding-y: 12px;
-  --accordion-link-font: 16px/16px Gotham Medium;
-  --accordion-body-font: 16px/16px Gotham Book;
+  --accordion-link-font: 16px/20px Gotham Medium;
+  --accordion-body-font: 16px/20px Gotham Book;
       };
