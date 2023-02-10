@@ -310,6 +310,18 @@
   --button-medium-font: 16px/20px Gotham Bold;
   --button-large-font: 20px/28px Gotham Bold;
   --button-shadow-active: 0px 0.475px 0.6px -1.25px #00000014, 0px 3.75px 5px -1.25px #00000026;
+  --button-cta-default-background-color: #f7d247;
+  --button-cta-default-text-color: #000000;
+  --button-cta-default-icon-color: #000000;
+  --button-cta-default-border-color: #f7d247;
+  --button-cta-hover-background-color: #FFDD8A;
+  --button-cta-hover-text-color: #000000;
+  --button-cta-hover-icon-color: #000000;
+  --button-cta-hover-border-color: #FFDD8A;
+  --button-cta-disabled-background-color: #acaea7;
+  --button-cta-disabled-text-color: #f6f6f5;
+  --button-cta-disabled-icon-color: #f6f6f5;
+  --button-cta-disabled-border-color: #acaea7;
   --breadcrumb-divider-color: #acaea7;
   --breadcrumb-action-color: #005EB8;
   --breadcrumb-active-action-color: #4b4c45;
