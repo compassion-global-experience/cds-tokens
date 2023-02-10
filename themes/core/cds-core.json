@@ -3107,27 +3107,27 @@
           "type": "lineHeights"
         },
         "base": {
-          "value": "round((round(({core.fontSize.base} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
+          "value": "round((round(({core.fontSize.minus1} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
           "type": "lineHeights"
         },
         "plus1": {
-          "value": "round((round(({core.fontSize.plus1} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
+          "value": "round((round(({core.fontSize.base} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
           "type": "lineHeights"
         },
         "plus2": {
-          "value": "round((round(({core.fontSize.plus2} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
+          "value": "round((round(({core.fontSize.plus1} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
           "type": "lineHeights"
         },
         "plus3": {
-          "value": "round((round(({core.fontSize.plus3} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
+          "value": "round((round(({core.fontSize.plus2} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
           "type": "lineHeights"
         },
         "plus4": {
-          "value": "round((round(({core.fontSize.plus4} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
+          "value": "round((round(({core.fontSize.plus3} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
           "type": "lineHeights"
         },
         "plus5": {
-          "value": "round((round(({core.fontSize.plus5} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
+          "value": "round((round(({core.fontSize.plus4} * {core.typography.modularScale.lineHeightScale.base}) / {core.size.baselineGrid.minus1})) * {core.size.baselineGrid.minus1})",
           "type": "lineHeights"
         },
         "plus6": {
