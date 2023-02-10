@@ -254,7 +254,7 @@
             "type": "color"
           }
         },
-        "accent": {
+        "cta": {
           "default": {
             "value": "{core.color.brand.accent}",
             "type": "color"
