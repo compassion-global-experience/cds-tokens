@@ -421,22 +421,22 @@
     "font": {
       "family": {
         "heading": {
-          "value": "{core.fontFamily.sans}",
+          "value": "Tearfund Sans",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "{core.fontFamily.sans}",
+          "value": "FS Me",
           "type": "fontFamilies"
         }
       },
       "weight": {
         "body": {
           "regular": {
-            "value": "{core.fontWeight.sans.regular}",
+            "value": "Regular",
             "type": "fontWeights"
           },
           "semibold": {
-            "value": "{core.fontWeight.sans.medium}",
+            "value": "Regular",
             "type": "fontWeights"
           },
           "bold": {
@@ -446,15 +446,15 @@
         },
         "heading": {
           "regular": {
-            "value": "{core.fontWeight.sans.regular}",
+            "value": "Regular",
             "type": "fontWeights"
           },
           "semibold": {
-            "value": "{core.fontWeight.sans.medium}",
+            "value": "Regular",
             "type": "fontWeights"
           },
           "bold": {
-            "value": "{core.fontWeight.sans.bold}",
+            "value": "Regular",
             "type": "fontWeights"
           }
         }
