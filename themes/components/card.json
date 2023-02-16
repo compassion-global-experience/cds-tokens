@@ -37,13 +37,24 @@
       "type": "borderWidth"
     },
     "header": {
-      "value": {
-        "fontFamily": "{theme.font.family.heading}",
-        "fontWeight": "{theme.font.weight.heading.bold}",
-        "lineHeight": "{theme.font.lineheight.lg}",
-        "fontSize": "{theme.font.size.lg}"
+      "default": {
+        "value": {
+          "fontFamily": "{theme.font.family.heading}",
+          "fontWeight": "{theme.font.weight.heading.bold}",
+          "lineHeight": "{theme.font.lineheight.lg}",
+          "fontSize": "{theme.font.size.lg}"
+        },
+        "type": "typography"
       },
-      "type": "typography"
+      "small": {
+        "value": {
+          "fontFamily": "{theme.font.family.heading}",
+          "fontWeight": "{core.fontWeight.sans.bold}",
+          "lineHeight": "{theme.font.lineheight.md}",
+          "fontSize": "{theme.font.size.md}"
+        },
+        "type": "typography"
+      }
     },
     "subhead": {
       "value": {
