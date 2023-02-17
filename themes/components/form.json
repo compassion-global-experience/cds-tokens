@@ -145,6 +145,12 @@
       "hover": {
         "value": "{theme.color.actions.primary.muted}",
         "type": "color"
+      },
+      "size": {
+        "default": {
+          "value": "22",
+          "type": "sizing"
+        }
       }
     },
     "input": {

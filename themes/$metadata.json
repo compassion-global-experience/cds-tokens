@@ -15,6 +15,7 @@
     "components/form",
     "components/grid",
     "components/header",
+    "components/icon",
     "components/link",
     "components/list-group",
     "components/modal",
