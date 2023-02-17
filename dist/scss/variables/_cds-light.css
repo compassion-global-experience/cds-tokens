@@ -241,7 +241,8 @@
   --card-header-default: 25px/28px Gotham Bold;
   --card-header-small: 20px/20px Gotham Bold;
   --card-subhead: 20px/20px Gotham Bold;
-  --card-body: 16px/20px Gotham Book;
+  --card-body-default: 16px/20px Gotham Book;
+  --card-body-small: 13px/16px Gotham Book;
   --card-padding-x: 16px;
   --card-padding-y: 16px;
   --button-primary-default-background-color: #005EB8;
