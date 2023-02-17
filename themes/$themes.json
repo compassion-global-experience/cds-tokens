@@ -584,7 +584,6 @@
       "form.radio-button.text": "S:03346c319a885020ee482d4578cf319c6895767a,",
       "dropdown.font": "S:c56ae22c14cde823ed849293b87988b729d8c27d,",
       "card.subhead": "S:095cea273ed6458f42523c081d564c93b8fb35e1,",
-      "card.body": "S:feefa11675ac800de15071e5f36adc12267b351c,",
       "button.small.font": "S:a1918b534bb743824f20f17599e9e63cb195616b,",
       "button.medium.font": "S:41ceb78c5acb6790fbc9a36f8c05d690d4684046,",
       "button.large.font": "S:28e2bd41b7e402971bba282411119bfba6bba1e5,",
@@ -606,7 +605,8 @@
       "card.shadow": "S:b023270949b1073f4f6ff3765a5f6e1f26ded863,",
       "alert.shadow": "S:fb46d9681d8d1d389bd096a570a78cb1623d6b89,",
       "card.header.default": "S:deedd75b1437ddcb0f31227df09f39980a0c75fe,",
-      "card.header.small": "S:3ef17b1844f82dab6c2150e6240eda04f94f3a95,"
+      "card.header.small": "S:3ef17b1844f82dab6c2150e6240eda04f94f3a95,",
+      "card.body.default": "S:feefa11675ac800de15071e5f36adc12267b351c,"
     }
   },
   {
@@ -1241,7 +1241,6 @@
       "form.radio-button.text": "S:2cdaf01925af036eca5a6a335e15ed70d9cd738a,",
       "dropdown.font": "S:a335dd393f69082a668fb9060ae35d780d98f28c,",
       "card.subhead": "S:f14483e5ca44e055a454ea8e25bf68f6fa33ac37,",
-      "card.body": "S:4cf3120446d463b319ad0214c26cd954f13029ca,",
       "button.small.font": "S:52ccd5e19a0a7852a3b99a11e913b24ab3a6beb6,",
       "button.medium.font": "S:ce4f54336a73178edbb442691428b41ddf392f05,",
       "button.large.font": "S:92e1e039a2c9dfc41a860c069c46ba80bf436d86,",
@@ -1264,7 +1263,8 @@
       "card.shadow": "S:44c89276f0a8ec88c2fbb4371bff0a49722c421f,",
       "button.shadow.active": "S:efac98e34f7ec6a799812b51fb0d235813f32d92,",
       "alert.shadow": "S:008bf9a009c0b72f75fd3ac18b4a67ae69f8a25a,",
-      "card.header.default": "S:65f5932a73314d23796dc0593c2660b80e6af463,"
+      "card.header.default": "S:65f5932a73314d23796dc0593c2660b80e6af463,",
+      "card.body.default": "S:4cf3120446d463b319ad0214c26cd954f13029ca,"
     }
   }
 ]

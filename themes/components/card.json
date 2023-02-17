@@ -66,13 +66,24 @@
       "type": "typography"
     },
     "body": {
-      "value": {
-        "fontFamily": "{theme.font.family.body}",
-        "fontWeight": "{theme.font.weight.body.regular}",
-        "fontSize": "{theme.font.size.sm}",
-        "lineHeight": "{theme.font.lineheight.sm}"
+      "default": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.body.regular}",
+          "fontSize": "{theme.font.size.sm}",
+          "lineHeight": "{theme.font.lineheight.sm}"
+        },
+        "type": "typography"
       },
-      "type": "typography"
+      "small": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.body.regular}",
+          "fontSize": "{theme.font.size.xs}",
+          "lineHeight": "{theme.font.lineheight.xs}"
+        },
+        "type": "typography"
+      }
     },
     "padding-x": {
       "value": "{core.space.plus2}",
