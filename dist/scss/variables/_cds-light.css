@@ -177,6 +177,9 @@
   --form-check-radio-default: #005EB8;
   --form-check-radio-hover: #007BF0;
   --form-check-radio-size-default: 22px;
+  --form-pin-size-default: 48px;
+  --form-pin-size-small: 32px;
+  --form-pin-size-large: 52px;
   --form-input-border-radius: 4px;
   --form-input-border-width: 1px;
   --form-input-text-small: 13px/16px Gotham Book;
