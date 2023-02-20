@@ -150,6 +150,10 @@
         "default": {
           "value": "22",
           "type": "sizing"
+        },
+        "inside": {
+          "value": "{core.size.base}",
+          "type": "sizing"
         }
       }
     },
