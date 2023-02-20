@@ -153,6 +153,22 @@
         }
       }
     },
+    "pin": {
+      "size": {
+        "default": {
+          "value": "{core.size.plus6}",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "{core.size.plus4}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "52",
+          "type": "sizing"
+        }
+      }
+    },
     "input": {
       "border-radius": {
         "value": "{theme.actions.input.border-radius}",
