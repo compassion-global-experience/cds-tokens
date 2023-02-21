@@ -175,7 +175,7 @@
   --form-success-icon-color: #069D45;
   --form-focus-border-color: #005EB8;
   --form-check-radio-default: #005EB8;
-  --form-check-radio-hover: #007BF0;
+  --form-check-radio-hover: #0075E4;
   --form-check-radio-size-default: 22px;
   --form-check-radio-size-inside: 8px;
   --form-check-radio-gap: 8px;
@@ -257,10 +257,10 @@
   --button-primary-default-text-color: #FFFFFF;
   --button-primary-default-icon-color: #FFFFFF;
   --button-primary-default-border-color: #005EB8;
-  --button-primary-hover-background-color: #007BF0;
+  --button-primary-hover-background-color: #0075E4;
   --button-primary-hover-text-color: #FFFFFF;
   --button-primary-hover-icon-color: #FFFFFF;
-  --button-primary-hover-border-color: #007BF0;
+  --button-primary-hover-border-color: #0075E4;
   --button-primary-disabled-background-color: #acaea7;
   --button-primary-disabled-text-color: #f6f6f5;
   --button-primary-disabled-icon-color: #f6f6f5;
@@ -279,9 +279,9 @@
   --button-secondary-default-icon-color: #005EB8;
   --button-secondary-default-border-color: #005EB8;
   --button-secondary-hover-background-color: #00000000;
-  --button-secondary-hover-text-color: #007BF0;
-  --button-secondary-hover-icon-color: #007BF0;
-  --button-secondary-hover-border-color: #007BF0;
+  --button-secondary-hover-text-color: #0075E4;
+  --button-secondary-hover-icon-color: #0075E4;
+  --button-secondary-hover-border-color: #0075E4;
   --button-secondary-disabled-background-color: #00000000;
   --button-secondary-disabled-text-color: #acaea7;
   --button-secondary-disabled-icon-color: #acaea7;
@@ -300,9 +300,9 @@
   --button-tertiary-default-icon-color: #005EB8;
   --button-tertiary-default-border-color: #005EB8;
   --button-tertiary-hover-background-color: #00000000;
-  --button-tertiary-hover-text-color: #007BF0;
-  --button-tertiary-hover-icon-color: #007BF0;
-  --button-tertiary-hover-border-color: #007BF0;
+  --button-tertiary-hover-text-color: #0075E4;
+  --button-tertiary-hover-icon-color: #0075E4;
+  --button-tertiary-hover-border-color: #0075E4;
   --button-tertiary-disabled-background-color: #00000000;
   --button-tertiary-disabled-text-color: #acaea7;
   --button-tertiary-disabled-icon-color: #acaea7;
