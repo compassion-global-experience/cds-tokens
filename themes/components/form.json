@@ -155,6 +155,10 @@
           "value": "{core.size.base}",
           "type": "sizing"
         }
+      },
+      "gap": {
+        "value": "8",
+        "type": "spacing"
       }
     },
     "pin": {
@@ -218,6 +222,10 @@
             "fontSize": "{theme.font.size.xs}"
           },
           "type": "typography"
+        },
+        "gap": {
+          "value": "10",
+          "type": "spacing"
         }
       },
       "small": {
@@ -246,9 +254,13 @@
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{core.space.plus1}",
+          "value": "{core.space.plus2}",
           "type": "spacing"
         }
+      },
+      "gap": {
+        "value": "5",
+        "type": "spacing"
       }
     },
     "hint-text": {
