@@ -238,7 +238,7 @@
             "type": "color"
           },
           "muted": {
-            "value": "{core.color._endeavour.500}",
+            "value": "#0075E4",
             "type": "color"
           },
           "subtle": {
