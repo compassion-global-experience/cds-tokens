@@ -48,7 +48,6 @@
   --table-background-color: #FFFFFF;
   --table-border-color: #e3e4e2;
   --table-no-background: #00000000;
-  --table-underline-color: #c8c9c4;
   --table-header-color: #000000;
   --table-text-color: #000000;
   --table-action-color: #005EB8;
@@ -61,7 +60,7 @@
   --table-border-width: 1px;
   --table-no-border: 0px;
   --table-header-font: 16px/20px Gotham Medium;
-  --table-cell-font: 16px/20px Gotham Regular;
+  --table-cell-font: 16px/20px Gotham Book;
   --tab-background-color: #FFFFFF;
   --tab-border-color: #e3e4e2;
   --tab-no-background: #00000000;
