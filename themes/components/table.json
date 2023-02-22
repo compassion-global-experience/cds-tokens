@@ -49,7 +49,7 @@
         "value": "{theme.color.actions.disabled.muted}",
         "type": "color"
       },
-      "heading-color": {
+      "header-color": {
         "value": "{theme.color.actions.disabled.default}",
         "type": "color"
       },
