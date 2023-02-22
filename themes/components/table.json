@@ -12,10 +12,6 @@
       "value": "{core.color.transparent}",
       "type": "color"
     },
-    "underline-color": {
-      "value": "{theme.color.actions.disabled.amplified}",
-      "type": "color"
-    },
     "header-color": {
       "value": "{theme.color.text.default}",
       "type": "color"
@@ -81,7 +77,7 @@
       "font": {
         "value": {
           "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{core.fontWeight.mono.regular}",
+          "fontWeight": "{core.fontWeight.sans.regular}",
           "lineHeight": "{theme.font.lineheight.sm}",
           "fontSize": "{theme.font.size.sm}"
         },
