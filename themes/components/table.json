@@ -48,6 +48,14 @@
       "action-color": {
         "value": "{theme.color.actions.disabled.muted}",
         "type": "color"
+      },
+      "heading-color": {
+        "value": "{theme.color.actions.disabled.default}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{theme.color.actions.disabled.default}",
+        "type": "color"
       }
     },
     "border-radius": {
