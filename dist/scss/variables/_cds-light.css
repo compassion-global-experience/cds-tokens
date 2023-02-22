@@ -56,6 +56,8 @@
   --table-active-action-color: #4b4c45;
   --table-disabled-background-color: #f6f6f5;
   --table-disabled-action-color: #acaea7;
+  --table-disabled-heading-color: #686a60;
+  --table-disabled-text-color: #686a60;
   --table-border-radius: 0px;
   --table-border-width: 1px;
   --table-no-border: 0px;
