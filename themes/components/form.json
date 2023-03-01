@@ -164,7 +164,7 @@
     "pin": {
       "size": {
         "default": {
-          "value": "{core.size.plus6}",
+          "value": "44",
           "type": "sizing"
         },
         "small": {
