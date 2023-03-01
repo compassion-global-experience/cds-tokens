@@ -27,6 +27,10 @@
   --type-body-p-desktop-bold: 16px/20px Gotham Bold;
   --type-body-p-mobile-regular: 16px/20px Gotham Book;
   --type-body-p-mobile-bold: 16px/20px Gotham Bold;
+  --type-body-p-small-desktop-regular: 13px/16px Gotham Book;
+  --type-body-p-small-desktop-bold: 13px/16px Gotham Bold;
+  --type-body-p-small-mobile-regular: 13px/16px Gotham Book;
+  --type-body-p-small-mobile-bold: 13px/16px Gotham Bold;
   --type-color: #FFFFFF;
   --type-color-white: #FFFFFF;
   --type-color-accent: #FFB500;
