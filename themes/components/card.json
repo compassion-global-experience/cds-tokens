@@ -49,7 +49,7 @@
       "small": {
         "value": {
           "fontFamily": "{theme.font.family.heading}",
-          "fontWeight": "{core.fontWeight.sans.bold}",
+          "fontWeight": "{theme.font.weight.heading.bold}",
           "lineHeight": "{theme.font.lineheight.md}",
           "fontSize": "{theme.font.size.md}"
         },

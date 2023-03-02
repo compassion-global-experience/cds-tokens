@@ -254,28 +254,6 @@
             "type": "color"
           }
         },
-        "accent": {
-          "default": {
-            "value": "{core.color.brand.accent}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{core.color._mango.200}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{core.color._mango.50}",
-            "type": "color"
-          },
-          "amplified": {
-            "value": "{core.color._mango.700}",
-            "type": "color"
-          },
-          "inverted": {
-            "value": "{core.color.black}",
-            "type": "color"
-          }
-        },
         "disabled": {
           "default": {
             "value": "#9ea1aa",
@@ -367,6 +345,28 @@
           },
           "amplified": {
             "value": "{core.color._mango.50}",
+            "type": "color"
+          },
+          "inverted": {
+            "value": "{core.color.black}",
+            "type": "color"
+          }
+        },
+        "cta": {
+          "default": {
+            "value": "#fedf00",
+            "type": "color"
+          },
+          "muted": {
+            "value": "#fff5b3",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "#4c4300",
+            "type": "color"
+          },
+          "amplified": {
+            "value": "#fffce6",
             "type": "color"
           },
           "inverted": {
