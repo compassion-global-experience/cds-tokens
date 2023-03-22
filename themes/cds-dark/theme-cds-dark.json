@@ -50,6 +50,10 @@
           "value": "{core.color.white}",
           "type": "color"
         },
+        "inverted": {
+          "value": "{core.color.black}",
+          "type": "color"
+        },
         "subtle": {
           "value": "{core.color.white}",
           "type": "color"
