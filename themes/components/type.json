@@ -352,6 +352,10 @@
       "value": "{theme.color.text.accent}",
       "type": "color"
     },
+    "color-primary": {
+      "value": "{theme.color.text.primary}",
+      "type": "color"
+    },
     "case": {
       "uppercase": {
         "value": "{core.textCase.uppercase}",
