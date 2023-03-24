@@ -1368,5 +1368,39 @@
       "components/progress-bar": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "98b81d282dd3bfc4312c74c7663bd16ded900479",
+    "name": "cds-lofi",
+    "selectedTokenSets": {
+      "cds-lofi/theme-cds-lofi": "enabled",
+      "core/cds-core": "source",
+      "components/accordion": "enabled",
+      "components/alert": "enabled",
+      "components/background": "enabled",
+      "components/card": "enabled",
+      "components/button": "enabled",
+      "components/breadcrumb": "enabled",
+      "components/border": "enabled",
+      "components/badge": "enabled",
+      "components/dropdown": "enabled",
+      "components/form": "enabled",
+      "components/grid": "enabled",
+      "components/header": "enabled",
+      "components/icon": "enabled",
+      "components/link": "enabled",
+      "components/list-group": "enabled",
+      "components/modal": "enabled",
+      "components/nav": "enabled",
+      "components/pagination": "enabled",
+      "components/progress-bar": "enabled",
+      "components/spacing": "enabled",
+      "components/tab": "enabled",
+      "components/table": "enabled",
+      "components/toast": "enabled",
+      "components/type": "enabled",
+      "components/tooltip": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
