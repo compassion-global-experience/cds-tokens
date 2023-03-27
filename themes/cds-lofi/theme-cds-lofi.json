@@ -109,15 +109,15 @@
           "type": "color"
         },
         "primary": {
-          "value": "{core.color.brand.primary}",
+          "value": "{core.color.gray.minus3}",
           "type": "color"
         },
         "primary-subtle": {
-          "value": "{core.color._endeavour.100}",
+          "value": "{core.color.gray.plus4}",
           "type": "color"
         },
         "primary-amplified": {
-          "value": "{core.color._endeavour.700}",
+          "value": "{core.color.black}",
           "type": "color"
         },
         "secondary": {
@@ -291,7 +291,7 @@
       },
       "logo": {
         "default": {
-          "value": "{core.color.brand.primary}",
+          "value": "{core.color.gray.minus3}",
           "type": "color"
         },
         "inverse": {
