@@ -375,7 +375,7 @@
       },
       "size": {
         "xxs": {
-          "value": "{core.fontSize.minus1}",
+          "value": "{core.fontSize.minus2}",
           "type": "fontSizes"
         },
         "xs": {
@@ -409,7 +409,7 @@
       },
       "lineheight": {
         "xxs": {
-          "value": "{core.lineHeight.normal.minus1}",
+          "value": "{core.lineHeight.normal.minus2}",
           "type": "lineHeights"
         },
         "xs": {

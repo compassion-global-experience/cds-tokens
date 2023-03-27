@@ -74,7 +74,7 @@
       "font": {
         "value": {
           "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{core.fontWeight.sans.medium}",
+          "fontWeight": "{theme.font.weight.body.semibold}",
           "lineHeight": "{theme.font.lineheight.sm}",
           "fontSize": "{theme.font.size.sm}"
         },
@@ -85,7 +85,7 @@
       "font": {
         "value": {
           "fontFamily": "{theme.font.family.body}",
-          "fontWeight": "{core.fontWeight.sans.regular}",
+          "fontWeight": "{theme.font.weight.body.regular}",
           "lineHeight": "{theme.font.lineheight.sm}",
           "fontSize": "{theme.font.size.sm}"
         },

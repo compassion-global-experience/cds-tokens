@@ -261,11 +261,16 @@
       "gap": {
         "value": "5",
         "type": "spacing"
+      },
+      "hint-text": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.body.regular}",
+          "lineHeight": "{theme.font.lineheight.xxs}",
+          "fontSize": "{theme.font.size.xxs}"
+        },
+        "type": "typography"
       }
-    },
-    "hint-text": {
-      "value": "{core.typography.label.minus2.sans.regular}",
-      "type": "typography"
     },
     "border-radius-none": {
       "value": "0",
