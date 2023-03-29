@@ -67,15 +67,15 @@
           "type": "color"
         },
         "primary-subtle": {
-          "value": "{core.color._endeavour.100}",
+          "value": "{core.color.gray.plus4}",
           "type": "color"
         },
         "primary-amplified": {
-          "value": "{core.color._endeavour.700}",
+          "value": "{core.color.black}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.color.brand.secondary}",
+          "value": "{core.color.gray.minus3}",
           "type": "color"
         },
         "on-secondary": {
@@ -121,27 +121,27 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.color.brand.secondary}",
+          "value": "{core.color.gray.minus3}",
           "type": "color"
         },
         "secondary-subtle": {
-          "value": "{core.color._caribe.100}",
+          "value": "{core.color.gray.plus4}",
           "type": "color"
         },
         "secondary-amplified": {
-          "value": "{core.color._caribe.700}",
+          "value": "{core.color.black}",
           "type": "color"
         },
         "accent": {
-          "value": "{core.color.gray.base}",
+          "value": "{core.color.gray.plus2}",
           "type": "color"
         },
         "accent-subtle": {
-          "value": "{core.color._mango.50}",
+          "value": "{core.color.gray.plus4}",
           "type": "color"
         },
         "accent-amplified": {
-          "value": "{core.color._mango.700}",
+          "value": "{core.color.gray.base}",
           "type": "color"
         }
       },
@@ -262,25 +262,25 @@
             "type": "color"
           },
           "default": {
-            "value": "{core.color._caribe.DEFAULT}",
+            "value": "{core.color.gray.minus3}",
             "type": "color"
           }
         },
         "warning": {
           "default": {
-            "value": "{core.color.brand.accent}",
+            "value": "{core.color.gray.plus2}",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color._mango.200}",
+            "value": "{core.color.gray.plus3}",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color._mango.50}",
+            "value": "{core.color.gray.plus6}",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color._mango.700}",
+            "value": "{core.color.gray.base}",
             "type": "color"
           },
           "inverted": {
