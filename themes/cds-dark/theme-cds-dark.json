@@ -170,19 +170,19 @@
         },
         "cta": {
           "default": {
-            "value": "{core.color.brand.accent}",
-            "type": "color"
-          },
-          "muted": {
             "value": "{core.color._mango.200}",
             "type": "color"
           },
+          "muted": {
+            "value": "#f7d247",
+            "type": "color"
+          },
           "subtle": {
-            "value": "{core.color._mango.50}",
+            "value": "{core.color._mango.800}",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color._mango.700}",
+            "value": "{core.color._mango.50}",
             "type": "color"
           },
           "inverted": {
