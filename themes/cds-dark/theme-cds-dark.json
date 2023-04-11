@@ -83,7 +83,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{core.color.brand.accent}",
+          "value": "{core.color._mango.300}",
           "type": "color"
         },
         "on-accent": {
