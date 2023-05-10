@@ -91,15 +91,12 @@
       "list-group.background-color": "S:6b4856cdbb0a01274b9aee7ac20440a84d94b949,",
       "list-group.border-color": "S:8bac51c6b2cf1aaa1a2c3400b544b0fc9866f9d5,",
       "list-group.underline-color": "S:4d5e4de17ce8cb64fc26242c4226f9240eb51256,",
-      "list-group.action-color": "S:acb77b3eb2c89745102ab9504fec4a5d33a3454a,",
       "list-group.icon-color": "S:cd37b67629a8e7785b3b54dce550e995c3670d43,",
       "list-group.body-color": "S:09a5560a106faf2a1a175dc2bc61b5bccf83f3a4,",
       "list-group.heading-color": "S:b17d5e6c00bd31b93d938a08cff80c592c17afa3,",
       "list-group.hover.background-color": "S:ba3773ea7e306811fa900843711dbf07d16e09d8,",
       "list-group.active.background-color": "S:061f1bd7e3c5dce61dfbf3d3861aaf8dfab03a1e,",
-      "list-group.active.action-color": "S:253adee80789f0b0f57e9b3c2f1525b8ad72e4cd,",
       "list-group.disabled.background-color": "S:5b18bd2b4d517ba1ecef0faa7a6816a54faa804e,",
-      "list-group.disabled.action-color": "S:50333c628b11d376ceb1209b07760cfcce9c1a0b,",
       "link.color.default": "S:9d8812bd76cbe52f1c6ec0226e2e8f90c516222f,",
       "link.color.white": "S:63ca3ad95bb53a360cbce385d33af12da90341a9,",
       "header.default.background-color": "S:665ab5fdd1fd6f14ccea1b6e3500415a6b7513a9,",
@@ -415,7 +412,8 @@
       "button.shadow.active": "S:efac98e34f7ec6a799812b51fb0d235813f32d92,",
       "alert.shadow": "S:008bf9a009c0b72f75fd3ac18b4a67ae69f8a25a,",
       "card.header.default": "S:65f5932a73314d23796dc0593c2660b80e6af463,",
-      "card.body.default": "S:4cf3120446d463b319ad0214c26cd954f13029ca,"
+      "card.body.default": "S:4cf3120446d463b319ad0214c26cd954f13029ca,",
+      "list-group.disabled.heading-color": "S:50333c628b11d376ceb1209b07760cfcce9c1a0b,"
     }
   },
   {
@@ -705,15 +703,12 @@
       "list-group.background-color": "S:bbcf8944b8ccb75c357070d24912d880e501be1e,",
       "list-group.border-color": "S:b0598f98642779e2158a614691f55f70c5b1be2a,",
       "list-group.underline-color": "S:486c8f334c99ad893adb3d8b0cb9ec07eb4686e9,",
-      "list-group.action-color": "S:607932750dedb51d10f72f594d6dc027ca798744,",
       "list-group.icon-color": "S:90b4df35eadce89a1b45b10bcdedffdda22789d8,",
       "list-group.body-color": "S:447cba8b758744e12e7d0228095d5e79d79dbb33,",
       "list-group.heading-color": "S:abc0d407f917b39dbae1de7344d5785267ae1dfb,",
       "list-group.hover.background-color": "S:8be6f39b571dde2458c248f1a96d5b93addcd346,",
       "list-group.active.background-color": "S:2287723f1d06ce6c56d55a3099feda2f85004685,",
-      "list-group.active.action-color": "S:444f1542166ba0838067d0fda3efa12f8c792737,",
       "list-group.disabled.background-color": "S:061378a5855de38aac3993662079f3058a50e617,",
-      "list-group.disabled.action-color": "S:1beef21ebfb15cc76db941041153bc781219ec59,",
       "link.color.default": "S:de0a6da7beafa88588dc74f9f0ab7e08a05a066e,",
       "link.color.white": "S:a7f1f0370c7fce3c1e95b73c87d5201aeca93fff,",
       "header.default.background-color": "S:c1bb0a4b081cb75680c5edab9a2b86343d158d69,",
@@ -1109,7 +1104,8 @@
       "button.destructive.tertiary.hover.text-color": "S:984c2afdc4b7f73e95b5f897f17460da668acc6e,",
       "button.destructive.tertiary.hover.icon-color": "S:2c2aa357c6acb26951339ffc438870cded8f4ae6,",
       "button.destructive.tertiary.hover.border-color": "S:9a92ec29987d51336c81213f3e8965c93cd07fcd,",
-      "form.hint-text": "S:397dbef12e7d2a938bf949f61688f57b6fe41e95,"
+      "form.hint-text": "S:397dbef12e7d2a938bf949f61688f57b6fe41e95,",
+      "list-group.disabled.heading-color": "S:1beef21ebfb15cc76db941041153bc781219ec59,"
     }
   },
   {
@@ -1451,15 +1447,12 @@
       "list-group.background-color": "S:938990e4695888ef4d3f1325920f24357a92b22c,",
       "list-group.border-color": "S:9d6d50a7873376af2b75d758c243a3828ff36d65,",
       "list-group.underline-color": "S:13242ea36141d8a8c7f5c93a86d08d18682fbaac,",
-      "list-group.action-color": "S:7d8237946fe19fe8e5cbb94cba553cf93a4cf1b2,",
       "list-group.icon-color": "S:1ae7091d22ad907367f9c9c342cf7d75b0b66f36,",
       "list-group.body-color": "S:187f401d5a3e6872ac8b6ce1fee1662cc5c91ddc,",
       "list-group.heading-color": "S:3f98a4f36627a95ba2c3696594f115033096ecb2,",
       "list-group.hover.background-color": "S:e4edf84f7e8edd19c776a12fbea9b69942896608,",
       "list-group.active.background-color": "S:d129f0268307f4630fac5b6d09540dbc9bb95692,",
-      "list-group.active.action-color": "S:6af8418c8e19274d9c3428a895f14a6dd84242aa,",
       "list-group.disabled.background-color": "S:c60851fb44f3f11fac3075e90b86b8835cc0d277,",
-      "list-group.disabled.action-color": "S:9284cca0cc026bbffc7d48f693716825ab8d81ed,",
       "link.color.default": "S:c44438bd7065eef73b3342977ec6b79465b8b41e,",
       "link.color.white": "S:949684b360a400eb5b2fb3999c85d416e45d4a03,",
       "icon.color.default": "S:5a62c6876aca88909d365fe4034d8bc28db0fc9c,",
@@ -1886,7 +1879,8 @@
       "dropdown.no-shadow": "S:29118f9fb9b8780a9dc523e3523121a2ddaa8e77,",
       "card.shadow": "S:d9cb6896b7ad1be850210dd1b90a075417fb8d7e,",
       "button.shadow.active": "S:533e72be6c5f2fd68268fb0fdded2f4484a45aa5,",
-      "alert.shadow": "S:cc15104803e7c7d8ae678511b049952ec9a85ac8,"
+      "alert.shadow": "S:cc15104803e7c7d8ae678511b049952ec9a85ac8,",
+      "list-group.disabled.heading-color": "S:9284cca0cc026bbffc7d48f693716825ab8d81ed,"
     }
   },
   {
