@@ -17,6 +17,7 @@
     "components/grid",
     "components/header",
     "components/icon",
+    "components/image",
     "components/link",
     "components/list-group",
     "components/modal",
@@ -32,7 +33,6 @@
     "cds-dark/theme-cds-dark",
     "global-food-crisis/theme-gfc",
     "neighbour-institute/theme-ni",
-    "compassion-us/theme-us-light",
-    "components/image"
+    "compassion-us/theme-us-light"
   ]
 }
