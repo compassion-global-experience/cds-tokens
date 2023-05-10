@@ -29,7 +29,8 @@
       "components/toast": "enabled",
       "components/tooltip": "enabled",
       "components/type": "enabled",
-      "components/icon": "enabled"
+      "components/icon": "enabled",
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "type.color": "S:d4ca3d72ff6b8263a1fc6134d54b1bae4bf01116,",
@@ -447,41 +448,8 @@
       "components/progress-bar": "enabled",
       "components/nav": "enabled",
       "components/border": "enabled",
-      "components/icon": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "f967a136c341394a1798c0f9005f596082c11f21",
-    "name": "compassion-us",
-    "selectedTokenSets": {
-      "core/cds-core": "source",
-      "components/accordion": "enabled",
-      "components/alert": "enabled",
-      "components/background": "enabled",
-      "components/badge": "enabled",
-      "components/breadcrumb": "enabled",
-      "components/button": "enabled",
-      "components/card": "enabled",
-      "components/dropdown": "enabled",
-      "components/form": "enabled",
-      "components/grid": "enabled",
-      "components/modal": "enabled",
-      "components/header": "enabled",
-      "components/pagination": "enabled",
-      "components/spacing": "enabled",
-      "components/tab": "enabled",
-      "components/table": "enabled",
-      "components/toast": "enabled",
-      "components/tooltip": "enabled",
-      "components/type": "enabled",
-      "compassion-us/theme-us-light": "enabled",
-      "components/list-group": "enabled",
-      "components/border": "enabled",
-      "components/link": "enabled",
       "components/icon": "enabled",
-      "components/progress-bar": "enabled",
-      "components/nav": "enabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -515,7 +483,8 @@
       "components/nav": "enabled",
       "components/border": "enabled",
       "components/link": "enabled",
-      "components/icon": "enabled"
+      "components/icon": "enabled",
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "toast.background-color": "S:dcf84e0a1e331fd329be93e20fbbc933da384480,",
@@ -1174,7 +1143,8 @@
       "components/nav": "enabled",
       "components/border": "enabled",
       "components/link": "enabled",
-      "components/icon": "enabled"
+      "components/icon": "enabled",
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -1381,7 +1351,8 @@
       "components/nav": "enabled",
       "global-food-crisis/theme-gfc": "enabled",
       "components/icon": "enabled",
-      "components/progress-bar": "enabled"
+      "components/progress-bar": "enabled",
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -1415,7 +1386,8 @@
       "components/table": "enabled",
       "components/toast": "enabled",
       "components/type": "enabled",
-      "components/tooltip": "enabled"
+      "components/tooltip": "enabled",
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "type.color": "S:eae3001c5229c8e000eacdd8084b79ed0b7666c4,",
@@ -1916,5 +1888,40 @@
       "button.shadow.active": "S:533e72be6c5f2fd68268fb0fdded2f4484a45aa5,",
       "alert.shadow": "S:cc15104803e7c7d8ae678511b049952ec9a85ac8,"
     }
+  },
+  {
+    "id": "f967a136c341394a1798c0f9005f596082c11f21",
+    "name": "compassion-us",
+    "selectedTokenSets": {
+      "core/cds-core": "source",
+      "components/accordion": "enabled",
+      "components/alert": "enabled",
+      "components/background": "enabled",
+      "components/badge": "enabled",
+      "components/breadcrumb": "enabled",
+      "components/button": "enabled",
+      "components/card": "enabled",
+      "components/dropdown": "enabled",
+      "components/form": "enabled",
+      "components/grid": "enabled",
+      "components/modal": "enabled",
+      "components/header": "enabled",
+      "components/pagination": "enabled",
+      "components/spacing": "enabled",
+      "components/tab": "enabled",
+      "components/table": "enabled",
+      "components/toast": "enabled",
+      "components/tooltip": "enabled",
+      "components/type": "enabled",
+      "compassion-us/theme-us-light": "enabled",
+      "components/list-group": "enabled",
+      "components/border": "enabled",
+      "components/link": "enabled",
+      "components/icon": "enabled",
+      "components/progress-bar": "enabled",
+      "components/nav": "enabled",
+      "components/image": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
