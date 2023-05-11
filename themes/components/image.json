@@ -4,7 +4,7 @@
     "type": "color"
   },
   "background-color-inverse": {
-    "value": "{accordion.disabled.background-color}",
+    "value": "{core.color.white}",
     "type": "color"
   }
 }
