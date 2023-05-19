@@ -1917,7 +1917,7 @@
   },
   {
     "id": "383b0df3aeed1a0ee9a2186bdaa9458161664497",
-    "name": "theme-dot-global",
+    "name": "dot-global",
     "selectedTokenSets": {
       "core/cds-core": "source",
       "components/accordion": "enabled",
