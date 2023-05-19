@@ -3,13 +3,13 @@
     "actions": {
       "button": {
         "border-radius": {
-          "value": "{core.borderRadius.plus2}",
+          "value": "0",
           "type": "borderRadius"
         }
       },
       "input": {
         "border-radius": {
-          "value": "{core.borderRadius.plus1}",
+          "value": "0",
           "type": "borderRadius"
         }
       },
@@ -303,11 +303,11 @@
     "ui": {
       "border-radius": {
         "sm": {
-          "value": "{core.borderRadius.plus1}",
+          "value": "0",
           "type": "borderRadius"
         },
         "md": {
-          "value": "{core.borderRadius.plus2}",
+          "value": "0",
           "type": "borderRadius"
         },
         "lg": {
@@ -335,22 +335,22 @@
     "font": {
       "family": {
         "heading": {
-          "value": "{core.fontFamily.sans}",
+          "value": "Montserrat",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "{core.fontFamily.sans}",
+          "value": "Montserrat",
           "type": "fontFamilies"
         }
       },
       "weight": {
         "body": {
           "regular": {
-            "value": "{core.fontWeight.sans.regular}",
+            "value": "Regular",
             "type": "fontWeights"
           },
           "semibold": {
-            "value": "{core.fontWeight.sans.medium}",
+            "value": "SemiBold",
             "type": "fontWeights"
           },
           "bold": {
@@ -360,11 +360,11 @@
         },
         "heading": {
           "regular": {
-            "value": "{core.fontWeight.sans.regular}",
+            "value": "Regular",
             "type": "fontWeights"
           },
           "semibold": {
-            "value": "{core.fontWeight.sans.medium}",
+            "value": "SemiBold",
             "type": "fontWeights"
           },
           "bold": {
