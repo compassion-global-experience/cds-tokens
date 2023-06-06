@@ -10,7 +10,7 @@
       "type": "typography"
     },
     "progress-color": {
-      "value": "{theme.color.background.primary}",
+      "value": "{theme.color.actions.primary.default}",
       "type": "color"
     },
     "background-color": {

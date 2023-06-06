@@ -164,7 +164,7 @@
     "pin": {
       "size": {
         "default": {
-          "value": "{core.size.plus6}",
+          "value": "44",
           "type": "sizing"
         },
         "small": {
@@ -264,7 +264,12 @@
       }
     },
     "hint-text": {
-      "value": "{core.typography.label.minus2.sans.regular}",
+      "value": {
+        "fontFamily": "{theme.font.family.body}",
+        "fontWeight": "{theme.font.weight.body.regular}",
+        "lineHeight": "{theme.font.lineheight.xxs}",
+        "fontSize": "{theme.font.size.xxs}"
+      },
       "type": "typography"
     },
     "border-radius-none": {

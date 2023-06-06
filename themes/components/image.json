@@ -1,0 +1,10 @@
+{
+  "background-color": {
+    "value": "{theme.color.actions.disabled.muted}",
+    "type": "color"
+  },
+  "background-color-inverse": {
+    "value": "{core.color.white}",
+    "type": "color"
+  }
+}
