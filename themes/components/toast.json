@@ -23,18 +23,6 @@
     "shadow": {
       "value": "{core.depth.plus2}",
       "type": "boxShadow"
-    },
-    "button": {
-      "font": {
-        "value": {
-          "fontSize": "{theme.font.size.sm}",
-          "letterSpacing": "",
-          "lineHeight": "{theme.font.lineheight.sm}",
-          "fontWeight": "{theme.font.weight.body.bold}",
-          "fontFamily": "{theme.font.family.body}"
-        },
-        "type": "typography"
-      }
     }
   }
 }

@@ -295,48 +295,6 @@
             },
             "type": "typography"
           }
-        },
-        "small": {
-          "desktop": {
-            "regular": {
-              "value": {
-                "fontFamily": "{theme.font.family.body}",
-                "fontWeight": "{theme.font.weight.body.regular}",
-                "lineHeight": "{theme.font.lineheight.xs}",
-                "fontSize": "{theme.font.size.xs}"
-              },
-              "type": "typography"
-            },
-            "bold": {
-              "value": {
-                "fontFamily": "{theme.font.family.body}",
-                "fontWeight": "{theme.font.weight.body.bold}",
-                "lineHeight": "{theme.font.lineheight.xs}",
-                "fontSize": "{theme.font.size.xs}"
-              },
-              "type": "typography"
-            }
-          },
-          "mobile": {
-            "regular": {
-              "value": {
-                "fontFamily": "{theme.font.family.body}",
-                "fontWeight": "{theme.font.weight.body.regular}",
-                "lineHeight": "{theme.font.lineheight.xs}",
-                "fontSize": "{theme.font.size.xs}"
-              },
-              "type": "typography"
-            },
-            "bold": {
-              "value": {
-                "fontFamily": "{theme.font.family.body}",
-                "fontWeight": "{theme.font.weight.body.bold}",
-                "lineHeight": "{theme.font.lineheight.xs}",
-                "fontSize": "{theme.font.size.xs}"
-              },
-              "type": "typography"
-            }
-          }
         }
       }
     },
@@ -350,10 +308,6 @@
     },
     "color-accent": {
       "value": "{theme.color.text.accent}",
-      "type": "color"
-    },
-    "color-primary": {
-      "value": "{theme.color.text.primary}",
       "type": "color"
     },
     "case": {

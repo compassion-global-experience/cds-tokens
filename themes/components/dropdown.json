@@ -24,6 +24,10 @@
       "value": "{theme.color.text.subtle}",
       "type": "color"
     },
+    "icon-color": {
+      "value": "{theme.color.text.muted}",
+      "type": "color"
+    },
     "hover": {
       "background-color": {
         "value": "{theme.color.actions.primary.subtle}",

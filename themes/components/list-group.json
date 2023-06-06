@@ -12,6 +12,10 @@
       "value": "{theme.color.actions.disabled.amplified}",
       "type": "color"
     },
+    "action-color": {
+      "value": "{theme.color.actions.primary.default}",
+      "type": "color"
+    },
     "icon-color": {
       "value": "{theme.color.actions.primary.default}",
       "type": "color"
@@ -35,15 +39,7 @@
         "value": "{theme.color.background.surface}",
         "type": "color"
       },
-      "icon-color": {
-        "value": "{theme.color.text.muted}",
-        "type": "color"
-      },
-      "heading-color": {
-        "value": "{theme.color.text.muted}",
-        "type": "color"
-      },
-      "body-color": {
+      "action-color": {
         "value": "{theme.color.text.muted}",
         "type": "color"
       }
@@ -53,15 +49,7 @@
         "value": "{theme.color.actions.disabled.subtle}",
         "type": "color"
       },
-      "heading-color": {
-        "value": "{theme.color.actions.disabled.muted}",
-        "type": "color"
-      },
-      "body-color": {
-        "value": "{theme.color.actions.disabled.muted}",
-        "type": "color"
-      },
-      "icon-color": {
+      "action-color": {
         "value": "{theme.color.actions.disabled.muted}",
         "type": "color"
       }
@@ -112,22 +100,6 @@
         "fontSize": "{theme.font.size.sm}"
       },
       "type": "typography"
-    },
-    "image": {
-      "border-radius": {
-        "default": {
-          "value": "{theme.ui.border-radius.none}",
-          "type": "borderRadius"
-        },
-        "rounded": {
-          "value": "{theme.ui.border-radius.md}",
-          "type": "borderRadius"
-        },
-        "circle": {
-          "value": "{theme.ui.border-radius.xl}",
-          "type": "borderRadius"
-        }
-      }
     }
   }
 }

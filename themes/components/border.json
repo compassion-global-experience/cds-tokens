@@ -18,10 +18,6 @@
       "rounded": {
         "value": "{theme.ui.border-radius.md}",
         "type": "borderRadius"
-      },
-      "circle": {
-        "value": "{theme.ui.border-radius.xl}",
-        "type": "borderRadius"
       }
     },
     "width": {

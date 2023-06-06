@@ -2,8 +2,6 @@
   "tokenSetOrder": [
     "core/cds-core",
     "cds-light/theme-cds-light",
-    "dot-global/theme-dot-global",
-    "cds-lofi/theme-cds-lofi",
     "tearfund/theme-tearfund",
     "components/accordion",
     "components/alert",
@@ -18,7 +16,6 @@
     "components/grid",
     "components/header",
     "components/icon",
-    "components/image",
     "components/link",
     "components/list-group",
     "components/modal",
