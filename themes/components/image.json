@@ -8,7 +8,7 @@
       "value": "{theme.color.actions.disabled.muted}",
       "type": "color"
     },
-    "background-icon-color-inverse": {
+    "icon-color-inverse": {
       "value": "{core.color.white}",
       "type": "color"
     }
