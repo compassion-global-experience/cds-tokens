@@ -1,10 +1,14 @@
 {
   "image": {
     "background-color": {
+      "value": "{theme.color.background.surface}",
+      "type": "color"
+    },
+    "icon-color": {
       "value": "{theme.color.actions.disabled.muted}",
       "type": "color"
     },
-    "background-color-inverse": {
+    "background-icon-color-inverse": {
       "value": "{core.color.white}",
       "type": "color"
     }
