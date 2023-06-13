@@ -47,7 +47,7 @@
     "color": {
       "text": {
         "default": {
-          "value": "{core.color.black}",
+          "value": "#1D1430",
           "type": "color"
         },
         "inverted": {
@@ -59,7 +59,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "{core.color.brand.primary}",
+          "value": "#4067F1",
           "type": "color"
         },
         "on-primary": {
@@ -67,27 +67,27 @@
           "type": "color"
         },
         "primary-subtle": {
-          "value": "{core.color._endeavour.100}",
+          "value": "#B3C2F9",
           "type": "color"
         },
         "primary-amplified": {
-          "value": "{core.color._endeavour.700}",
+          "value": "#0E33B9",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.color.brand.secondary}",
+          "value": "#1D1430",
           "type": "color"
         },
         "on-secondary": {
-          "value": "#313343",
+          "value": "#fff",
           "type": "color"
         },
         "accent": {
-          "value": "{core.color.brand.accent}",
+          "value": "#F2A4B4",
           "type": "color"
         },
         "on-accent": {
-          "value": "{core.color.black}",
+          "value": "#fff",
           "type": "color"
         },
         "muted": {
@@ -101,27 +101,27 @@
           "type": "color"
         },
         "canvas": {
-          "value": "{core.color.white}",
+          "value": "#FBF8F4",
           "type": "color"
         },
         "surface": {
-          "value": "{core.color.gray.plus4}",
+          "value": "#FBF8F4",
           "type": "color"
         },
         "primary": {
-          "value": "{core.color.brand.primary}",
+          "value": "#4067F1",
           "type": "color"
         },
         "primary-subtle": {
-          "value": "{core.color._endeavour.100}",
+          "value": "#B3C2F9",
           "type": "color"
         },
         "primary-amplified": {
-          "value": "{core.color._endeavour.700}",
+          "value": "#0E33B9",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.color.brand.secondary}",
+          "value": "#1D1430",
           "type": "color"
         },
         "secondary-subtle": {
@@ -133,15 +133,15 @@
           "type": "color"
         },
         "accent": {
-          "value": "{core.color.brand.accent}",
+          "value": "#F2A4B4",
           "type": "color"
         },
         "accent-subtle": {
-          "value": "{core.color._mango.50}",
+          "value": "#F7CBD5",
           "type": "color"
         },
         "accent-amplified": {
-          "value": "{core.color._mango.700}",
+          "value": "#EE8097",
           "type": "color"
         }
       },

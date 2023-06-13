@@ -30,7 +30,8 @@
       "components/tooltip": "enabled",
       "components/type": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled"
+      "components/image": "enabled",
+      "cds-brandsprint/theme-cds-brandsprint": "disabled"
     },
     "$figmaStyleReferences": {
       "type.color": "S:d4ca3d72ff6b8263a1fc6134d54b1bae4bf01116,",
@@ -446,7 +447,8 @@
       "components/nav": "enabled",
       "components/border": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled"
+      "components/image": "enabled",
+      "cds-brandsprint/theme-cds-brandsprint": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -481,7 +483,8 @@
       "components/border": "enabled",
       "components/link": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled"
+      "components/image": "enabled",
+      "cds-brandsprint/theme-cds-brandsprint": "disabled"
     },
     "$figmaStyleReferences": {
       "color.nav.background-color": "S:4d684ad8a29d4ed22920653bf54c614ba9f335cb,",
@@ -1147,7 +1150,8 @@
       "components/border": "enabled",
       "components/link": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled"
+      "components/image": "enabled",
+      "cds-brandsprint/theme-cds-brandsprint": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -1800,7 +1804,8 @@
       "global-food-crisis/theme-gfc": "enabled",
       "components/icon": "enabled",
       "components/progress-bar": "enabled",
-      "components/image": "enabled"
+      "components/image": "enabled",
+      "cds-brandsprint/theme-cds-brandsprint": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -1835,7 +1840,8 @@
       "components/toast": "enabled",
       "components/type": "enabled",
       "components/tooltip": "enabled",
-      "components/image": "enabled"
+      "components/image": "enabled",
+      "cds-brandsprint/theme-cds-brandsprint": "disabled"
     },
     "$figmaStyleReferences": {
       "type.color": "S:abdb8a4301ed3cd3eb4a26c56f6d1df19338c0d8,",
@@ -2374,7 +2380,8 @@
       "components/icon": "enabled",
       "components/progress-bar": "enabled",
       "components/nav": "enabled",
-      "components/image": "enabled"
+      "components/image": "enabled",
+      "cds-brandsprint/theme-cds-brandsprint": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -2409,8 +2416,44 @@
       "components/toast": "enabled",
       "components/tooltip": "enabled",
       "components/type": "enabled",
-      "dot-global/theme-dot-global": "enabled"
+      "dot-global/theme-dot-global": "enabled",
+      "cds-brandsprint/theme-cds-brandsprint": "disabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "fecfe004564d8b203d7fdb79bcf4066d0f710064",
+    "name": "brandsprint",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/cds-core": "source",
+      "components/accordion": "enabled",
+      "components/alert": "enabled",
+      "components/background": "enabled",
+      "components/badge": "enabled",
+      "components/border": "enabled",
+      "components/breadcrumb": "enabled",
+      "components/button": "enabled",
+      "components/card": "enabled",
+      "components/dropdown": "enabled",
+      "components/form": "enabled",
+      "components/grid": "enabled",
+      "components/header": "enabled",
+      "components/icon": "enabled",
+      "components/image": "enabled",
+      "components/link": "enabled",
+      "components/list-group": "enabled",
+      "components/modal": "enabled",
+      "components/nav": "enabled",
+      "components/pagination": "enabled",
+      "components/progress-bar": "enabled",
+      "components/spacing": "enabled",
+      "components/tab": "enabled",
+      "components/table": "enabled",
+      "components/toast": "enabled",
+      "components/tooltip": "enabled",
+      "components/type": "enabled",
+      "cds-brandsprint/theme-cds-brandsprint": "source"
+    }
   }
 ]
