@@ -335,18 +335,22 @@
     "font": {
       "family": {
         "heading": {
-          "value": "{core.fontFamily.sans}",
+          "value": "Neue Montreal",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "{core.fontFamily.sans}",
+          "value": "Neue Montreal",
           "type": "fontFamilies"
         }
       },
       "weight": {
         "body": {
           "regular": {
-            "value": "{core.fontWeight.sans.regular}",
+            "value": "Regular",
+            "type": "fontWeights"
+          },
+          "light": {
+            "value": "Light",
             "type": "fontWeights"
           },
           "semibold": {
@@ -360,7 +364,11 @@
         },
         "heading": {
           "regular": {
-            "value": "{core.fontWeight.sans.regular}",
+            "value": "Regular",
+            "type": "fontWeights"
+          },
+          "light": {
+            "value": "Light",
             "type": "fontWeights"
           },
           "semibold": {

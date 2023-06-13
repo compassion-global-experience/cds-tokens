@@ -30,8 +30,7 @@
       "components/tooltip": "enabled",
       "components/type": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled",
-      "cds-brandsprint/theme-cds-brandsprint": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "type.color": "S:d4ca3d72ff6b8263a1fc6134d54b1bae4bf01116,",
@@ -447,8 +446,7 @@
       "components/nav": "enabled",
       "components/border": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled",
-      "cds-brandsprint/theme-cds-brandsprint": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -483,8 +481,7 @@
       "components/border": "enabled",
       "components/link": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled",
-      "cds-brandsprint/theme-cds-brandsprint": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "color.nav.background-color": "S:4d684ad8a29d4ed22920653bf54c614ba9f335cb,",
@@ -1150,8 +1147,7 @@
       "components/border": "enabled",
       "components/link": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled",
-      "cds-brandsprint/theme-cds-brandsprint": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -1804,8 +1800,7 @@
       "global-food-crisis/theme-gfc": "enabled",
       "components/icon": "enabled",
       "components/progress-bar": "enabled",
-      "components/image": "enabled",
-      "cds-brandsprint/theme-cds-brandsprint": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -1840,8 +1835,7 @@
       "components/toast": "enabled",
       "components/type": "enabled",
       "components/tooltip": "enabled",
-      "components/image": "enabled",
-      "cds-brandsprint/theme-cds-brandsprint": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "type.color": "S:abdb8a4301ed3cd3eb4a26c56f6d1df19338c0d8,",
@@ -2380,8 +2374,7 @@
       "components/icon": "enabled",
       "components/progress-bar": "enabled",
       "components/nav": "enabled",
-      "components/image": "enabled",
-      "cds-brandsprint/theme-cds-brandsprint": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -2416,8 +2409,7 @@
       "components/toast": "enabled",
       "components/tooltip": "enabled",
       "components/type": "enabled",
-      "dot-global/theme-dot-global": "enabled",
-      "cds-brandsprint/theme-cds-brandsprint": "disabled"
+      "dot-global/theme-dot-global": "enabled"
     },
     "$figmaStyleReferences": {}
   },
