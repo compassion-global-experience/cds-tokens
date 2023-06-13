@@ -125,11 +125,11 @@
           "type": "color"
         },
         "secondary-subtle": {
-          "value": "{core.color._caribe.100}",
+          "value": "#41609C",
           "type": "color"
         },
         "secondary-amplified": {
-          "value": "{core.color._caribe.700}",
+          "value": "#07050B",
           "type": "color"
         },
         "accent": {
@@ -148,19 +148,19 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{core.color.brand.primary}",
+            "value": "#4067F1",
             "type": "color"
           },
           "muted": {
-            "value": "#0075E4",
+            "value": "#7995F5",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color._endeavour.100}",
+            "value": "#B3C2F9",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color._endeavour.700}",
+            "value": "#0E33B9",
             "type": "color"
           },
           "inverted": {
@@ -170,19 +170,19 @@
         },
         "cta": {
           "default": {
-            "value": "#f7d247",
+            "value": "#EE8097",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color._mango.200}",
+            "value": "#F7CBD5",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color._mango.50}",
+            "value": "#FDF2F5",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color._mango.700}",
+            "value": "#D9627B",
             "type": "color"
           },
           "inverted": {
@@ -214,19 +214,19 @@
         },
         "danger": {
           "default": {
-            "value": "{core.color._harissa.DEFAULT}",
+            "value": "#E85E46",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color._harissa.400}",
+            "value": "#F3BCB3",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color._harissa.50}",
+            "value": "#F9DED9",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color._harissa.700}",
+            "value": "#8C2E1D",
             "type": "color"
           },
           "inverted": {
@@ -236,19 +236,19 @@
         },
         "success": {
           "default": {
-            "value": "{core.color._fennel.DEFAULT}",
+            "value": "#2B5947",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color._fennel.400}",
+            "value": "#A6BCB5",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color._fennel.50}",
+            "value": "#E9EEEC",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color._fennel.700}",
+            "value": "#16392C",
             "type": "color"
           },
           "inverted": {
@@ -268,19 +268,19 @@
         },
         "warning": {
           "default": {
-            "value": "{core.color.brand.accent}",
+            "value": "#FBE76B",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color._mango.200}",
+            "value": "#FDF5BF",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color._mango.50}",
+            "value": "#FEFADF",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color._mango.700}",
+            "value": "#93842A",
             "type": "color"
           },
           "inverted": {
@@ -291,7 +291,7 @@
       },
       "logo": {
         "default": {
-          "value": "{core.color.brand.primary}",
+          "value": "#4067F1",
           "type": "color"
         },
         "inverse": {
