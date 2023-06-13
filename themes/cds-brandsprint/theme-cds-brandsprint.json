@@ -3,7 +3,7 @@
     "actions": {
       "button": {
         "border-radius": {
-          "value": "{core.borderRadius.plus2}",
+          "value": "{core.borderRadius.plus4}",
           "type": "borderRadius"
         }
       },
@@ -67,7 +67,7 @@
           "type": "color"
         },
         "primary-subtle": {
-          "value": "#B3C2F9",
+          "value": "#D7DFFF",
           "type": "color"
         },
         "primary-amplified": {
@@ -113,7 +113,7 @@
           "type": "color"
         },
         "primary-subtle": {
-          "value": "#B3C2F9",
+          "value": "#D7DFFF",
           "type": "color"
         },
         "primary-amplified": {
@@ -156,7 +156,7 @@
             "type": "color"
           },
           "subtle": {
-            "value": "#B3C2F9",
+            "value": "#D7DFFF",
             "type": "color"
           },
           "amplified": {
