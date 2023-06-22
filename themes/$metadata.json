@@ -4,6 +4,7 @@
     "cds-light/theme-cds-light",
     "cds-brandsprint/theme-cds-brandsprint",
     "dot-global/theme-dot-global",
+    "canada/theme-ca",
     "cds-lofi/theme-cds-lofi",
     "tearfund/theme-tearfund",
     "components/accordion",
@@ -34,7 +35,6 @@
     "components/type",
     "cds-dark/theme-cds-dark",
     "global-food-crisis/theme-gfc",
-    "neighbour-institute/theme-ni",
-    "compassion-us/theme-us-light"
+    "neighbour-institute/theme-ni"
   ]
 }
