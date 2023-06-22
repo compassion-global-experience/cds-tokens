@@ -3,13 +3,13 @@
     "actions": {
       "button": {
         "border-radius": {
-          "value": "0",
+          "value": "{core.borderRadius.plus2}",
           "type": "borderRadius"
         }
       },
       "input": {
         "border-radius": {
-          "value": "0",
+          "value": "{core.borderRadius.plus1}",
           "type": "borderRadius"
         }
       },
