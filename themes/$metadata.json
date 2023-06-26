@@ -2,7 +2,7 @@
   "tokenSetOrder": [
     "core/cds-core",
     "cds-light/theme-cds-light",
-    "cds-brandsprint/theme-cds-brandsprint",
+    "new-brand/theme-new-brand",
     "dot-global/theme-dot-global",
     "canada/theme-ca",
     "cds-lofi/theme-cds-lofi",
