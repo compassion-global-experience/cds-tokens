@@ -7011,7 +7011,7 @@
   },
   {
     "id": "fecfe004564d8b203d7fdb79bcf4066d0f710064",
-    "name": "brandsprint",
+    "name": "new-brand",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/cds-core": "source",
@@ -7041,7 +7041,7 @@
       "components/toast": "enabled",
       "components/tooltip": "enabled",
       "components/type": "enabled",
-      "cds-brandsprint/theme-cds-brandsprint": "source"
+      "new-brand/theme-new-brand": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:235:31317",
     "$figmaModeId": "235:8",
