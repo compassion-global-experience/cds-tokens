@@ -335,11 +335,11 @@
     "font": {
       "family": {
         "heading": {
-          "value": "Neue Montreal",
+          "value": "Articulat CF",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "Neue Montreal",
+          "value": "Articulat CF",
           "type": "fontFamilies"
         }
       },
@@ -354,7 +354,7 @@
             "type": "fontWeights"
           },
           "semibold": {
-            "value": "{core.fontWeight.sans.bold}",
+            "value": "Demi Bold",
             "type": "fontWeights"
           },
           "bold": {
@@ -372,7 +372,7 @@
             "type": "fontWeights"
           },
           "semibold": {
-            "value": "{core.fontWeight.sans.medium}",
+            "value": "Demi Bold",
             "type": "fontWeights"
           },
           "bold": {
