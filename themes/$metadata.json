@@ -5,6 +5,7 @@
     "new-brand/theme-new-brand",
     "dot-global/theme-dot-global",
     "canada/theme-ca",
+    "program/theme-ccl",
     "cds-lofi/theme-cds-lofi",
     "tearfund/theme-tearfund",
     "components/accordion",
@@ -33,8 +34,6 @@
     "components/toast",
     "components/tooltip",
     "components/type",
-    "cds-dark/theme-cds-dark",
-    "global-food-crisis/theme-gfc",
-    "neighbour-institute/theme-ni"
+    "cds-dark/theme-cds-dark"
   ]
 }

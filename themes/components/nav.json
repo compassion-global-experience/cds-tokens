@@ -68,6 +68,17 @@
         },
         "type": "typography"
       }
+    },
+    "subnav-link": {
+      "font": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.body.semibold}",
+          "lineHeight": "{theme.font.lineheight.xs}",
+          "fontSize": "{theme.font.size.xs}"
+        },
+        "type": "typography"
+      }
     }
   }
 }
