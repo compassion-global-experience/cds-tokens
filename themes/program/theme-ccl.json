@@ -148,7 +148,7 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{core.color.brand.primary}",
+            "value": "rgb(38, 147, 214)",
             "type": "color"
           },
           "muted": {
