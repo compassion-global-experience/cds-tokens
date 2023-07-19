@@ -59,7 +59,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "{core.color.brand.primary}",
+          "value": "rgb(38, 147, 214)",
           "type": "color"
         },
         "on-primary": {
@@ -109,7 +109,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "{core.color.brand.primary}",
+          "value": "rgb(38, 147, 214)",
           "type": "color"
         },
         "primary-subtle": {
@@ -152,15 +152,15 @@
             "type": "color"
           },
           "muted": {
-            "value": "#0075E4",
+            "value": "rgb(80, 169, 224)",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color._endeavour.100}",
+            "value": "rgb(227, 241, 249)",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color._endeavour.700}",
+            "value": "rgb(0, 100, 166)",
             "type": "color"
           },
           "inverted": {
@@ -303,11 +303,11 @@
     "ui": {
       "border-radius": {
         "sm": {
-          "value": "{core.borderRadius.plus1}",
+          "value": "{core.borderRadius.base}",
           "type": "borderRadius"
         },
         "md": {
-          "value": "{core.borderRadius.plus2}",
+          "value": "{core.borderRadius.plus1}",
           "type": "borderRadius"
         },
         "lg": {
