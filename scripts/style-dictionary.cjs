@@ -1,34 +1,23 @@
 const StyleDictionaryPackage = require("style-dictionary");
-const { fileHeader, formattedVariables } = StyleDictionaryPackage.formatHelpers;
-const { kebabCase, isPx, transformShadow } = require("./utils");
+
+function transformShadow(shadow) {
+  const { x, y, blur, spread, color } = shadow;
+  return `${x}px ${y}px ${blur}px ${spread}px ${color}`;
+}
 
 /**
  * format for css variables
  */
 StyleDictionaryPackage.registerFormat({
   name: "css/variables",
-  formatter: function (dictionary, config) {
+  formatter(dictionary, config) {
     return `${this.selector} {
         ${dictionary.allProperties
           .map((prop) => `  --${prop.name}: ${prop.value};`)
           .join("\n")}
-      };`;
+      }`;
   },
 });
-
-/**
- * format for scss variables
- */
-//  StyleDictionaryPackage.registerFormat({
-// 	name: "scss/variables",
-// 	formatter: function(dictionary, config) {
-// 	  return `${this.selector} {
-// 		  ${dictionary.allProperties
-// 			.map((prop) => `  $${prop.name}: ${prop.value};`)
-// 			.join("\n")}
-// 		}`;
-// 	},
-//   });
 
 StyleDictionaryPackage.registerTransform({
   name: "sizes/px",
@@ -46,7 +35,7 @@ StyleDictionaryPackage.registerTransform({
     );
   },
   transformer: (token) => {
-    return token.value + "px";
+    return `${token.value}px`;
   },
 });
 
@@ -74,7 +63,7 @@ StyleDictionaryPackage.registerTransform({
   matcher: (token) => token.type === "typography",
   transformer: (token) => {
     const { value } = token;
-    return `${value.fontSize + "px"}/${value.lineHeight + "px"} ${
+    return `${`${value.fontSize}px`}/${`${value.lineHeight}px`} ${
       value.fontFamily
     } ${value.fontWeight}`;
   },
@@ -83,11 +72,11 @@ StyleDictionaryPackage.registerTransform({
 StyleDictionaryPackage.registerTransform({
   name: "value/quote",
   type: "value",
-  matcher: function (prop) {
+  matcher(prop) {
     return ["latinWebfont", "webfont", "url"].includes(prop.attributes.subitem);
   },
-  transformer: function (prop) {
-    return '"' + prop.original.value + '"';
+  transformer(prop) {
+    return `"${prop.original.value}"`;
   },
 });
 
@@ -110,26 +99,7 @@ function getStyleDictionaryConfig(theme) {
           {
             destination: `${theme}.css`,
             format: `css/variables`,
-            selector: `.${theme}-theme`,
-          },
-        ],
-      },
-      scss: {
-        buildPath: `dist/scss/`,
-        transforms: [
-          "attribute/cti",
-          "name/cti/kebab",
-          "typography/shorthand",
-          "sizes/px",
-          "shadow/shorthand",
-          "value/quote",
-        ],
-        // map the array of token file paths to style dictionary output files
-        files: [
-          {
-            destination: `${theme}.scss`,
-            format: `scss/variables`,
-            selector: `.${theme}-theme`,
+            selector: ":root",
           },
         ],
       },
@@ -139,7 +109,7 @@ function getStyleDictionaryConfig(theme) {
 
 console.log("Building tokens...");
 
-["_cds-light", "_cds-dark"].map(function (theme) {
+["cds-light", "cds-dark"].map((theme) => {
   console.log("\n==============================================");
   console.log(`\nProcessing: [${theme}]`);
 
@@ -147,12 +117,13 @@ console.log("Building tokens...");
     getStyleDictionaryConfig(theme)
   );
 
-  const platforms = ["scss", "css"];
+  const platforms = ["css"];
   platforms.map((platform) => {
     return StyleDictionary.buildPlatform(platform);
   });
 
   console.log("\nEnd processing");
+  return theme;
 });
 
 console.log("\n==============================================");
