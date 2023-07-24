@@ -1,10 +1,16 @@
 {
-  "name": "cds-tokens",
-  "version": "1.0.0",
+  "name": "@compassion-global-experience/cds-tokens",
+  "version": "1.0.1",
   "description": "Tokens used in the Compassion Design System.",
   "main": "./themes",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run transform && npm run resolve-tokens",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "transform": "npm run transform-light && npm run transform-dark",
+    "transform-light": "npx token-transformer themes dist/js/_cds-light.json core/cds-core,cds-light/theme-cds-light,components/accordion,components/alert,components/background,components/badge,components/breadcrumb,components/button,components/card,components/dropdown,components/form,components/grid,components/header,components/modal,components/pagination,components/spacing,components/tab,components/table,components/toast,components/tooltip,components/type core/cds-core,cds-light/theme-cds-light",
+    "transform-dark": "npx token-transformer themes dist/js/_cds-dark.json core/cds-core,cds-dark/theme-cds-dark,components/accordion,components/alert,components/background,components/badge,components/breadcrumb,components/button,components/card,components/dropdown,components/form,components/grid,components/header,components/modal,components/pagination,components/spacing,components/tab,components/table,components/toast,components/tooltip,components/type core/cds-core,cds-dark/theme-cds-dark",
+    "resolve-tokens": "node ./build.js",
+    "build-sass": "sass --style=compressed dist/scss/cds.scss dist/css/cds.min.css"
   },
   "repository": {
     "type": "git",
@@ -19,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/compassion-global-experience/cds-tokens/issues"
   },
-  "homepage": "https://github.com/compassion-global-experience/cds-tokens#readme"
+  "homepage": "https://github.com/compassion-global-experience/cds-tokens#readme",
+  "dependencies": {
+    "style-dictionary": "^3.7.2",
+    "token-transformer": "^0.0.32"
+  }
 }
