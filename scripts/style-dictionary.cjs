@@ -109,7 +109,7 @@ function getStyleDictionaryConfig(theme) {
 
 console.log("Building tokens...");
 
-["cds-light", "cds-dark"].map((theme) => {
+["cds-light", "cds-dark", "program"].map((theme) => {
   console.log("\n==============================================");
   console.log(`\nProcessing: [${theme}]`);
 

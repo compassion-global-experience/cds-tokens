@@ -20,3 +20,4 @@ done
 
 npx token-transformer themes dist/js/cds-light.json "core/cds-core,cds-light/theme-cds-light,$COMPONENTS" core/cds-core,cds-light/theme-cds-light
 npx token-transformer themes dist/js/cds-dark.json "core/cds-core,cds-dark/theme-cds-dark,$COMPONENTS" core/cds-core,cds-dark/theme-cds-dark
+npx token-transformer themes dist/js/program.json "core/cds-core,program/theme-ccl,$COMPONENTS" core/cds-core,program/theme-ccl
