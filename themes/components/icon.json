@@ -12,6 +12,10 @@
       "primary": {
         "value": "{theme.color.text.primary}",
         "type": "color"
+      },
+      "white": {
+        "value": "{core.color.white}",
+        "type": "color"
       }
     }
   }
