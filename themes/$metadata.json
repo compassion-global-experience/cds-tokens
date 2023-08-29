@@ -2,7 +2,7 @@
   "tokenSetOrder": [
     "core/cds-core",
     "cds-light/theme-cds-light",
-    "new-brand/theme-new-brand",
+    "mwc/theme-mwc",
     "dot-global/theme-dot-global",
     "canada/theme-ca",
     "program/theme-ccl",

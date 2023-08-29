@@ -6246,7 +6246,7 @@
       "components/toast": "enabled",
       "components/tooltip": "enabled",
       "components/type": "enabled",
-      "new-brand/theme-new-brand": "source"
+      "mwc/theme-mwc": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:235:31317",
     "$figmaModeId": "235:8",

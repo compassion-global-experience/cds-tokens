@@ -3,7 +3,7 @@
     "actions": {
       "button": {
         "border-radius": {
-          "value": "{core.borderRadius.plus4}",
+          "value": "{border.radius.circle}",
           "type": "borderRadius"
         }
       },
