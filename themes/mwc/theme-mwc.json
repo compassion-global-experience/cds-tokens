@@ -3,7 +3,7 @@
     "actions": {
       "button": {
         "border-radius": {
-          "value": "{core.borderRadius.plus4}",
+          "value": "{border.radius.circle}",
           "type": "borderRadius"
         }
       },
@@ -47,7 +47,7 @@
     "color": {
       "text": {
         "default": {
-          "value": "#1D1430",
+          "value": "#000006",
           "type": "color"
         },
         "inverted": {
@@ -55,7 +55,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{core.color.gray.minus2}",
+          "value": "#003057",
           "type": "color"
         },
         "primary": {
@@ -75,7 +75,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "#1D1430",
+          "value": "#003057",
           "type": "color"
         },
         "on-secondary": {
@@ -83,7 +83,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "#F2A4B4",
+          "value": "#FFCB3D",
           "type": "color"
         },
         "on-accent": {
@@ -91,7 +91,7 @@
           "type": "color"
         },
         "muted": {
-          "value": "{core.color.gray.minus1}",
+          "value": "#003057",
           "type": "color"
         }
       },
@@ -133,15 +133,15 @@
           "type": "color"
         },
         "accent": {
-          "value": "#F2A4B4",
+          "value": "#FFCB3D",
           "type": "color"
         },
         "accent-subtle": {
-          "value": "#FDF2F5",
+          "value": "#F4EE99",
           "type": "color"
         },
         "accent-amplified": {
-          "value": "#EE8097",
+          "value": "#FDB518",
           "type": "color"
         }
       },
@@ -170,23 +170,23 @@
         },
         "cta": {
           "default": {
-            "value": "#EE8097",
+            "value": "#FFCB3D",
             "type": "color"
           },
           "muted": {
-            "value": "#F7CBD5",
+            "value": "#F4EE99",
             "type": "color"
           },
           "subtle": {
-            "value": "#FDF2F5",
+            "value": "#FFFEED",
             "type": "color"
           },
           "amplified": {
-            "value": "#D9627B",
+            "value": "#FDB518",
             "type": "color"
           },
           "inverted": {
-            "value": "{core.color.black}",
+            "value": "#000006",
             "type": "color"
           }
         },
@@ -208,7 +208,7 @@
             "type": "color"
           },
           "inverted": {
-            "value": "{core.color.gray.minus3}",
+            "value": "#000006",
             "type": "color"
           }
         },
@@ -335,11 +335,11 @@
     "font": {
       "family": {
         "heading": {
-          "value": "Neue Montreal",
+          "value": "Champ",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "Neue Montreal",
+          "value": "Articulat CF",
           "type": "fontFamilies"
         }
       },
@@ -364,19 +364,19 @@
         },
         "heading": {
           "regular": {
-            "value": "Regular",
+            "value": "Black",
             "type": "fontWeights"
           },
           "light": {
-            "value": "Light",
+            "value": "Black",
             "type": "fontWeights"
           },
           "semibold": {
-            "value": "{core.fontWeight.sans.medium}",
+            "value": "Black",
             "type": "fontWeights"
           },
           "bold": {
-            "value": "{core.fontWeight.sans.bold}",
+            "value": "Black",
             "type": "fontWeights"
           }
         }
