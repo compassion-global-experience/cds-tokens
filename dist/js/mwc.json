@@ -5,8 +5,8 @@
         "desktop": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 52,
               "fontSize": 49
             },
@@ -14,8 +14,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 52,
               "fontSize": 49
             },
@@ -25,8 +25,8 @@
         "mobile": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 32,
               "fontSize": 31
             },
@@ -34,8 +34,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 32,
               "fontSize": 31
             },
@@ -47,8 +47,8 @@
         "desktop": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 40,
               "fontSize": 39
             },
@@ -56,8 +56,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 40,
               "fontSize": 39
             },
@@ -67,8 +67,8 @@
         "mobile": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 32,
               "fontSize": 31
             },
@@ -76,8 +76,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 32,
               "fontSize": 31
             },
@@ -89,8 +89,8 @@
         "desktop": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 32,
               "fontSize": 31
             },
@@ -98,8 +98,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 32,
               "fontSize": 31
             },
@@ -109,8 +109,8 @@
         "mobile": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 28,
               "fontSize": 25
             },
@@ -118,8 +118,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 28,
               "fontSize": 25
             },
@@ -131,8 +131,8 @@
         "desktop": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 28,
               "fontSize": 25
             },
@@ -140,8 +140,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 28,
               "fontSize": 25
             },
@@ -151,8 +151,8 @@
         "mobile": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 20,
               "fontSize": 20
             },
@@ -160,8 +160,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 20,
               "fontSize": 20
             },
@@ -173,8 +173,8 @@
         "desktop": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 20,
               "fontSize": 20
             },
@@ -182,8 +182,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 20,
               "fontSize": 20
             },
@@ -193,8 +193,8 @@
         "mobile": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 20,
               "fontSize": 16
             },
@@ -202,8 +202,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 20,
               "fontSize": 16
             },
@@ -215,8 +215,8 @@
         "desktop": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 20,
               "fontSize": 16
             },
@@ -224,8 +224,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 20,
               "fontSize": 16
             },
@@ -235,8 +235,8 @@
         "mobile": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 20,
               "fontSize": 16
             },
@@ -244,8 +244,8 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Bold",
+              "fontFamily": "Champ",
+              "fontWeight": "Black",
               "lineHeight": 20,
               "fontSize": 16
             },
@@ -259,8 +259,8 @@
         "desktop": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Articulat CF",
+              "fontWeight": "Regular",
               "lineHeight": 20,
               "fontSize": 16
             },
@@ -268,7 +268,7 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
+              "fontFamily": "Articulat CF",
               "fontWeight": "Bold",
               "lineHeight": 20,
               "fontSize": 16
@@ -279,8 +279,8 @@
         "mobile": {
           "regular": {
             "value": {
-              "fontFamily": "Gotham",
-              "fontWeight": "Book",
+              "fontFamily": "Articulat CF",
+              "fontWeight": "Regular",
               "lineHeight": 20,
               "fontSize": 16
             },
@@ -288,7 +288,7 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "Gotham",
+              "fontFamily": "Articulat CF",
               "fontWeight": "Bold",
               "lineHeight": 20,
               "fontSize": 16
@@ -300,8 +300,8 @@
           "desktop": {
             "regular": {
               "value": {
-                "fontFamily": "Gotham",
-                "fontWeight": "Book",
+                "fontFamily": "Articulat CF",
+                "fontWeight": "Regular",
                 "lineHeight": 16,
                 "fontSize": 13
               },
@@ -309,7 +309,7 @@
             },
             "bold": {
               "value": {
-                "fontFamily": "Gotham",
+                "fontFamily": "Articulat CF",
                 "fontWeight": "Bold",
                 "lineHeight": 16,
                 "fontSize": 13
@@ -320,8 +320,8 @@
           "mobile": {
             "regular": {
               "value": {
-                "fontFamily": "Gotham",
-                "fontWeight": "Book",
+                "fontFamily": "Articulat CF",
+                "fontWeight": "Regular",
                 "lineHeight": 16,
                 "fontSize": 13
               },
@@ -329,7 +329,7 @@
             },
             "bold": {
               "value": {
-                "fontFamily": "Gotham",
+                "fontFamily": "Articulat CF",
                 "fontWeight": "Bold",
                 "lineHeight": 16,
                 "fontSize": 13
@@ -341,7 +341,7 @@
       }
     },
     "color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "color-white": {
@@ -349,11 +349,11 @@
       "type": "color"
     },
     "color-accent": {
-      "value": "#FFB500",
+      "value": "#FFCB3D",
       "type": "color"
     },
     "color-primary": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "case": {
@@ -382,19 +382,19 @@
     },
     "font": {
       "value": {
-        "fontFamily": "Gotham",
-        "fontWeight": "Book",
+        "fontFamily": "Articulat CF",
+        "fontWeight": "Regular",
         "lineHeight": 13,
         "fontSize": 10
       },
       "type": "typography"
     },
     "background-color": {
-      "value": "#000000",
+      "value": "#000006",
       "type": "color"
     },
     "border-color": {
-      "value": "#000000",
+      "value": "#000006",
       "type": "color"
     },
     "text-color": {
@@ -404,19 +404,19 @@
   },
   "toast": {
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#fff",
       "type": "color"
     },
     "body-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "action-color": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "border-radius": {
@@ -451,7 +451,7 @@
           "letterSpacing": "",
           "lineHeight": 20,
           "fontWeight": "Bold",
-          "fontFamily": "Gotham"
+          "fontFamily": "Articulat CF"
         },
         "type": "typography"
       }
@@ -459,11 +459,11 @@
   },
   "table": {
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#fff",
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "no-background": {
@@ -471,30 +471,30 @@
       "type": "color"
     },
     "header-color": {
-      "value": "#000000",
+      "value": "#000006",
       "type": "color"
     },
     "text-color": {
-      "value": "#000000",
+      "value": "#000006",
       "type": "color"
     },
     "action-color": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "hover": {
       "background-color": {
-        "value": "#D2E9FF",
+        "value": "#D7DFFF",
         "type": "color"
       }
     },
     "active": {
       "background-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       },
       "action-color": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       }
     },
@@ -531,8 +531,8 @@
     "header": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -542,8 +542,8 @@
     "cell": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Book",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Regular",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -553,11 +553,11 @@
   },
   "tab": {
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#fff",
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "no-background": {
@@ -569,22 +569,22 @@
       "type": "color"
     },
     "action-color": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "hover": {
       "background-color": {
-        "value": "#D2E9FF",
+        "value": "#D7DFFF",
         "type": "color"
       }
     },
     "active": {
       "background-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       },
       "action-color": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       }
     },
@@ -652,8 +652,8 @@
     },
     "font": {
       "value": {
-        "fontFamily": "Gotham",
-        "fontWeight": "Medium",
+        "fontFamily": "Articulat CF",
+        "fontWeight": "Bold",
         "lineHeight": 20,
         "fontSize": 16
       },
@@ -707,23 +707,23 @@
   "progress": {
     "label": {
       "value": {
-        "fontFamily": "Gotham",
-        "fontWeight": "Book",
+        "fontFamily": "Articulat CF",
+        "fontWeight": "Regular",
         "lineHeight": 16,
         "fontSize": 13
       },
       "type": "typography"
     },
     "progress-color": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "background-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "label-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "default": {
@@ -747,30 +747,30 @@
   },
   "pagination": {
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#fff",
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "action-color": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "hover": {
       "background-color": {
-        "value": "#D2E9FF",
+        "value": "#D7DFFF",
         "type": "color"
       }
     },
     "active": {
       "background-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       },
       "action-color": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       }
     },
@@ -820,8 +820,8 @@
       },
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -831,8 +831,8 @@
     "sm": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 16,
           "fontSize": 13
         },
@@ -850,8 +850,8 @@
     "lg": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 20
         },
@@ -869,11 +869,11 @@
   },
   "nav": {
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#fff",
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "underline-color": {
@@ -881,22 +881,22 @@
       "type": "color"
     },
     "action-color": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "hover": {
       "background-color": {
-        "value": "#D2E9FF",
+        "value": "#D7DFFF",
         "type": "color"
       }
     },
     "active": {
       "background-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       },
       "action-color": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       }
     },
@@ -929,8 +929,8 @@
     "link": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -940,8 +940,8 @@
     "subnav-link": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 16,
           "fontSize": 13
         },
@@ -976,26 +976,26 @@
       "type": "boxShadow"
     },
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#fff",
       "type": "color"
     },
     "header-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "body-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "header": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Book",
+          "fontFamily": "Champ",
+          "fontWeight": "Black",
           "fontSize": 25,
           "lineHeight": 28
         },
@@ -1005,8 +1005,8 @@
     "body": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Book",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Regular",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -1034,11 +1034,11 @@
   },
   "list-group": {
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#fff",
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "underline-color": {
@@ -1046,38 +1046,38 @@
       "type": "color"
     },
     "icon-color": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "body-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "heading-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "hover": {
       "background-color": {
-        "value": "#D2E9FF",
+        "value": "#D7DFFF",
         "type": "color"
       }
     },
     "active": {
       "background-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       },
       "icon-color": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       },
       "heading-color": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       },
       "body-color": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       }
     },
@@ -1121,7 +1121,7 @@
     },
     "heading-font": {
       "value": {
-        "fontFamily": "Gotham",
+        "fontFamily": "Articulat CF",
         "fontWeight": "Bold",
         "lineHeight": 20,
         "fontSize": 16
@@ -1130,8 +1130,8 @@
     },
     "action-font": {
       "value": {
-        "fontFamily": "Gotham",
-        "fontWeight": "Book",
+        "fontFamily": "Articulat CF",
+        "fontWeight": "Regular",
         "lineHeight": 20,
         "fontSize": 16
       },
@@ -1139,8 +1139,8 @@
     },
     "body-font": {
       "value": {
-        "fontFamily": "Gotham",
-        "fontWeight": "Book",
+        "fontFamily": "Articulat CF",
+        "fontWeight": "Regular",
         "lineHeight": 20,
         "fontSize": 16
       },
@@ -1166,7 +1166,7 @@
   "link": {
     "color": {
       "default": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       },
       "white": {
@@ -1183,8 +1183,8 @@
     "font": {
       "default": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Book",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Regular",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -1192,7 +1192,7 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "Gotham",
+          "fontFamily": "Articulat CF",
           "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 16
@@ -1203,7 +1203,7 @@
   },
   "image": {
     "background-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "icon-color": {
@@ -1218,15 +1218,15 @@
   "icon": {
     "color": {
       "default": {
-        "value": "#000000",
+        "value": "#000006",
         "type": "color"
       },
       "muted": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       },
       "primary": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       },
       "white": {
@@ -1242,15 +1242,15 @@
         "type": "color"
       },
       "action-color": {
-        "value": "#2e2f2a",
+        "value": "#003057",
         "type": "color"
       },
       "border-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       },
       "logo-color": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       }
     },
@@ -1287,8 +1287,8 @@
     },
     "action-font": {
       "value": {
-        "fontFamily": "Gotham",
-        "fontWeight": "Medium",
+        "fontFamily": "Articulat CF",
+        "fontWeight": "Bold",
         "lineHeight": 20,
         "fontSize": 16
       },
@@ -1296,7 +1296,7 @@
     },
     "primary": {
       "background-color": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       },
       "action-color": {
@@ -1304,7 +1304,7 @@
         "type": "color"
       },
       "border-color": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       },
       "logo-color": {
@@ -1371,7 +1371,7 @@
   },
   "form": {
     "input-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "placeholder-color": {
@@ -1379,7 +1379,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "background-color": {
@@ -1387,35 +1387,35 @@
       "type": "color"
     },
     "icon-color": {
-      "value": "#4b4c45",
+      "value": "#003057",
       "type": "color"
     },
     "hint-text-color": {
-      "value": "#4b4c45",
+      "value": "#003057",
       "type": "color"
     },
     "label-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "select-option": {
       "default": {
         "background-color": {
-          "value": "#FFFFFF",
+          "value": "#fff",
           "type": "color"
         },
         "text-color": {
-          "value": "#2e2f2a",
+          "value": "#003057",
           "type": "color"
         }
       },
       "hover": {
         "text-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "background-color": {
-          "value": "#D2E9FF",
+          "value": "#D7DFFF",
           "type": "color"
         }
       },
@@ -1425,8 +1425,8 @@
       },
       "text": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -1442,11 +1442,11 @@
       },
       "active": {
         "text-color": {
-          "value": "#2e2f2a",
+          "value": "#003057",
           "type": "color"
         },
         "background-color": {
-          "value": "#e3e4e2",
+          "value": "#FBF8F4",
           "type": "color"
         }
       },
@@ -1494,21 +1494,21 @@
         "type": "color"
       },
       "border-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       }
     },
     "error": {
       "hint-text": {
-        "value": "#B52C2C",
+        "value": "#E85E46",
         "type": "color"
       },
       "border-color": {
-        "value": "#B52C2C",
+        "value": "#E85E46",
         "type": "color"
       },
       "icon-color": {
-        "value": "#B52C2C",
+        "value": "#E85E46",
         "type": "color"
       }
     },
@@ -1520,17 +1520,17 @@
     },
     "focus": {
       "border-color": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       }
     },
     "check-radio": {
       "default": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       },
       "hover": {
-        "value": "#0075E4",
+        "value": "#7995F5",
         "type": "color"
       },
       "size": {
@@ -1576,8 +1576,8 @@
       "text": {
         "small": {
           "value": {
-            "fontFamily": "Gotham",
-            "fontWeight": "Book",
+            "fontFamily": "Articulat CF",
+            "fontWeight": "Regular",
             "lineHeight": 16,
             "fontSize": 13
           },
@@ -1585,8 +1585,8 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "Gotham",
-            "fontWeight": "Book",
+            "fontFamily": "Articulat CF",
+            "fontWeight": "Regular",
             "lineHeight": 20,
             "fontSize": 16
           },
@@ -1594,8 +1594,8 @@
         },
         "large": {
           "value": {
-            "fontFamily": "Gotham",
-            "fontWeight": "Book",
+            "fontFamily": "Articulat CF",
+            "fontWeight": "Regular",
             "lineHeight": 20,
             "fontSize": 20
           },
@@ -1603,8 +1603,8 @@
         },
         "label": {
           "value": {
-            "fontFamily": "Gotham",
-            "fontWeight": "Medium",
+            "fontFamily": "Articulat CF",
+            "fontWeight": "Bold",
             "lineHeight": 16,
             "fontSize": 13
           },
@@ -1652,8 +1652,8 @@
     },
     "hint-text": {
       "value": {
-        "fontFamily": "Gotham",
-        "fontWeight": "Book",
+        "fontFamily": "Articulat CF",
+        "fontWeight": "Regular",
         "lineHeight": 12,
         "fontSize": 10
       },
@@ -1671,8 +1671,8 @@
     },
     "check-radio-label": {
       "value": {
-        "fontFamily": "Gotham",
-        "fontWeight": "Book",
+        "fontFamily": "Articulat CF",
+        "fontWeight": "Regular",
         "lineHeight": 20,
         "fontSize": 16
       },
@@ -1682,8 +1682,8 @@
       "text": {
         "small": {
           "value": {
-            "fontFamily": "Gotham",
-            "fontWeight": "Medium",
+            "fontFamily": "Articulat CF",
+            "fontWeight": "Bold",
             "lineHeight": 16,
             "fontSize": 13
           },
@@ -1691,8 +1691,8 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "Gotham",
-            "fontWeight": "Medium",
+            "fontFamily": "Articulat CF",
+            "fontWeight": "Bold",
             "lineHeight": 20,
             "fontSize": 16
           },
@@ -1700,8 +1700,8 @@
         },
         "large": {
           "value": {
-            "fontFamily": "Gotham",
-            "fontWeight": "Medium",
+            "fontFamily": "Articulat CF",
+            "fontWeight": "Bold",
             "lineHeight": 20,
             "fontSize": 20
           },
@@ -1712,15 +1712,15 @@
     "radio-button": {
       "default": {
         "label-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "border-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "icon-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "background-color": {
@@ -1730,44 +1730,44 @@
       },
       "active": {
         "label-color": {
-          "value": "#4b4c45",
+          "value": "#003057",
           "type": "color"
         },
         "border-color": {
-          "value": "#e3e4e2",
+          "value": "#FBF8F4",
           "type": "color"
         },
         "icon-color": {
-          "value": "#4b4c45",
+          "value": "#003057",
           "type": "color"
         },
         "background-color": {
-          "value": "#e3e4e2",
+          "value": "#FBF8F4",
           "type": "color"
         }
       },
       "hover": {
         "label-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "border-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "icon-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "background-color": {
-          "value": "#D2E9FF",
+          "value": "#D7DFFF",
           "type": "color"
         }
       },
       "text": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -1783,11 +1783,11 @@
   },
   "dropdown": {
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#fff",
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "no-background": {
@@ -1799,26 +1799,26 @@
       "type": "color"
     },
     "action-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "text-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "hover": {
       "background-color": {
-        "value": "#D2E9FF",
+        "value": "#D7DFFF",
         "type": "color"
       },
       "action-color": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       }
     },
     "active": {
       "background-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       }
     },
@@ -1882,8 +1882,8 @@
     },
     "font": {
       "value": {
-        "fontFamily": "Gotham",
-        "fontWeight": "Book",
+        "fontFamily": "Articulat CF",
+        "fontWeight": "Regular",
         "fontSize": 16,
         "lineHeight": 20
       },
@@ -1898,27 +1898,27 @@
   },
   "card": {
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#fff",
       "type": "color"
     },
     "header-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "header-color-link": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "subhead-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "body-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "border-radius": {
@@ -1953,8 +1953,8 @@
     "header": {
       "default": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Bold",
+          "fontFamily": "Champ",
+          "fontWeight": "Black",
           "lineHeight": 28,
           "fontSize": 25
         },
@@ -1962,8 +1962,8 @@
       },
       "small": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Bold",
+          "fontFamily": "Champ",
+          "fontWeight": "Black",
           "lineHeight": 20,
           "fontSize": 20
         },
@@ -1972,7 +1972,7 @@
     },
     "subhead": {
       "value": {
-        "fontFamily": "Gotham",
+        "fontFamily": "Articulat CF",
         "fontWeight": "Bold",
         "lineHeight": 20,
         "fontSize": 20
@@ -1982,8 +1982,8 @@
     "body": {
       "default": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Book",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Regular",
           "fontSize": 16,
           "lineHeight": 20
         },
@@ -1991,8 +1991,8 @@
       },
       "small": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Book",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Regular",
           "fontSize": 13,
           "lineHeight": 16
         },
@@ -2012,7 +2012,7 @@
     "primary": {
       "default": {
         "background-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "text-color": {
@@ -2024,13 +2024,13 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         }
       },
       "hover": {
         "background-color": {
-          "value": "#0075E4",
+          "value": "#7995F5",
           "type": "color"
         },
         "text-color": {
@@ -2042,7 +2042,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#0075E4",
+          "value": "#7995F5",
           "type": "color"
         }
       },
@@ -2065,7 +2065,7 @@
         }
       },
       "border-radius": {
-        "value": 8,
+        "value": 512,
         "type": "borderRadius"
       },
       "small": {
@@ -2114,15 +2114,15 @@
           "type": "color"
         },
         "text-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "icon-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "border-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         }
       },
@@ -2132,15 +2132,15 @@
           "type": "color"
         },
         "text-color": {
-          "value": "#0075E4",
+          "value": "#7995F5",
           "type": "color"
         },
         "icon-color": {
-          "value": "#0075E4",
+          "value": "#7995F5",
           "type": "color"
         },
         "border-color": {
-          "value": "#0075E4",
+          "value": "#7995F5",
           "type": "color"
         }
       },
@@ -2163,7 +2163,7 @@
         }
       },
       "border-radius": {
-        "value": 8,
+        "value": 512,
         "type": "borderRadius"
       },
       "small": {
@@ -2212,15 +2212,15 @@
           "type": "color"
         },
         "text-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "icon-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         },
         "border-color": {
-          "value": "#005EB8",
+          "value": "#4067F1",
           "type": "color"
         }
       },
@@ -2230,15 +2230,15 @@
           "type": "color"
         },
         "text-color": {
-          "value": "#0075E4",
+          "value": "#7995F5",
           "type": "color"
         },
         "icon-color": {
-          "value": "#0075E4",
+          "value": "#7995F5",
           "type": "color"
         },
         "border-color": {
-          "value": "#0075E4",
+          "value": "#7995F5",
           "type": "color"
         }
       },
@@ -2306,7 +2306,7 @@
     "small": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
+          "fontFamily": "Articulat CF",
           "fontWeight": "Bold",
           "lineHeight": 16,
           "fontSize": 13
@@ -2317,7 +2317,7 @@
     "medium": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
+          "fontFamily": "Articulat CF",
           "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 16
@@ -2328,7 +2328,7 @@
     "large": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
+          "fontFamily": "Articulat CF",
           "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 20
@@ -2363,37 +2363,37 @@
       "primary": {
         "default": {
           "background-color": {
-            "value": "#f7d247",
+            "value": "#FFCB3D",
             "type": "color"
           },
           "text-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           },
           "icon-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           },
           "border-color": {
-            "value": "#f7d247",
+            "value": "#FFCB3D",
             "type": "color"
           }
         },
         "hover": {
           "background-color": {
-            "value": "#FFDD8A",
+            "value": "#F4EE99",
             "type": "color"
           },
           "text-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           },
           "icon-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           },
           "border-color": {
-            "value": "#FFDD8A",
+            "value": "#F4EE99",
             "type": "color"
           }
         },
@@ -2591,7 +2591,7 @@
       "primary": {
         "default": {
           "background-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           },
           "text-color": {
@@ -2603,13 +2603,13 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           }
         },
         "hover": {
           "background-color": {
-            "value": "#1c1c1c",
+            "value": "#1c1c1e",
             "type": "color"
           },
           "text-color": {
@@ -2621,13 +2621,13 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#1c1c1c",
+            "value": "#1c1c1e",
             "type": "color"
           }
         },
         "disabled": {
           "background-color": {
-            "value": "#00000080",
+            "value": "#00000680",
             "type": "color"
           },
           "text-color": {
@@ -2639,7 +2639,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#00000080",
+            "value": "#00000680",
             "type": "color"
           }
         }
@@ -2651,15 +2651,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           },
           "icon-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           },
           "border-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           }
         },
@@ -2669,15 +2669,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "#1c1c1c",
+            "value": "#1c1c1e",
             "type": "color"
           },
           "icon-color": {
-            "value": "#1c1c1c",
+            "value": "#1c1c1e",
             "type": "color"
           },
           "border-color": {
-            "value": "#1c1c1c",
+            "value": "#1c1c1e",
             "type": "color"
           }
         },
@@ -2687,15 +2687,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "#00000080",
+            "value": "#00000680",
             "type": "color"
           },
           "icon-color": {
-            "value": "#00000080",
+            "value": "#00000680",
             "type": "color"
           },
           "border-color": {
-            "value": "#00000080",
+            "value": "#00000680",
             "type": "color"
           }
         }
@@ -2707,15 +2707,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           },
           "icon-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           },
           "border-color": {
-            "value": "#000000",
+            "value": "#000006",
             "type": "color"
           }
         },
@@ -2725,15 +2725,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "#1c1c1c",
+            "value": "#1c1c1e",
             "type": "color"
           },
           "icon-color": {
-            "value": "#1c1c1c",
+            "value": "#1c1c1e",
             "type": "color"
           },
           "border-color": {
-            "value": "#1c1c1c",
+            "value": "#1c1c1e",
             "type": "color"
           }
         },
@@ -2743,15 +2743,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "#00000080",
+            "value": "#00000680",
             "type": "color"
           },
           "icon-color": {
-            "value": "#00000080",
+            "value": "#00000680",
             "type": "color"
           },
           "border-color": {
-            "value": "#00000080",
+            "value": "#00000680",
             "type": "color"
           }
         }
@@ -2765,15 +2765,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "#B52C2C",
+            "value": "#E85E46",
             "type": "color"
           },
           "icon-color": {
-            "value": "#B52C2C",
+            "value": "#E85E46",
             "type": "color"
           },
           "border-color": {
-            "value": "#B52C2C",
+            "value": "#E85E46",
             "type": "color"
           }
         },
@@ -2783,15 +2783,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "#CF3B3B",
+            "value": "#F3BCB3",
             "type": "color"
           },
           "icon-color": {
-            "value": "#CF3B3B",
+            "value": "#F3BCB3",
             "type": "color"
           },
           "border-color": {
-            "value": "#CF3B3B",
+            "value": "#F3BCB3",
             "type": "color"
           }
         }
@@ -2803,15 +2803,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "#B52C2C",
+            "value": "#E85E46",
             "type": "color"
           },
           "icon-color": {
-            "value": "#B52C2C",
+            "value": "#E85E46",
             "type": "color"
           },
           "border-color": {
-            "value": "#B52C2C",
+            "value": "#E85E46",
             "type": "color"
           }
         },
@@ -2821,15 +2821,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "#CF3B3B",
+            "value": "#F3BCB3",
             "type": "color"
           },
           "icon-color": {
-            "value": "#CF3B3B",
+            "value": "#F3BCB3",
             "type": "color"
           },
           "border-color": {
-            "value": "#CF3B3B",
+            "value": "#F3BCB3",
             "type": "color"
           }
         }
@@ -2846,20 +2846,20 @@
       "type": "color"
     },
     "action-color": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "active": {
       "action-color": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       }
     },
     "md": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -2869,8 +2869,8 @@
     "sm": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 16,
           "fontSize": 13
         },
@@ -2881,11 +2881,11 @@
   "border": {
     "color": {
       "neutral": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       },
       "primary": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       }
     },
@@ -2917,7 +2917,7 @@
   "badge": {
     "primary": {
       "background-color": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       },
       "text-color": {
@@ -2929,7 +2929,7 @@
         "type": "color"
       },
       "border-color": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       }
     },
@@ -2955,7 +2955,7 @@
     },
     "danger": {
       "background-color": {
-        "value": "#B52C2C",
+        "value": "#E85E46",
         "type": "color"
       },
       "text-color": {
@@ -2967,13 +2967,13 @@
         "type": "color"
       },
       "border-color": {
-        "value": "#B52C2C",
+        "value": "#E85E46",
         "type": "color"
       }
     },
     "warning": {
       "background-color": {
-        "value": "#FFB500",
+        "value": "#FBE76B",
         "type": "color"
       },
       "text-color": {
@@ -2985,7 +2985,7 @@
         "type": "color"
       },
       "border-color": {
-        "value": "#FFB500",
+        "value": "#FBE76B",
         "type": "color"
       }
     },
@@ -3027,25 +3027,25 @@
     },
     "neutral": {
       "background-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       },
       "text-color": {
-        "value": "#2e2f2a",
+        "value": "#003057",
         "type": "color"
       },
       "icon-color": {
-        "value": "#2e2f2a",
+        "value": "#003057",
         "type": "color"
       },
       "border-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       }
     },
     "font": {
       "value": {
-        "fontFamily": "Gotham",
+        "fontFamily": "Articulat CF",
         "fontWeight": "Bold",
         "lineHeight": 13,
         "fontSize": 10
@@ -3056,49 +3056,49 @@
   "background": {
     "primary": {
       "default": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       },
       "subtle": {
-        "value": "#D2E9FF",
+        "value": "#D7DFFF",
         "type": "color"
       },
       "amplified": {
-        "value": "#004180",
+        "value": "#0E33B9",
         "type": "color"
       }
     },
     "accent": {
       "default": {
-        "value": "#FFB500",
+        "value": "#FFCB3D",
         "type": "color"
       },
       "subtle": {
-        "value": "#FFF1CF",
+        "value": "#F4EE99",
         "type": "color"
       },
       "amplified": {
-        "value": "#8F6500",
+        "value": "#FDB518",
         "type": "color"
       }
     },
     "secondary": {
       "default": {
-        "value": "#0086BF",
+        "value": "#1D1430",
         "type": "color"
       },
       "subtle": {
-        "value": "#C9EFFF",
+        "value": "#41609C",
         "type": "color"
       },
       "amplified": {
-        "value": "#004663",
+        "value": "#07050B",
         "type": "color"
       }
     },
     "neutral": {
       "subtle": {
-        "value": "#FFFFFF",
+        "value": "#fff",
         "type": "color"
       },
       "default": {
@@ -3106,7 +3106,7 @@
         "type": "color"
       },
       "amplified": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       }
     }
@@ -3114,45 +3114,45 @@
   "alert": {
     "primary": {
       "background-color": {
-        "value": "#D2E9FF",
+        "value": "#D7DFFF",
         "type": "color"
       },
       "body-color": {
-        "value": "#004180",
+        "value": "#0E33B9",
         "type": "color"
       },
       "border-color": {
-        "value": "#005EB8",
+        "value": "#4067F1",
         "type": "color"
       },
       "header-color": {
-        "value": "#004180",
+        "value": "#0E33B9",
         "type": "color"
       },
       "icon-color": {
-        "value": "#004180",
+        "value": "#0E33B9",
         "type": "color"
       }
     },
     "danger": {
       "background-color": {
-        "value": "#EBADAD",
+        "value": "#F9DED9",
         "type": "color"
       },
       "body-color": {
-        "value": "#5B1616",
+        "value": "#8C2E1D",
         "type": "color"
       },
       "border-color": {
-        "value": "#B52C2C",
+        "value": "#E85E46",
         "type": "color"
       },
       "header-color": {
-        "value": "#5B1616",
+        "value": "#8C2E1D",
         "type": "color"
       },
       "icon-color": {
-        "value": "#5B1616",
+        "value": "#8C2E1D",
         "type": "color"
       }
     },
@@ -3180,23 +3180,23 @@
     },
     "warning": {
       "background-color": {
-        "value": "#FFF1CF",
+        "value": "#FEFADF",
         "type": "color"
       },
       "body-color": {
-        "value": "#8F6500",
+        "value": "#93842A",
         "type": "color"
       },
       "border-color": {
-        "value": "#FFB500",
+        "value": "#FBE76B",
         "type": "color"
       },
       "header-color": {
-        "value": "#8F6500",
+        "value": "#93842A",
         "type": "color"
       },
       "icon-color": {
-        "value": "#8F6500",
+        "value": "#93842A",
         "type": "color"
       }
     },
@@ -3227,31 +3227,31 @@
     },
     "neutral": {
       "background-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       },
       "body-color": {
-        "value": "#2e2f2a",
+        "value": "#003057",
         "type": "color"
       },
       "border-color": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       },
       "header-color": {
-        "value": "#2e2f2a",
+        "value": "#003057",
         "type": "color"
       },
       "icon-color": {
-        "value": "#2e2f2a",
+        "value": "#003057",
         "type": "color"
       }
     },
     "header": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Bold",
+          "fontFamily": "Champ",
+          "fontWeight": "Black",
           "lineHeight": 20,
           "fontSize": 20
         },
@@ -3261,8 +3261,8 @@
     "body": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Book",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Regular",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -3278,17 +3278,17 @@
       "type": "spacing"
     },
     "close-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     }
   },
   "accordion": {
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#fff",
       "type": "color"
     },
     "border-color": {
-      "value": "#e3e4e2",
+      "value": "#FBF8F4",
       "type": "color"
     },
     "underline-color": {
@@ -3296,26 +3296,26 @@
       "type": "color"
     },
     "action-color": {
-      "value": "#005EB8",
+      "value": "#4067F1",
       "type": "color"
     },
     "body-color": {
-      "value": "#2e2f2a",
+      "value": "#003057",
       "type": "color"
     },
     "hover": {
       "background-color": {
-        "value": "#D2E9FF",
+        "value": "#D7DFFF",
         "type": "color"
       }
     },
     "active": {
       "background-color": {
-        "value": "#e3e4e2",
+        "value": "#FBF8F4",
         "type": "color"
       },
       "action-color": {
-        "value": "#4b4c45",
+        "value": "#003057",
         "type": "color"
       }
     },
@@ -3352,8 +3352,8 @@
     "link": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Medium",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Bold",
           "lineHeight": 20,
           "fontSize": 16
         },
@@ -3363,8 +3363,8 @@
     "body": {
       "font": {
         "value": {
-          "fontFamily": "Gotham",
-          "fontWeight": "Book",
+          "fontFamily": "Articulat CF",
+          "fontWeight": "Regular",
           "lineHeight": 20,
           "fontSize": 16
         },

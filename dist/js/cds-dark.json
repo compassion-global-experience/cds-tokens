@@ -1228,6 +1228,10 @@
       "primary": {
         "value": "#61B3FF",
         "type": "color"
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
       }
     }
   },
@@ -2830,6 +2834,10 @@
           }
         }
       }
+    },
+    "gap": {
+      "value": 10,
+      "type": "spacing"
     }
   },
   "breadcrumb": {

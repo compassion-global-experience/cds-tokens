@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/compassion-global-experience/cds-tokens#readme",
   "dependencies": {
-    "style-dictionary": "^3.7.2",
+    "style-dictionary": "^3.8.0",
     "token-transformer": "^0.0.32"
   }
 }
