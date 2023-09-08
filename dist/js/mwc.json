@@ -398,7 +398,7 @@
       "type": "color"
     },
     "text-color": {
-      "value": "#FFFFFF",
+      "value": "#FCF8F4",
       "type": "color"
     }
   },
@@ -412,7 +412,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "action-color": {
@@ -463,7 +463,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "no-background": {
@@ -490,7 +490,7 @@
     },
     "active": {
       "background-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "action-color": {
@@ -557,7 +557,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "no-background": {
@@ -580,7 +580,7 @@
     },
     "active": {
       "background-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "action-color": {
@@ -719,7 +719,7 @@
       "type": "color"
     },
     "background-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "label-color": {
@@ -751,7 +751,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "action-color": {
@@ -766,7 +766,7 @@
     },
     "active": {
       "background-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "action-color": {
@@ -873,7 +873,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "underline-color": {
@@ -892,7 +892,7 @@
     },
     "active": {
       "background-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "action-color": {
@@ -988,7 +988,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "header": {
@@ -1038,7 +1038,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "underline-color": {
@@ -1065,7 +1065,7 @@
     },
     "active": {
       "background-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "icon-color": {
@@ -1203,7 +1203,7 @@
   },
   "image": {
     "background-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "icon-color": {
@@ -1238,7 +1238,7 @@
   "header": {
     "default": {
       "background-color": {
-        "value": "#FFFFFF",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "action-color": {
@@ -1246,7 +1246,7 @@
         "type": "color"
       },
       "border-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "logo-color": {
@@ -1379,11 +1379,11 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "background-color": {
-      "value": "#FFFFFF",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "icon-color": {
@@ -1446,7 +1446,7 @@
           "type": "color"
         },
         "background-color": {
-          "value": "#FBF8F4",
+          "value": "#FCF8F4",
           "type": "color"
         }
       },
@@ -1494,7 +1494,7 @@
         "type": "color"
       },
       "border-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       }
     },
@@ -1734,7 +1734,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#FBF8F4",
+          "value": "#FCF8F4",
           "type": "color"
         },
         "icon-color": {
@@ -1742,7 +1742,7 @@
           "type": "color"
         },
         "background-color": {
-          "value": "#FBF8F4",
+          "value": "#FCF8F4",
           "type": "color"
         }
       },
@@ -1787,7 +1787,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "no-background": {
@@ -1818,7 +1818,7 @@
     },
     "active": {
       "background-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       }
     },
@@ -1918,7 +1918,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "border-radius": {
@@ -2881,7 +2881,7 @@
   "border": {
     "color": {
       "neutral": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "primary": {
@@ -3027,7 +3027,7 @@
     },
     "neutral": {
       "background-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "text-color": {
@@ -3039,7 +3039,7 @@
         "type": "color"
       },
       "border-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       }
     },
@@ -3102,11 +3102,11 @@
         "type": "color"
       },
       "default": {
-        "value": "#FFFFFF",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "amplified": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       }
     }
@@ -3227,7 +3227,7 @@
     },
     "neutral": {
       "background-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "body-color": {
@@ -3288,7 +3288,7 @@
       "type": "color"
     },
     "border-color": {
-      "value": "#FBF8F4",
+      "value": "#FCF8F4",
       "type": "color"
     },
     "underline-color": {
@@ -3311,7 +3311,7 @@
     },
     "active": {
       "background-color": {
-        "value": "#FBF8F4",
+        "value": "#FCF8F4",
         "type": "color"
       },
       "action-color": {
