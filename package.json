@@ -1,6 +1,6 @@
 {
   "name": "@compassion-global-experience/cds-tokens",
-  "version": "2.0.0-alpha.2",
+  "version": "2.0.0-alpha.3",
   "description": "Tokens used in the Compassion Design System.",
   "main": "./themes",
   "scripts": {
