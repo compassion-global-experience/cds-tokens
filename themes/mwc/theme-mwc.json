@@ -97,7 +97,7 @@
       },
       "background": {
         "default": {
-          "value": "#FCF8F4",
+          "value": "#FFF",
           "type": "color"
         },
         "canvas": {
