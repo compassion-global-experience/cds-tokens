@@ -398,7 +398,7 @@
       "type": "color"
     },
     "text-color": {
-      "value": "#FCF8F4",
+      "value": "#FFF",
       "type": "color"
     }
   },
@@ -1238,7 +1238,7 @@
   "header": {
     "default": {
       "background-color": {
-        "value": "#FCF8F4",
+        "value": "#FFF",
         "type": "color"
       },
       "action-color": {
@@ -1383,7 +1383,7 @@
       "type": "color"
     },
     "background-color": {
-      "value": "#FCF8F4",
+      "value": "#FFF",
       "type": "color"
     },
     "icon-color": {
@@ -3102,7 +3102,7 @@
         "type": "color"
       },
       "default": {
-        "value": "#FCF8F4",
+        "value": "#FFF",
         "type": "color"
       },
       "amplified": {
