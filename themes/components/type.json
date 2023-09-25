@@ -252,6 +252,27 @@
             "type": "typography"
           }
         }
+      },
+      "regular": {
+        "value": {
+          "fontFamily": "{theme.font.family.heading}",
+          "fontWeight": "{theme.font.weight.heading.regular}"
+        },
+        "type": "typography"
+      },
+      "semibold": {
+        "value": {
+          "fontFamily": "{theme.font.family.heading}",
+          "fontWeight": "{theme.font.weight.heading.semibold}"
+        },
+        "type": "typography"
+      },
+      "bold": {
+        "value": {
+          "fontFamily": "{theme.font.family.heading}",
+          "fontWeight": "{core.fontWeight.sans.bold}"
+        },
+        "type": "typography"
       }
     },
     "body": {
@@ -338,6 +359,27 @@
             }
           }
         }
+      },
+      "regular": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.body.regular}"
+        },
+        "type": "typography"
+      },
+      "semibold": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.body.semibold}"
+        },
+        "type": "typography"
+      },
+      "bold": {
+        "value": {
+          "fontFamily": "{theme.font.family.body}",
+          "fontWeight": "{theme.font.weight.body.bold}"
+        },
+        "type": "typography"
       }
     },
     "color": {
