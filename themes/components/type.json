@@ -403,6 +403,16 @@
         "value": "{core.textCase.uppercase}",
         "type": "textCase"
       }
+    },
+    "margin-bottom": {
+      "desktop": {
+        "value": "{core.space.plus2}",
+        "type": "spacing"
+      },
+      "mobile": {
+        "value": "{core.space.plus2}",
+        "type": "spacing"
+      }
     }
   }
 }
