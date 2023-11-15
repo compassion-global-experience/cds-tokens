@@ -3,6 +3,7 @@
     "core/cds-core",
     "cds-light/theme-cds-light",
     "mwc/theme-mwc",
+    "cot/theme-crowdseed",
     "dot-global/theme-dot-global",
     "canada/theme-ca",
     "program/theme-ccl",
