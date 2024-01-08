@@ -1,10 +1,13 @@
 [
   {
-    "id": "40d4577c025bcb7526a5f336880e318a53fff627",
-    "name": "default",
+    "id": "ed10baf215ac5ca0374c84a0c99570a011a07789",
+    "name": "Compassion Light Desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/core": "source"
+      "core/core": "source",
+      "brand/compassion": "enabled",
+      "mode/light": "enabled",
+      "platform/desktop": "enabled"
     }
   }
 ]

@@ -1,0 +1,8 @@
+{
+  "fg": {
+    "primary": {
+      "value": "{core.color.gray-light-mode.900}",
+      "type": "color"
+    }
+  }
+}

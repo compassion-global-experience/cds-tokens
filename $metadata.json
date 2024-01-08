@@ -1,5 +1,8 @@
 {
   "tokenSetOrder": [
-    "core/core"
+    "core/core",
+    "brand/compassion",
+    "mode/light",
+    "platform/desktop"
   ]
 }

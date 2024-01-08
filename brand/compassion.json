@@ -1,0 +1,78 @@
+{
+  "brand": {
+    "25": {
+      "value": "{core.color.blue.25}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{core.color.blue.50}",
+      "type": "color"
+    },
+    "100": {
+      "value": "{core.color.blue.100}",
+      "type": "color"
+    },
+    "200": {
+      "value": "{core.color.blue.200}",
+      "type": "color"
+    },
+    "300": {
+      "value": "{core.color.blue.300}",
+      "type": "color"
+    },
+    "400": {
+      "value": "{core.color.blue.400}",
+      "type": "color"
+    },
+    "500": {
+      "value": "{core.color.blue.500}",
+      "type": "color"
+    },
+    "600": {
+      "value": "{core.color.blue.600}",
+      "type": "color"
+    },
+    "700": {
+      "value": "{core.color.blue.700}",
+      "type": "color"
+    },
+    "800": {
+      "value": "{core.color.blue.800}",
+      "type": "color"
+    },
+    "900": {
+      "value": "{core.color.blue.900}",
+      "type": "color"
+    },
+    "950": {
+      "value": "{core.color.blue.950}",
+      "type": "color"
+    }
+  },
+  "display": {
+    "fontFamily": {
+      "value": "{core.fontFamily.neighbour-sans}",
+      "type": "fontFamilies",
+      "fontFamily": {
+        "value": "{core.fontFamily.neighbour-sans}",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "button": {
+    "borderRadius": {
+      "value": "8",
+      "type": "borderRadius"
+    }
+  },
+  "text": {
+    "fontFamily": {
+      "value": "{core.fontFamily.neighbour-sans}",
+      "type": "fontFamilies",
+      "fontFamily": {
+        "value": "{core.fontFamily.neighbour-sans}",
+        "type": "fontFamilies"
+      }
+    }
+  }
+}
