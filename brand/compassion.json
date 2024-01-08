@@ -74,5 +74,11 @@
         "type": "fontFamilies"
       }
     }
+  },
+  "onBrand": {
+    "default": {
+      "value": "{core.color.white}",
+      "type": "color"
+    }
   }
 }
