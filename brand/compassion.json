@@ -79,6 +79,10 @@
     "default": {
       "value": "{core.color.white}",
       "type": "color"
+    },
+    "muted": {
+      "value": "{core.color.blue.200}",
+      "type": "color"
     }
   }
 }
