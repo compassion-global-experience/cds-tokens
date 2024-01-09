@@ -30,16 +30,6 @@
         "type": "color"
       }
     },
-    "onBrand": {
-      "default": {
-        "value": "{onBrand.default}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{onBrand.muted}",
-        "type": "color"
-      }
-    },
     "error": {
       "default": {
         "value": "{core.color.orange.700}",

@@ -976,5 +976,97 @@
         "type": "typography"
       }
     }
+  },
+  "space": {
+    "none": {
+      "value": "{core.spacing.0}",
+      "type": "spacing"
+    },
+    "xxs": {
+      "value": "{core.spacing.2}",
+      "type": "spacing"
+    },
+    "xs": {
+      "value": "{core.spacing.4}",
+      "type": "spacing"
+    },
+    "sm": {
+      "value": "{core.spacing.6}",
+      "type": "spacing"
+    },
+    "md": {
+      "value": "{core.spacing.8}",
+      "type": "spacing"
+    },
+    "lg": {
+      "value": "{core.spacing.12}",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": "{core.spacing.16}",
+      "type": "spacing"
+    },
+    "2xl": {
+      "value": "{core.spacing.20}",
+      "type": "spacing"
+    },
+    "3xl": {
+      "value": "{core.spacing.24}",
+      "type": "spacing"
+    },
+    "4xl": {
+      "value": "{core.spacing.32}",
+      "type": "spacing"
+    },
+    "5xl": {
+      "value": "{core.spacing.40}",
+      "type": "spacing"
+    },
+    "6xl": {
+      "value": "{core.spacing.48}",
+      "type": "spacing"
+    },
+    "7xl": {
+      "value": "{core.spacing.64}",
+      "type": "spacing"
+    },
+    "8xl": {
+      "value": "{core.spacing.80}",
+      "type": "spacing"
+    },
+    "9xl": {
+      "value": "{core.spacing.96}",
+      "type": "spacing"
+    },
+    "10xl": {
+      "value": "{core.spacing.128}",
+      "type": "spacing"
+    },
+    "11xl": {
+      "value": "{core.spacing.160}",
+      "type": "spacing"
+    }
+  },
+  "size": {
+    "xs": {
+      "value": "{core.sizing.10}",
+      "type": "sizing"
+    },
+    "sm": {
+      "value": "{core.sizing.16}",
+      "type": "sizing"
+    },
+    "md": {
+      "value": "{core.sizing.20}",
+      "type": "sizing"
+    },
+    "lg": {
+      "value": "{core.sizing.24}",
+      "type": "sizing"
+    },
+    "xl": {
+      "value": "{core.sizing.28}",
+      "type": "sizing"
+    }
   }
 }

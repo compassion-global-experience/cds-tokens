@@ -7,7 +7,8 @@
       "core/core": "source",
       "brand/compassion": "enabled",
       "mode/light": "enabled",
-      "platform/desktop": "enabled"
+      "platform/desktop": "enabled",
+      "theme": "enabled"
     }
   }
 ]

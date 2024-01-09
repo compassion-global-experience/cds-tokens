@@ -47,6 +47,21 @@
     "950": {
       "value": "{core.color.blue.950}",
       "type": "color"
+    },
+    "alpha": {
+      "default": {
+        "value": "{core.color.blue.600}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".24",
+              "space": "srgb"
+            }
+          }
+        }
+      }
     }
   },
   "display": {
@@ -61,7 +76,7 @@
   },
   "button": {
     "borderRadius": {
-      "value": "8",
+      "value": "{core.borderRadius.8}",
       "type": "borderRadius"
     }
   },
@@ -78,10 +93,6 @@
   "onBrand": {
     "default": {
       "value": "{core.color.white}",
-      "type": "color"
-    },
-    "muted": {
-      "value": "{core.color.blue.200}",
       "type": "color"
     }
   }
