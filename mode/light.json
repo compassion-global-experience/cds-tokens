@@ -137,6 +137,24 @@
     "muted": {
       "value": "{core.color.gray-light-mode.200}",
       "type": "color"
+    },
+    "brand": {
+      "default": {
+        "value": "{brand.300}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{brand.100}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{brand.50}",
+        "type": "color"
+      },
+      "amplified": {
+        "value": "{brand.600}",
+        "type": "color"
+      }
     }
   }
 }
