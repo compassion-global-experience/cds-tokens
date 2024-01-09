@@ -295,7 +295,7 @@
       "value": "{core.borderRadius.0}",
       "type": "borderRadius"
     },
-    "xxs": {
+    "2xs": {
       "value": "{core.borderRadius.2}",
       "type": "borderRadius"
     },
@@ -334,6 +334,16 @@
     "full": {
       "value": "{core.borderRadius.9999}",
       "type": "borderRadius"
+    }
+  },
+  "borderWidth": {
+    "none": {
+      "value": "{core.borderWidth.0}",
+      "type": "borderWidth"
+    },
+    "default": {
+      "value": "{core.borderWidth.1}",
+      "type": "borderWidth"
     }
   }
 }

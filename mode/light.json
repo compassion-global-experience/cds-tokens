@@ -28,6 +28,34 @@
       "subtle": {
         "value": "{brand.500}",
         "type": "color"
+      },
+      "amplified": {
+        "value": "{brand.800}",
+        "type": "color"
+      }
+    },
+    "brandAlt": {
+      "default": {
+        "value": "{brand.700}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{brand.600}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{brand.500}",
+        "type": "color"
+      },
+      "amplified": {
+        "value": "{brand.800}",
+        "type": "color"
+      }
+    },
+    "onBrand": {
+      "default": {
+        "value": "{onBrand.default}",
+        "type": "color"
       }
     },
     "error": {
@@ -89,7 +117,7 @@
       "type": "color"
     },
     "muted": {
-      "value": "{core.color.gray-light-mode.100}",
+      "value": "{core.color.white}",
       "type": "color"
     },
     "subtle": {
@@ -101,6 +129,24 @@
       "type": "color"
     },
     "brand": {
+      "default": {
+        "value": "{brand.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{brand.100}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{brand.50}",
+        "type": "color"
+      },
+      "amplified": {
+        "value": "{brand.700}",
+        "type": "color"
+      }
+    },
+    "brandAlt": {
       "default": {
         "value": "{brand.600}",
         "type": "color"
@@ -140,11 +186,11 @@
     },
     "brand": {
       "default": {
-        "value": "{brand.300}",
+        "value": "{brand.600}",
         "type": "color"
       },
       "muted": {
-        "value": "{brand.100}",
+        "value": "{brand.300}",
         "type": "color"
       },
       "subtle": {
@@ -152,7 +198,35 @@
         "type": "color"
       },
       "amplified": {
+        "value": "{brand.700}",
+        "type": "color"
+      }
+    },
+    "brandAlt": {
+      "default": {
         "value": "{brand.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{brand.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{brand.50}",
+        "type": "color"
+      },
+      "amplified": {
+        "value": "{brand.700}",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "default": {
+        "value": "{core.color.gray-light-mode.300}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{core.color.gray-light-mode.200}",
         "type": "color"
       }
     }
