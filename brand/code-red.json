@@ -76,7 +76,7 @@
   },
   "button": {
     "borderRadius": {
-      "value": "{core.borderRadius.8}",
+      "value": "{borderRadius.full}",
       "type": "borderRadius"
     }
   },
