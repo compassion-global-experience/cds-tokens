@@ -5,7 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/compassion": "enabled",
-      "core/core": "source"
+      "core/core": "source",
+      "brand/code-red": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:10252",
     "$figmaModeId": "51:23",
@@ -34,7 +35,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "mode/light": "enabled",
-      "core/core": "source"
+      "core/core": "source",
+      "brand/code-red": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:10438",
     "$figmaModeId": "51:27",
@@ -167,7 +169,8 @@
     },
     "selectedTokenSets": {
       "platform/desktop": "enabled",
-      "core/core": "source"
+      "core/core": "source",
+      "brand/code-red": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:10303",
     "$figmaModeId": "51:25",
@@ -224,7 +227,8 @@
     },
     "selectedTokenSets": {
       "core/core": "source",
-      "theme": "enabled"
+      "theme": "enabled",
+      "brand/code-red": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:10326",
     "$figmaModeId": "51:26",
@@ -251,7 +255,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/core": "source",
-      "mode/dark": "enabled"
+      "mode/dark": "enabled",
+      "brand/code-red": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:10438",
     "$figmaModeId": "68:0",
@@ -311,11 +316,11 @@
   },
   {
     "id": "bb13a5bb19faef4750435f158a4fdda0db94afb4",
-    "name": "Code Yellow",
+    "name": "Code Red",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/core": "source",
-      "brand/code-yellow": "enabled"
+      "brand/code-red": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:10252",
     "$figmaModeId": "69:1",
