@@ -24,7 +24,9 @@
       "brand.950": "462a7cf1185b215d78a530841f3a040c181aff68",
       "brand.alpha.default": "f1196272ce0e33df2fccd763deda8ffbde7ff5fe",
       "button.borderRadius": "d89d9174ee324d2b155b7f9663f33fb80f771323",
-      "onBrand.default": "e11656970acbe6b9943c853d2c1cf33ae14a7c21"
+      "onBrand.default": "e11656970acbe6b9943c853d2c1cf33ae14a7c21",
+      "brand.solid.default": "4e79f04b949352e310b5382862b9fa0ea87ad727",
+      "brand.solid.amplified": "f22d015b94b08f65aa6dbee91cd51fe789ed18c7"
     },
     "group": "Brand"
   },
@@ -334,7 +336,9 @@
       "brand.950": "462a7cf1185b215d78a530841f3a040c181aff68",
       "brand.alpha.default": "f1196272ce0e33df2fccd763deda8ffbde7ff5fe",
       "button.borderRadius": "d89d9174ee324d2b155b7f9663f33fb80f771323",
-      "onBrand.default": "e11656970acbe6b9943c853d2c1cf33ae14a7c21"
+      "onBrand.default": "e11656970acbe6b9943c853d2c1cf33ae14a7c21",
+      "brand.solid.default": "4e79f04b949352e310b5382862b9fa0ea87ad727",
+      "brand.solid.amplified": "f22d015b94b08f65aa6dbee91cd51fe789ed18c7"
     },
     "group": "Brand"
   }

@@ -62,6 +62,16 @@
           }
         }
       }
+    },
+    "solid": {
+      "default": {
+        "value": "{brand.600}",
+        "type": "color"
+      },
+      "amplified": {
+        "value": "{brand.700}",
+        "type": "color"
+      }
     }
   },
   "display": {

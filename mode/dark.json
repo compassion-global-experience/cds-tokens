@@ -130,7 +130,7 @@
     },
     "brand": {
       "default": {
-        "value": "{brand.600}",
+        "value": "{brand.solid.default}",
         "type": "color"
       },
       "muted": {
@@ -142,7 +142,7 @@
         "type": "color"
       },
       "amplified": {
-        "value": "{brand.700}",
+        "value": "{brand.solid.amplified}",
         "type": "color"
       }
     },
@@ -186,7 +186,7 @@
     },
     "brand": {
       "default": {
-        "value": "{brand.600}",
+        "value": "{brand.solid.default}",
         "type": "color"
       },
       "muted": {
@@ -198,7 +198,7 @@
         "type": "color"
       },
       "amplified": {
-        "value": "{brand.700}",
+        "value": "{brand.solid.amplified}",
         "type": "color"
       }
     },
