@@ -1,10 +1,11 @@
 {
   "tokenSetOrder": [
     "core/core",
-    "brand/compassion",
     "mode/light",
     "mode/dark",
     "platform/desktop",
-    "theme"
+    "theme",
+    "brand/compassion",
+    "brand/code-yellow"
   ]
 }
