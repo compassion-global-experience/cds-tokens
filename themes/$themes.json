@@ -30,8 +30,7 @@
       "components/tooltip": "enabled",
       "components/type": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled",
-      "cot/theme-crowdseed": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "type.color": "S:d4ca3d72ff6b8263a1fc6134d54b1bae4bf01116,",
@@ -1018,8 +1017,7 @@
       "components/border": "enabled",
       "components/link": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled",
-      "cot/theme-crowdseed": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "color.nav.background-color": "S:4d684ad8a29d4ed22920653bf54c614ba9f335cb,",
@@ -2256,8 +2254,7 @@
       "components/border": "enabled",
       "components/link": "enabled",
       "components/icon": "enabled",
-      "components/image": "enabled",
-      "cot/theme-crowdseed": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.text.default": "S:de67ca901ee271d42e9139f06ce244092d2a62a8,",
@@ -3481,8 +3478,7 @@
       "components/toast": "enabled",
       "components/type": "enabled",
       "components/tooltip": "enabled",
-      "components/image": "enabled",
-      "cot/theme-crowdseed": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {
       "type.color": "S:c3c2bb5f7ab42d6b1538baf8d0ee9f5c6ab90b50,",
@@ -4591,8 +4587,7 @@
       "components/icon": "enabled",
       "components/progress-bar": "enabled",
       "components/nav": "enabled",
-      "components/image": "enabled",
-      "cot/theme-crowdseed": "disabled"
+      "components/image": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:235:30181",
@@ -5198,8 +5193,7 @@
       "components/toast": "enabled",
       "components/tooltip": "enabled",
       "components/type": "enabled",
-      "dot-global/theme-dot-global": "enabled",
-      "cot/theme-crowdseed": "disabled"
+      "dot-global/theme-dot-global": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:235:30749",
@@ -6252,8 +6246,7 @@
       "components/toast": "enabled",
       "components/tooltip": "enabled",
       "components/type": "enabled",
-      "mwc/theme-mwc": "source",
-      "cot/theme-crowdseed": "disabled"
+      "mwc/theme-mwc": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:235:31317",
     "$figmaModeId": "235:8",
@@ -7292,8 +7285,7 @@
       "components/toast": "enabled",
       "components/tooltip": "enabled",
       "components/type": "enabled",
-      "canada/theme-ca": "enabled",
-      "cot/theme-crowdseed": "disabled"
+      "canada/theme-ca": "enabled"
     }
   },
   {
@@ -7775,8 +7767,7 @@
       "components/toast": "enabled",
       "components/tooltip": "enabled",
       "components/type": "enabled",
-      "program/theme-ccl": "source",
-      "cot/theme-crowdseed": "disabled"
+      "program/theme-ccl": "source"
     }
   },
   {

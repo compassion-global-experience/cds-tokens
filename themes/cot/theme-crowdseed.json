@@ -59,7 +59,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "#4067F1",
+          "value": "#2A5EEC",
           "type": "color"
         },
         "on-primary": {
@@ -109,7 +109,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "#4067F1",
+          "value": "#2A5EEC",
           "type": "color"
         },
         "primary-subtle": {
@@ -148,7 +148,7 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "#4067F1",
+            "value": "#2A5EEC",
             "type": "color"
           },
           "muted": {
@@ -354,7 +354,7 @@
             "type": "fontWeights"
           },
           "semibold": {
-            "value": "{core.fontWeight.sans.bold}",
+            "value": "Demi Bold",
             "type": "fontWeights"
           },
           "bold": {
@@ -364,19 +364,19 @@
         },
         "heading": {
           "regular": {
-            "value": "Black",
+            "value": "Regular",
             "type": "fontWeights"
           },
           "light": {
-            "value": "Black",
+            "value": "Light",
             "type": "fontWeights"
           },
           "semibold": {
-            "value": "Black",
+            "value": "Demi Bold",
             "type": "fontWeights"
           },
           "bold": {
-            "value": "Black",
+            "value": "Bold",
             "type": "fontWeights"
           }
         }
