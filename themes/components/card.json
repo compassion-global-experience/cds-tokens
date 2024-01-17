@@ -29,7 +29,7 @@
       "type": "borderRadius"
     },
     "shadow": {
-      "value": "{core.depth.plus1}",
+      "value": "{theme.ui.card.shadow}",
       "type": "boxShadow"
     },
     "border-width": {
