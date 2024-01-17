@@ -83,11 +83,11 @@
           "type": "color"
         },
         "accent": {
-          "value": "#FFCB3D",
+          "value": "#EE828D",
           "type": "color"
         },
         "on-accent": {
-          "value": "#fff",
+          "value": "#121A1A",
           "type": "color"
         },
         "muted": {
@@ -133,15 +133,15 @@
           "type": "color"
         },
         "accent": {
-          "value": "#FFCB3D",
+          "value": "#EE828D",
           "type": "color"
         },
         "accent-subtle": {
-          "value": "#F4EE99",
+          "value": "#FAC6D2",
           "type": "color"
         },
         "accent-amplified": {
-          "value": "#FF7C55",
+          "value": "#A50F25",
           "type": "color"
         }
       },
@@ -170,19 +170,19 @@
         },
         "cta": {
           "default": {
-            "value": "#FFCB3D",
+            "value": "#EE828D",
             "type": "color"
           },
           "muted": {
-            "value": "#F4EE99",
+            "value": "#FAC6D2",
             "type": "color"
           },
           "subtle": {
-            "value": "#FFFEED",
+            "value": "#FFEFF3",
             "type": "color"
           },
           "amplified": {
-            "value": "#FDB518",
+            "value": "#A50F25",
             "type": "color"
           },
           "inverted": {
