@@ -101,7 +101,7 @@
           "type": "color"
         },
         "canvas": {
-          "value": "#fff",
+          "value": "rgba(255,255,255,0)",
           "type": "color"
         },
         "surface": {
@@ -321,6 +321,12 @@
         "none": {
           "value": "0",
           "type": "borderRadius"
+        }
+      },
+      "card": {
+        "shadow": {
+          "value": "{core.depth.none}",
+          "type": "boxShadow"
         }
       }
     },
