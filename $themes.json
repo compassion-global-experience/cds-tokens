@@ -24,9 +24,9 @@
       "brand.950": "462a7cf1185b215d78a530841f3a040c181aff68",
       "brand.alpha.default": "f1196272ce0e33df2fccd763deda8ffbde7ff5fe",
       "button.borderRadius": "d89d9174ee324d2b155b7f9663f33fb80f771323",
-      "onBrand.default": "e11656970acbe6b9943c853d2c1cf33ae14a7c21",
       "brand.solid.default": "4e79f04b949352e310b5382862b9fa0ea87ad727",
-      "brand.solid.amplified": "f22d015b94b08f65aa6dbee91cd51fe789ed18c7"
+      "brand.solid.amplified": "f22d015b94b08f65aa6dbee91cd51fe789ed18c7",
+      "brand.solid.inverted": "e11656970acbe6b9943c853d2c1cf33ae14a7c21"
     },
     "group": "Brand"
   },
@@ -53,7 +53,6 @@
       "fg.brandAlt.muted": "a16ebd1388d2404626ce062ab46c4e744b8ddc37",
       "fg.brandAlt.subtle": "627eac1270eff282a6bd27bb7ae99d9dd3fec2da",
       "fg.brandAlt.amplified": "733727151e67a3b6152fcbf5ab1b8b6928fa5325",
-      "fg.onBrand.default": "7af3f5ef0635387d5f6f84ab8c9162d69c46760d",
       "fg.error.default": "858b157b749f63de6418c20ac1de2ddb8b2778da",
       "fg.error.muted": "77bef9909de311b947081a8123820fc44c513e19",
       "fg.error.subtle": "f3e8bd7c96d68e98c159a751e4e172cb50617ea8",
@@ -90,7 +89,8 @@
       "border.brandAlt.subtle": "f8aede58386a56f1bd1b79b955c0fd4b2b802eae",
       "border.brandAlt.amplified": "7337882dc469cb4fedfa2a14fa6eb02dd884256e",
       "border.disabled.default": "a33b0b3697a76a6c0868e7b260937e7dd3fb883a",
-      "border.disabled.muted": "ed1a3c7671b36d7773c3b2861221ab591d4305e6"
+      "border.disabled.muted": "ed1a3c7671b36d7773c3b2861221ab591d4305e6",
+      "fg.brand.inverted": "7af3f5ef0635387d5f6f84ab8c9162d69c46760d"
     },
     "group": "Mode"
   },
@@ -270,7 +270,6 @@
       "fg.brandAlt.muted": "a16ebd1388d2404626ce062ab46c4e744b8ddc37",
       "fg.brandAlt.subtle": "627eac1270eff282a6bd27bb7ae99d9dd3fec2da",
       "fg.brandAlt.amplified": "733727151e67a3b6152fcbf5ab1b8b6928fa5325",
-      "fg.onBrand.default": "7af3f5ef0635387d5f6f84ab8c9162d69c46760d",
       "fg.error.default": "858b157b749f63de6418c20ac1de2ddb8b2778da",
       "fg.error.muted": "77bef9909de311b947081a8123820fc44c513e19",
       "fg.error.subtle": "f3e8bd7c96d68e98c159a751e4e172cb50617ea8",
@@ -307,7 +306,8 @@
       "border.brandAlt.subtle": "f8aede58386a56f1bd1b79b955c0fd4b2b802eae",
       "border.brandAlt.amplified": "7337882dc469cb4fedfa2a14fa6eb02dd884256e",
       "border.disabled.default": "a33b0b3697a76a6c0868e7b260937e7dd3fb883a",
-      "border.disabled.muted": "ed1a3c7671b36d7773c3b2861221ab591d4305e6"
+      "border.disabled.muted": "ed1a3c7671b36d7773c3b2861221ab591d4305e6",
+      "fg.brand.inverted": "7af3f5ef0635387d5f6f84ab8c9162d69c46760d"
     },
     "group": "Mode"
   },
@@ -336,9 +336,9 @@
       "brand.950": "462a7cf1185b215d78a530841f3a040c181aff68",
       "brand.alpha.default": "f1196272ce0e33df2fccd763deda8ffbde7ff5fe",
       "button.borderRadius": "d89d9174ee324d2b155b7f9663f33fb80f771323",
-      "onBrand.default": "e11656970acbe6b9943c853d2c1cf33ae14a7c21",
       "brand.solid.default": "4e79f04b949352e310b5382862b9fa0ea87ad727",
-      "brand.solid.amplified": "f22d015b94b08f65aa6dbee91cd51fe789ed18c7"
+      "brand.solid.amplified": "f22d015b94b08f65aa6dbee91cd51fe789ed18c7",
+      "brand.solid.inverted": "e11656970acbe6b9943c853d2c1cf33ae14a7c21"
     },
     "group": "Brand"
   }

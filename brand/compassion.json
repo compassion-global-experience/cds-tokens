@@ -71,6 +71,10 @@
       "amplified": {
         "value": "{brand.700}",
         "type": "color"
+      },
+      "inverted": {
+        "value": "{core.color.white}",
+        "type": "color"
       }
     }
   },
@@ -98,12 +102,6 @@
         "value": "{core.fontFamily.neighbour-sans}",
         "type": "fontFamilies"
       }
-    }
-  },
-  "onBrand": {
-    "default": {
-      "value": "{core.color.white}",
-      "type": "color"
     }
   }
 }

@@ -32,6 +32,10 @@
       "amplified": {
         "value": "{brand.800}",
         "type": "color"
+      },
+      "inverted": {
+        "value": "{brand.solid.inverted}",
+        "type": "color"
       }
     },
     "brandAlt": {
@@ -49,12 +53,6 @@
       },
       "amplified": {
         "value": "{brand.800}",
-        "type": "color"
-      }
-    },
-    "onBrand": {
-      "default": {
-        "value": "{onBrand.default}",
         "type": "color"
       }
     },
