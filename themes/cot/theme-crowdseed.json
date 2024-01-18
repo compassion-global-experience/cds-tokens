@@ -101,7 +101,7 @@
           "type": "color"
         },
         "canvas": {
-          "value": "rgba(255,255,255,0)",
+          "value": "{core.color.white}",
           "type": "color"
         },
         "surface": {
