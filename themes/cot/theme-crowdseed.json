@@ -101,7 +101,7 @@
           "type": "color"
         },
         "canvas": {
-          "value": "rgba(255,255,255,0)",
+          "value": "{core.color.white}",
           "type": "color"
         },
         "surface": {
@@ -297,6 +297,14 @@
         "inverse": {
           "value": "{core.color.white}",
           "type": "color"
+        }
+      },
+      "ui": {
+        "card": {
+          "background-color": {
+            "value": "#rgba(255,255,255,0)",
+            "type": "color"
+          }
         }
       }
     },
