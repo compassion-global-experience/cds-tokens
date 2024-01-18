@@ -88,8 +88,8 @@
       }
     }
   },
-  "button": {
-    "borderRadius": {
+  "btn": {
+    "border-radius": {
       "value": "{core.borderRadius.8}",
       "type": "borderRadius"
     }

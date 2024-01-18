@@ -88,9 +88,9 @@
       }
     }
   },
-  "button": {
-    "borderRadius": {
-      "value": "{borderRadius.full}",
+  "btn": {
+    "border-radius": {
+      "value": "{border-radius.full}",
       "type": "borderRadius"
     }
   },

@@ -38,7 +38,7 @@
         "type": "color"
       }
     },
-    "brandAlt": {
+    "brand-alt": {
       "default": {
         "value": "{brand.700}",
         "type": "color"
@@ -144,7 +144,7 @@
         "type": "color"
       }
     },
-    "brandAlt": {
+    "brand-alt": {
       "default": {
         "value": "{brand.solid.default}",
         "type": "color"
@@ -200,7 +200,7 @@
         "type": "color"
       }
     },
-    "brandAlt": {
+    "brand-alt": {
       "default": {
         "value": "{brand.solid.default}",
         "type": "color"

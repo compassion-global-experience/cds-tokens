@@ -1,5 +1,5 @@
 {
-  "focusRing": {
+  "focus": {
     "ring-brand": {
       "value": {
         "x": "0",
@@ -290,7 +290,7 @@
       "type": "boxShadow"
     }
   },
-  "borderRadius": {
+  "border-radius": {
     "none": {
       "value": "{core.borderRadius.0}",
       "type": "borderRadius"
@@ -336,7 +336,7 @@
       "type": "borderRadius"
     }
   },
-  "borderWidth": {
+  "border-width": {
     "none": {
       "value": "{core.borderWidth.0}",
       "type": "borderWidth"

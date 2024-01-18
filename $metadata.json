@@ -6,6 +6,7 @@
     "platform/desktop",
     "theme",
     "brand/compassion",
-    "brand/code-red"
+    "brand/code-red",
+    "components/button"
   ]
 }

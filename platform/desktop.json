@@ -463,7 +463,7 @@
         },
         "type": "typography"
       },
-      "Demi bold italic": {
+      "semi-bold italic": {
         "value": {
           "fontFamily": "{core.fontFamily.neighbour-sans}",
           "fontWeight": "{core.fontWeight.demi-bold-oblique}",
