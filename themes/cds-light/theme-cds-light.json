@@ -298,6 +298,14 @@
           "value": "{core.color.white}",
           "type": "color"
         }
+      },
+      "ui": {
+        "card": {
+          "background-color": {
+            "value": "{theme.color.background.canvas}",
+            "type": "color"
+          }
+        }
       }
     },
     "ui": {
