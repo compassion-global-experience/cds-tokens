@@ -322,6 +322,12 @@
           "value": "0",
           "type": "borderRadius"
         }
+      },
+      "card": {
+        "shadow": {
+          "value": "{core.depth.plus1}",
+          "type": "boxShadow"
+        }
       }
     },
     "icon": {
