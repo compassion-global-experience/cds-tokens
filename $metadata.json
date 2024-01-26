@@ -4,7 +4,6 @@
     "mode/light",
     "mode/dark",
     "platform/desktop",
-    "theme",
     "brand/compassion",
     "brand/code-red",
     "components/button"
