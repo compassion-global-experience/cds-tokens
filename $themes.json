@@ -375,7 +375,31 @@
       "text.xs.medium": "S:115c5a623fb1d90281b51dc27f6975ec920cadc0,",
       "text.xs.semi-bold": "S:84c61475759dd8e7f97d4b4a0d0697c0fce6ae64,",
       "text.xs.bold": "S:bb502fbeb5a7009012c91b8e862f0e9e5ec599ab,",
-      "text.xl.semi-bold italic": "S:ba32fcd4c8ce116e90457e61c6cc712f47866ab1,"
+      "text.xl.semi-bold italic": "S:ba32fcd4c8ce116e90457e61c6cc712f47866ab1,",
+      "display.sm.medium-italic": "S:977d63d90ed88e8a962f889ada78257620c9e2a5,",
+      "display.xs.medium-italic": "S:354787ab3aa1e4adc653037670ce6a81086152f6,",
+      "text.xl.regular-italic": "S:12f0a76f5de54fb46d8e45160e704c3f46e3ea08,",
+      "text.xl.medium-italic": "S:ec98c8766ae66000eb4ce6c85e03eeb986d90bec,",
+      "text.xl.semi-bold-italic": "S:65c9f6eafdd232c5a31a1e7d7c6733f57002c0a1,",
+      "text.xl.bold-italic": "S:82dc3787e4d5c568a2785fc423c6a5dc2435c124,",
+      "text.xl.regular-underlined": "S:5288e099579562e4591c0c1dc6aaefa7779bddea,",
+      "text.lg.regular-italic": "S:7b3596d8a4cefa0134985d0b3f3eddeac9cd9543,",
+      "text.lg.medium-italic": "S:2f137ea3e84e8e0162405c408de127f903918fcf,",
+      "text.lg.semi-bold-italic": "S:5377bc5723f44ce604903eeb19e5ed1495b0ee3f,",
+      "text.lg.bold-italic": "S:085239d371ac7dbcf1901d4ab30bf4f2c52b4230,",
+      "text.lg.regular-underlined": "S:edb9791652da1fb9aff2cdee267df0a23b3c6d3a,",
+      "text.lg.medium-underlined": "S:9163dca984bb6fe920ab87a9c10385f9337fcdab,",
+      "text.lg.semi-bold-underlined": "S:9a43f5943c275d472811ebf705762e325e913e10,",
+      "text.md.regular-italic": "S:6a78d0cd401be6de77bedc70c4395833016162f8,",
+      "text.md.medium-italic": "S:4beb9b8b08f88b490f6f8e65ba6f32796a46daf8,",
+      "text.md.semi-bold-italic": "S:ad4f836a9a7cbaa98dd54091af5348aeac1a8b32,",
+      "text.md.bold-italic": "S:02af5d43059cf2105c87f29b5f16781edcb19fe4,",
+      "text.md.regular-underlined": "S:39c24898059cd5cf8c9f6fd421d96ffa2d2b0153,",
+      "text.md.medium-underlined": "S:d2f54ad99f61047f1235f68f7e1d76299fd0a547,",
+      "text.md.semi-bold-underlined": "S:3123dd4c6dd97a16d2edff9facdcc68692f70e86,",
+      "text.sm.regular-underlined": "S:7356fe813d9060b60cea45b4756b4a52e8b2a2bb,",
+      "text.sm.medium-underlined": "S:e35d5df4f7d01af75a05e1b49f2ca52e04107d6a,",
+      "text.sm.semi-bold-underlined": "S:49aaf47d2c316921edaf78557252656c0183eb2e,"
     },
     "selectedTokenSets": {
       "platform/desktop": "enabled",
@@ -584,14 +608,14 @@
   },
   {
     "id": "bb13a5bb19faef4750435f158a4fdda0db94afb4",
-    "name": "Code Red",
+    "name": "Legacy",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/core": "source",
-      "brand/code-red": "enabled"
+      "brand/legacy": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:10252",
-    "$figmaModeId": "69:2",
+    "$figmaModeId": "277:0",
     "$figmaVariableReferences": {
       "brand.25": "98be291df3176f504bd67f7b125a284e3bd4e2de",
       "brand.50": "83f72edb963c84d5fd116749b9b6155fc6960ad7",

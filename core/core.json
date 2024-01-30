@@ -358,11 +358,65 @@
           "value": "#470a10",
           "type": "color"
         }
+      },
+      "blue-legacy": {
+        "25": {
+          "value": "#f1f8ff",
+          "type": "color"
+        },
+        "50": {
+          "value": "#e6f3ff",
+          "type": "color"
+        },
+        "100": {
+          "value": "#cce6ff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#b3daff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#80c1ff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#4da9ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#0084ff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#005eb8",
+          "type": "color"
+        },
+        "700": {
+          "value": "#004f9a",
+          "type": "color"
+        },
+        "800": {
+          "value": "#004280",
+          "type": "color"
+        },
+        "900": {
+          "value": "#003566",
+          "type": "color"
+        },
+        "950": {
+          "value": "#001a33",
+          "type": "color"
+        }
       }
     },
     "fontFamily": {
       "neighbour-sans": {
         "value": "Neighbour Sans",
+        "type": "fontFamilies"
+      },
+      "montserrat": {
+        "value": "Montserrat",
         "type": "fontFamilies"
       }
     },
@@ -429,6 +483,10 @@
         "value": "Demi Bold",
         "type": "fontWeights"
       },
+      "semibold": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      },
       "bold": {
         "value": "Bold",
         "type": "fontWeights"
@@ -437,16 +495,36 @@
         "value": "Medium Oblique",
         "type": "fontWeights"
       },
+      "medium-italic": {
+        "value": "Medium Italic",
+        "type": "fontWeights"
+      },
       "regular-oblique": {
         "value": "Regular Oblique",
+        "type": "fontWeights"
+      },
+      "regular-italic": {
+        "value": "Regular Italic",
+        "type": "fontWeights"
+      },
+      "italic": {
+        "value": "Italic",
         "type": "fontWeights"
       },
       "demi-bold-oblique": {
         "value": "Demi Bold Oblique",
         "type": "fontWeights"
       },
+      "semibold-italic": {
+        "value": "SemiBold Italic",
+        "type": "fontWeights"
+      },
       "bold-oblique": {
         "value": "Bold Oblique",
+        "type": "fontWeights"
+      },
+      "bold-italic": {
+        "value": "Bold Italic",
         "type": "fontWeights"
       }
     },

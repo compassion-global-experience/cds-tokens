@@ -1,56 +1,56 @@
 {
   "brand": {
     "25": {
-      "value": "{core.color.red.25}",
+      "value": "{core.color.blue-legacy.25}",
       "type": "color"
     },
     "50": {
-      "value": "{core.color.red.50}",
+      "value": "{core.color.blue-legacy.50}",
       "type": "color"
     },
     "100": {
-      "value": "{core.color.red.100}",
+      "value": "{core.color.blue-legacy.100}",
       "type": "color"
     },
     "200": {
-      "value": "{core.color.red.200}",
+      "value": "{core.color.blue-legacy.200}",
       "type": "color"
     },
     "300": {
-      "value": "{core.color.red.300}",
+      "value": "{core.color.blue-legacy.300}",
       "type": "color"
     },
     "400": {
-      "value": "{core.color.red.400}",
+      "value": "{core.color.blue-legacy.400}",
       "type": "color"
     },
     "500": {
-      "value": "{core.color.red.500}",
+      "value": "{core.color.blue-legacy.500}",
       "type": "color"
     },
     "600": {
-      "value": "{core.color.red.600}",
+      "value": "{core.color.blue-legacy.600}",
       "type": "color"
     },
     "700": {
-      "value": "{core.color.red.700}",
+      "value": "{core.color.blue-legacy.700}",
       "type": "color"
     },
     "800": {
-      "value": "{core.color.red.800}",
+      "value": "{core.color.blue-legacy.800}",
       "type": "color"
     },
     "900": {
-      "value": "{core.color.red.900}",
+      "value": "{core.color.blue-legacy.900}",
       "type": "color"
     },
     "950": {
-      "value": "{core.color.red.950}",
+      "value": "{core.color.blue-legacy.950}",
       "type": "color"
     },
     "alpha": {
       "default": {
-        "value": "{core.color.red.600}",
+        "value": "{brand.600}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -79,8 +79,8 @@
     }
   },
   "display": {
-    "fontFamily": {
-      "value": "{core.fontFamily.neighbour-sans}",
+    "font-family": {
+      "value": "{core.fontFamily.montserrat}",
       "type": "fontFamilies",
       "fontFamily": {
         "value": "{core.fontFamily.neighbour-sans}",
@@ -95,8 +95,8 @@
     }
   },
   "text": {
-    "fontFamily": {
-      "value": "{core.fontFamily.neighbour-sans}",
+    "font-family": {
+      "value": "{core.fontFamily.montserrat}",
       "type": "fontFamilies",
       "fontFamily": {
         "value": "{core.fontFamily.neighbour-sans}",
@@ -449,6 +449,40 @@
     "full": {
       "value": "{core.borderRadius.9999}",
       "type": "borderRadius"
+    }
+  },
+  "font-weight": {
+    "regular": {
+      "value": "{core.fontWeight.regular}",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "{core.fontWeight.medium}",
+      "type": "fontWeights"
+    },
+    "semi-bold": {
+      "value": "{core.fontWeight.semibold}",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "{core.fontWeight.bold}",
+      "type": "fontWeights"
+    },
+    "medium-italic": {
+      "value": "{core.fontWeight.medium-italic}",
+      "type": "fontWeights"
+    },
+    "regular-italic": {
+      "value": "{core.fontWeight.italic}",
+      "type": "fontWeights"
+    },
+    "semi-bold-italic": {
+      "value": "{core.fontWeight.semibold-italic}",
+      "type": "fontWeights"
+    },
+    "bold-italic": {
+      "value": "{core.fontWeight.bold-italic}",
+      "type": "fontWeights"
     }
   }
 }

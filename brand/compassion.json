@@ -50,7 +50,7 @@
     },
     "alpha": {
       "default": {
-        "value": "{core.color.blue.600}",
+        "value": "{brand.600}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -79,7 +79,7 @@
     }
   },
   "display": {
-    "fontFamily": {
+    "font-family": {
       "value": "{core.fontFamily.neighbour-sans}",
       "type": "fontFamilies",
       "fontFamily": {
@@ -95,7 +95,7 @@
     }
   },
   "text": {
-    "fontFamily": {
+    "font-family": {
       "value": "{core.fontFamily.neighbour-sans}",
       "type": "fontFamilies",
       "fontFamily": {
@@ -449,6 +449,40 @@
     "full": {
       "value": "{core.borderRadius.9999}",
       "type": "borderRadius"
+    }
+  },
+  "font-weight": {
+    "regular": {
+      "value": "{core.fontWeight.regular}",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "{core.fontWeight.medium}",
+      "type": "fontWeights"
+    },
+    "semi-bold": {
+      "value": "{core.fontWeight.demi-bold}",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "{core.fontWeight.bold}",
+      "type": "fontWeights"
+    },
+    "medium-italic": {
+      "value": "{core.fontWeight.medium-oblique}",
+      "type": "fontWeights"
+    },
+    "regular-italic": {
+      "value": "{core.fontWeight.regular-oblique}",
+      "type": "fontWeights"
+    },
+    "semi-bold-italic": {
+      "value": "{core.fontWeight.demi-bold-oblique}",
+      "type": "fontWeights"
+    },
+    "bold-italic": {
+      "value": "{core.fontWeight.bold-oblique}",
+      "type": "fontWeights"
     }
   }
 }
