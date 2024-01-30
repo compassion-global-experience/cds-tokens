@@ -90,7 +90,7 @@
   },
   "btn": {
     "border-radius": {
-      "value": "{border-radius.full}",
+      "value": "{border-radius.md}",
       "type": "borderRadius"
     }
   },
