@@ -51,109 +51,109 @@
     "default": {
       "2xl": {
         "padding-x": {
-          "value": "{space.4xl}",
+          "value": "{space.5․5}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.xl}",
+          "value": "{space.4}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.sm}",
+          "value": "{space.2․5}",
           "type": "spacing"
         }
       },
       "xl": {
         "padding-x": {
-          "value": "{space.2xl}",
+          "value": "{space.4․5}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.md}",
+          "value": "{space.3}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.2xs}",
+          "value": "{space.1․5}",
           "type": "spacing"
         }
       },
       "lg": {
         "padding-x": {
-          "value": "{space.xl}",
+          "value": "{space.4}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.sm}",
+          "value": "{space.2․5}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.2xs}",
+          "value": "{space.1․5}",
           "type": "spacing"
         }
       },
       "md": {
         "padding-x": {
-          "value": "{space.lg}",
+          "value": "{space.3․5}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.sm}",
+          "value": "{space.2․5}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.3xs}",
+          "value": "{space.1}",
           "type": "spacing"
         }
       },
       "sm": {
         "padding-x": {
-          "value": "{space.md}",
+          "value": "{space.3}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.3xs}",
+          "value": "{space.1}",
           "type": "spacing"
         }
       },
       "link": {
         "2xl": {
           "gap": {
-            "value": "{space.md}",
+            "value": "{space.3}",
             "type": "spacing"
           }
         },
         "xl": {
           "gap": {
-            "value": "{space.xs}",
+            "value": "{space.2}",
             "type": "spacing"
           }
         },
         "lg": {
           "gap": {
-            "value": "{space.xs}",
+            "value": "{space.2}",
             "type": "spacing"
           }
         },
         "md": {
           "gap": {
-            "value": "{space.2xs}",
+            "value": "{space.1․5}",
             "type": "spacing"
           }
         },
         "sm": {
           "gap": {
-            "value": "{space.2xs}",
+            "value": "{space.1․5}",
             "type": "spacing"
           }
         }
       },
       "text": {
         "padding-x": {
-          "value": "{space.4xs}",
+          "value": "{space.0․5}",
           "type": "spacing"
         }
       }
@@ -325,102 +325,102 @@
     "dot-leading": {
       "2xl": {
         "padding-x": {
-          "value": "{space.5xl}",
+          "value": "{space.6}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.xl}",
+          "value": "{space.4}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.md}",
+          "value": "{space.3}",
           "type": "spacing"
         }
       },
       "xl": {
         "padding-x": {
-          "value": "{space.2xl}",
+          "value": "{space.4․5}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.md}",
+          "value": "{space.3}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         }
       },
       "lg": {
         "padding-x": {
-          "value": "{space.2xl}",
+          "value": "{space.4․5}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.sm}",
+          "value": "{space.2․5}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         }
       },
       "md": {
         "padding-x": {
-          "value": "{space.xl}",
+          "value": "{space.4}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.sm}",
+          "value": "{space.2․5}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         }
       },
       "sm": {
         "padding-x": {
-          "value": "{space.md}",
+          "value": "{space.3}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         }
       },
       "link": {
         "2xl": {
           "gap": {
-            "value": "{space.md}",
+            "value": "{space.3}",
             "type": "spacing"
           }
         },
         "xl": {
           "gap": {
-            "value": "{space.xs}",
+            "value": "{space.2}",
             "type": "spacing"
           }
         },
         "lg": {
           "gap": {
-            "value": "{space.xs}",
+            "value": "{space.2}",
             "type": "spacing"
           }
         },
         "md": {
           "gap": {
-            "value": "{space.xs}",
+            "value": "{space.2}",
             "type": "spacing"
           }
         },
         "sm": {
           "gap": {
-            "value": "{space.xs}",
+            "value": "{space.2}",
             "type": "spacing"
           }
         }
@@ -429,71 +429,71 @@
     "icon-only": {
       "2xl": {
         "padding-x": {
-          "value": "{space.xl}",
+          "value": "{space.4}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.xl}",
+          "value": "{space.4}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         }
       },
       "xl": {
         "padding-x": {
-          "value": "{space.lg}",
+          "value": "{space.3․5}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.lg}",
+          "value": "{space.3․5}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         }
       },
       "lg": {
         "padding-x": {
-          "value": "{space.md}",
+          "value": "{space.3}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.md}",
+          "value": "{space.3}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         }
       },
       "md": {
         "padding-x": {
-          "value": "{space.sm}",
+          "value": "{space.2․5}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.sm}",
+          "value": "{space.2․5}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         }
       },
       "sm": {
         "padding-x": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         },
         "padding-y": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         },
         "gap": {
-          "value": "{space.xs}",
+          "value": "{space.2}",
           "type": "spacing"
         }
       }
@@ -521,7 +521,7 @@
       }
     },
     "border-width": {
-      "value": "{border-width.default}",
+      "value": "{border-width.0․25}",
       "type": "borderWidth"
     },
     "shadow": {
