@@ -504,15 +504,15 @@
         "type": "color"
       },
       "success": {
-        "value": "{color.action.foreground.success.subtle}",
+        "value": "{color.foreground.success.subtle}",
         "type": "color"
       },
       "error": {
-        "value": "{color.action.foreground.error.subtle}",
+        "value": "{color.foreground.error.subtle}",
         "type": "color"
       },
       "warning": {
-        "value": "{color.action.foreground.warning.subtle}",
+        "value": "{color.foreground.warning.subtle}",
         "type": "color"
       },
       "disabled": {

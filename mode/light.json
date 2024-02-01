@@ -1,5 +1,55 @@
 {
   "color": {
+    "foreground": {
+      "error": {
+        "default": {
+          "value": "{core.color.orange.700}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{core.color.orange.600}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{core.color.orange.500}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "default": {
+          "value": "{core.color.yellow.700}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{core.color.yellow.600}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{core.color.yellow.500}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "default": {
+          "value": "{core.color.green.700}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{core.color.green.600}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{core.color.green.500}",
+          "type": "color"
+        }
+      }
+    },
+    "background": {
+      "default": {
+        "value": "{core.color.white}",
+        "type": "color"
+      }
+    },
     "action": {
       "foreground": {
         "default": {
@@ -37,48 +87,6 @@
           },
           "inverted": {
             "value": "{brand.solid.inverted}",
-            "type": "color"
-          }
-        },
-        "error": {
-          "default": {
-            "value": "{core.color.orange.700}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{core.color.orange.600}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{core.color.orange.500}",
-            "type": "color"
-          }
-        },
-        "warning": {
-          "default": {
-            "value": "{core.color.yellow.700}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{core.color.yellow.600}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{core.color.yellow.500}",
-            "type": "color"
-          }
-        },
-        "success": {
-          "default": {
-            "value": "{core.color.green.700}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{core.color.green.600}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{core.color.green.500}",
             "type": "color"
           }
         },

@@ -1,5 +1,11 @@
 {
   "color": {
+    "background": {
+      "default": {
+        "value": "{core.color.gray-dark-mode.950}",
+        "type": "color"
+      }
+    },
     "action": {
       "foreground": {
         "default": {
