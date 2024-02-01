@@ -78,8 +78,16 @@
       }
     }
   },
-  "display": {
-    "font-family": {
+  "font-family": {
+    "display": {
+      "value": "{core.fontFamily.neighbour-sans}",
+      "type": "fontFamilies",
+      "fontFamily": {
+        "value": "{core.fontFamily.neighbour-sans}",
+        "type": "fontFamilies"
+      }
+    },
+    "text": {
       "value": "{core.fontFamily.neighbour-sans}",
       "type": "fontFamilies",
       "fontFamily": {
@@ -88,206 +96,66 @@
       }
     }
   },
-  "action": {
-    "border-radius": {
-      "value": "{border-radius.2}",
+  "border-radius": {
+    "action": {
+      "value": "{core.borderRadius.8}",
       "type": "borderRadius"
     }
   },
-  "text": {
-    "font-family": {
-      "value": "{core.fontFamily.neighbour-sans}",
-      "type": "fontFamilies",
-      "fontFamily": {
-        "value": "{core.fontFamily.neighbour-sans}",
-        "type": "fontFamilies"
-      }
-    }
-  },
   "border-width": {
-    "0": {
-      "value": "{core.borderWidth.0}",
-      "type": "borderWidth"
-    },
-    "0․25": {
+    "action": {
       "value": "{core.borderWidth.1}",
       "type": "borderWidth"
     }
   },
   "focus": {
-    "ring-brand": {
-      "value": {
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "4",
-        "color": "{brand.alpha.default}",
-        "type": "dropShadow"
+    "action": {
+      "brand": {
+        "value": [
+          {
+            "color": "{brand.alpha.default}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4"
+          },
+          {
+            "color": "#1018280d",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
+          }
+        ],
+        "type": "boxShadow"
       },
-      "type": "boxShadow",
-      "description": "Used for focus states. For example, buttons and input fields."
-    },
-    "ring-brand-shadow-xs": {
-      "value": [
-        {
-          "color": "{brand.alpha.default}",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "4"
-        },
-        {
-          "color": "#1018280d",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "1",
-          "blur": "2",
-          "spread": "0"
-        }
-      ],
-      "type": "boxShadow"
-    },
-    "ring-brand-shadow-sm": {
-      "value": [
-        {
-          "color": "{brand.alpha.default}",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "4"
-        },
-        {
-          "color": "#1018280f",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "1",
-          "blur": "2",
-          "spread": "0"
-        },
-        {
-          "color": "#1018281a",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "1",
-          "blur": "3",
-          "spread": "0"
-        }
-      ],
-      "type": "boxShadow"
-    },
-    "ring-gray": {
-      "value": {
-        "color": "#98a2b324",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "4"
-      },
-      "type": "boxShadow",
-      "description": "Used for focus states. For example, buttons and input fields."
-    },
-    "ring-gray-shadow-xs": {
-      "value": [
-        {
-          "color": "#98a2b324",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "4"
-        },
-        {
-          "color": "#1018280d",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "1",
-          "blur": "2",
-          "spread": "0"
-        }
-      ],
-      "type": "boxShadow"
-    },
-    "ring-gray-shadow-sm": {
-      "value": [
-        {
-          "color": "#98a2b324",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "4"
-        },
-        {
-          "color": "#1018280f",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "1",
-          "blur": "2",
-          "spread": "0"
-        },
-        {
-          "color": "#1018281a",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "1",
-          "blur": "3",
-          "spread": "0"
-        }
-      ],
-      "type": "boxShadow"
-    },
-    "ring-gray-secondary": {
-      "value": {
-        "color": "#98a2b333",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "4"
-      },
-      "type": "boxShadow",
-      "description": "Used for focus states. For example, buttons and input fields."
-    },
-    "ring-error": {
-      "value": {
-        "color": "#f044383d",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "4"
-      },
-      "type": "boxShadow",
-      "description": "Used for destructive and error focus states. For example, buttons and input fields."
-    },
-    "ring-error-shadow-xs": {
-      "value": [
-        {
-          "color": "#f044383d",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "4"
-        },
-        {
-          "color": "#1018280d",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "1",
-          "blur": "2",
-          "spread": "0"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "Used for destructive and error focus states. For example, buttons and input fields."
+      "neutral": {
+        "value": [
+          {
+            "color": "#98a2b324",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4"
+          },
+          {
+            "color": "#1018280d",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
+          }
+        ],
+        "type": "boxShadow"
+      }
     }
   },
-  "shadows": {
-    "shadow-xs": {
+  "shadow": {
+    "action": {
       "value": {
         "color": "#1018280d",
         "type": "dropShadow",
@@ -297,158 +165,6 @@
         "spread": "0"
       },
       "type": "boxShadow"
-    },
-    "shadow-sm": {
-      "value": [
-        {
-          "color": "#1018280f",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "1",
-          "blur": "2",
-          "spread": "0"
-        },
-        {
-          "color": "#1018281a",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "1",
-          "blur": "3",
-          "spread": "0"
-        }
-      ],
-      "type": "boxShadow"
-    },
-    "shadow-md": {
-      "value": [
-        {
-          "color": "#1018280f",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "2",
-          "blur": "4",
-          "spread": "-2"
-        },
-        {
-          "color": "#1018281a",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "4",
-          "blur": "8",
-          "spread": "-2"
-        }
-      ],
-      "type": "boxShadow"
-    },
-    "shadow-lg": {
-      "value": [
-        {
-          "color": "#10182808",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "4",
-          "blur": "6",
-          "spread": "-2"
-        },
-        {
-          "color": "#10182814",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "12",
-          "blur": "16",
-          "spread": "-4"
-        }
-      ],
-      "type": "boxShadow"
-    },
-    "shadow-xl": {
-      "value": [
-        {
-          "color": "#10182808",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "8",
-          "blur": "8",
-          "spread": "-4"
-        },
-        {
-          "color": "#10182814",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "20",
-          "blur": "24",
-          "spread": "-4"
-        }
-      ],
-      "type": "boxShadow"
-    },
-    "shadow-2xl": {
-      "value": {
-        "color": "#1018282e",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "24",
-        "blur": "48",
-        "spread": "-12"
-      },
-      "type": "boxShadow"
-    },
-    "shadow-3xl": {
-      "value": {
-        "color": "#10182824",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "32",
-        "blur": "64",
-        "spread": "-12"
-      },
-      "type": "boxShadow"
-    }
-  },
-  "border-radius": {
-    "0": {
-      "value": "{core.borderRadius.0}",
-      "type": "borderRadius"
-    },
-    "1": {
-      "value": "{core.borderRadius.4}",
-      "type": "borderRadius"
-    },
-    "2": {
-      "value": "{core.borderRadius.8}",
-      "type": "borderRadius"
-    },
-    "3": {
-      "value": "{core.borderRadius.12}",
-      "type": "borderRadius"
-    },
-    "4": {
-      "value": "{core.borderRadius.16}",
-      "type": "borderRadius"
-    },
-    "5": {
-      "value": "{core.borderRadius.20}",
-      "type": "borderRadius"
-    },
-    "6": {
-      "value": "{core.borderRadius.24}",
-      "type": "borderRadius"
-    },
-    "0․5": {
-      "value": "{core.borderRadius.2}",
-      "type": "borderRadius"
-    },
-    "1․5": {
-      "value": "{core.borderRadius.6}",
-      "type": "borderRadius"
-    },
-    "2․5": {
-      "value": "{core.borderRadius.10}",
-      "type": "borderRadius"
-    },
-    "full": {
-      "value": "{core.borderRadius.9999}",
-      "type": "borderRadius"
     }
   },
   "font-weight": {
