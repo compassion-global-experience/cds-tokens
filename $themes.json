@@ -137,7 +137,6 @@
       "color.action.border.muted": "S:8babd49ee34a03cfff8f910470513fb9cbcbf09a,",
       "color.action.border.brand.default": "S:ebd69174386452c6b7165951278c3df457643453,",
       "color.action.border.brand.muted": "S:cdfe0f5856f4a3ed98786d87720ea53f4fef4a11,",
-      "color.action.border.brand.subtle": "S:59d43ed07e471224998371bbd62f09659bdef417,",
       "color.action.border.brand.amplified": "S:0b4cd2e3d46c901361db0a101bbac8ccc5eb18cb,",
       "color.action.border.disabled.default": "S:567c62af8e5c6830f9247e4ae62dba03aa2ac575,",
       "color.action.border.disabled.muted": "S:7aa1dae2c4afab7fea031b443cb2baab5e36cb64,",
@@ -310,7 +309,6 @@
       "color.action.border.muted": "b24a55f2b4b02147cce2691bc6ba2f3e13e7a4ad",
       "color.action.border.brand.default": "91a85c14e13a39617e8cf890f72c81165e9f36b5",
       "color.action.border.brand.muted": "f5f20819b0a6998a50671d1aa48adf3dc8ab8635",
-      "color.action.border.brand.subtle": "883a673cc8459a934ef77c1864db897fa6aee750",
       "color.action.border.brand.amplified": "677050c3a24409b025e54e078a7530e8bacfd5fa",
       "color.action.border.disabled.default": "a33b0b3697a76a6c0868e7b260937e7dd3fb883a",
       "color.action.border.disabled.muted": "ed1a3c7671b36d7773c3b2861221ab591d4305e6"
@@ -600,7 +598,6 @@
       "color.action.border.muted": "b24a55f2b4b02147cce2691bc6ba2f3e13e7a4ad",
       "color.action.border.brand.default": "91a85c14e13a39617e8cf890f72c81165e9f36b5",
       "color.action.border.brand.muted": "f5f20819b0a6998a50671d1aa48adf3dc8ab8635",
-      "color.action.border.brand.subtle": "883a673cc8459a934ef77c1864db897fa6aee750",
       "color.action.border.brand.amplified": "677050c3a24409b025e54e078a7530e8bacfd5fa",
       "color.action.border.disabled.default": "a33b0b3697a76a6c0868e7b260937e7dd3fb883a",
       "color.action.border.disabled.muted": "ed1a3c7671b36d7773c3b2861221ab591d4305e6"

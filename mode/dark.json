@@ -161,10 +161,6 @@
             "value": "{core.color.gray-dark-mode.700}",
             "type": "color"
           },
-          "subtle": {
-            "value": "{core.color.gray-dark-mode.800}",
-            "type": "color"
-          },
           "amplified": {
             "value": "{brand.solid.amplified}",
             "type": "color"

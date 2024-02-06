@@ -145,7 +145,7 @@
       },
       "border": {
         "default": {
-          "value": "{core.color.gray-light-mode.300}",
+          "value": "{core.color.gray-light-mode.400}",
           "type": "color"
         },
         "muted": {
@@ -158,11 +158,7 @@
             "type": "color"
           },
           "muted": {
-            "value": "{brand.300}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{brand.50}",
+            "value": "{brand.400}",
             "type": "color"
           },
           "amplified": {
