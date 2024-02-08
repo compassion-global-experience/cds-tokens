@@ -2,7 +2,7 @@
   "palette": {
     "alpha": {
       "200": {
-        "value": "{core.color.blue.200}",
+        "value": "{core.color.blue.50}",
         "type": "color"
       },
       "400": {
@@ -43,6 +43,36 @@
             }
           }
         }
+      }
+    },
+    "neutral": {
+      "200": {
+        "value": "{core.color.gray-light-mode.50}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.gray-light-mode.400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.gray-light-mode.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.gray-light-mode.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.gray-light-mode.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.gray-light-mode.900}",
+        "type": "color"
+      },
+      "950": {
+        "value": "{core.color.gray-light-mode.950}",
+        "type": "color"
       }
     }
   },

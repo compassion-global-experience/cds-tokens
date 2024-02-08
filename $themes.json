@@ -40,7 +40,14 @@
       "palette.alpha.950": "462a7cf1185b215d78a530841f3a040c181aff68",
       "palette.alpha.transparency.default": "f1196272ce0e33df2fccd763deda8ffbde7ff5fe",
       "border-radius.action": "d89d9174ee324d2b155b7f9663f33fb80f771323",
-      "border-width.action": "561a9f1f0b6c5530d39d260f0545b1a28b07f75f"
+      "border-width.action": "561a9f1f0b6c5530d39d260f0545b1a28b07f75f",
+      "palette.neutral.200": "23c9cbd6c0bfd9680f6fc3d738067dfe5ba84431",
+      "palette.neutral.400": "6d7bfcf99df1f7bbd3537d8129905b57ca093589",
+      "palette.neutral.600": "538af9e0cab9f127f6bf26e3e3f40ea5ca2b7dab",
+      "palette.neutral.700": "ef11388e40f81284ba496de08c554676ecfccf9e",
+      "palette.neutral.800": "9df0f151a230739dda925c88ede2433b4414d33d",
+      "palette.neutral.900": "d72744abd1c8001a630a6f880e249ee7f6c668f3",
+      "palette.neutral.950": "ca0112e1ce742fe4ba8f1f2f93dc0592b84dea2b"
     },
     "group": "Brand"
   },
@@ -572,7 +579,6 @@
       "color.action.foreground.amplified": "a8711e3ba9845010c9120b59efe8aeb24255db33",
       "color.action.foreground.brand.default": "c37c9b7421dab8ed9bd43f2b68c18b3d8980bc6b",
       "color.action.foreground.brand.muted": "58eb5e05f2a7481f2c6b8a1225962e8bd73665a5",
-      "color.action.foreground.brand.subtle": "9dbe669eba8652ce19a4fc467e0077bf877c7594",
       "color.action.foreground.brand.amplified": "204d11b83e92aca518c874465be3aaf351009c7f",
       "color.action.foreground.brand.inverted": "7af3f5ef0635387d5f6f84ab8c9162d69c46760d",
       "color.action.foreground.disabled.default": "adea693bbb06002ecb74fbeefaed5c8f99f74771",

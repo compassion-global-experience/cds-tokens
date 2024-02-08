@@ -57,7 +57,7 @@
           "type": "color"
         },
         "muted": {
-          "value": "{core.color.gray-light-mode.50}",
+          "value": "{core.color.gray-light-mode.100}",
           "type": "color"
         },
         "brand": {
@@ -76,11 +76,11 @@
         },
         "disabled": {
           "default": {
-            "value": "{core.color.gray-light-mode.100}",
+            "value": "{palette.neutral.200}",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color.gray-light-mode.50}",
+            "value": "{palette.neutral.200}",
             "type": "color"
           },
           "subtle": {

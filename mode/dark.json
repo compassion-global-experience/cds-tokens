@@ -2,7 +2,7 @@
   "color": {
     "background": {
       "default": {
-        "value": "{core.color.gray-dark-mode.950}",
+        "value": "{palette.neutral.950}",
         "type": "color"
       }
     },
@@ -53,11 +53,11 @@
     "action": {
       "background": {
         "default": {
-          "value": "{core.color.gray-dark-mode.900}",
+          "value": "{palette.neutral.900}",
           "type": "color"
         },
         "muted": {
-          "value": "{core.color.gray-dark-mode.800}",
+          "value": "{palette.neutral.800}",
           "type": "color"
         },
         "brand": {
@@ -66,11 +66,11 @@
             "type": "color"
           },
           "muted": {
-            "value": "{core.color.gray-dark-mode.700}",
+            "value": "{palette.neutral.700}",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color.gray-dark-mode.800}",
+            "value": "{palette.neutral.800}",
             "type": "color"
           },
           "amplified": {
@@ -80,30 +80,30 @@
         },
         "disabled": {
           "default": {
-            "value": "{core.color.gray-dark-mode.800}",
+            "value": "{palette.neutral.900}",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color.gray-dark-mode.900}",
+            "value": "{palette.neutral.900}",
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color.gray-dark-mode.950}",
+            "value": "{palette.neutral.950}",
             "type": "color"
           }
         }
       },
       "foreground": {
         "default": {
-          "value": "{core.color.gray-dark-mode.100}",
+          "value": "{palette.neutral.200}",
           "type": "color"
         },
         "muted": {
-          "value": "{core.color.gray-dark-mode.300}",
+          "value": "{palette.neutral.400}",
           "type": "color"
         },
         "subtle": {
-          "value": "{core.color.gray-dark-mode.400}",
+          "value": "{palette.neutral.400}",
           "type": "color"
         },
         "amplified": {
@@ -112,19 +112,15 @@
         },
         "brand": {
           "default": {
-            "value": "{core.color.gray-dark-mode.300}",
+            "value": "{palette.neutral.200}",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color.gray-dark-mode.400}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{core.color.gray-dark-mode.500}",
+            "value": "{palette.neutral.400}",
             "type": "color"
           },
           "amplified": {
-            "value": "{core.color.gray-dark-mode.100}",
+            "value": "{core.color.white}",
             "type": "color"
           },
           "inverted": {
@@ -134,22 +130,22 @@
         },
         "disabled": {
           "default": {
-            "value": "{core.color.gray-dark-mode.500}",
+            "value": "{palette.neutral.400}",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color.gray-dark-mode.600}",
+            "value": "{palette.neutral.600}",
             "type": "color"
           }
         }
       },
       "border": {
         "default": {
-          "value": "{core.color.gray-dark-mode.700}",
+          "value": "{palette.neutral.700}",
           "type": "color"
         },
         "muted": {
-          "value": "{core.color.gray-dark-mode.800}",
+          "value": "{palette.neutral.800}",
           "type": "color"
         },
         "brand": {
@@ -158,7 +154,7 @@
             "type": "color"
           },
           "muted": {
-            "value": "{core.color.gray-dark-mode.700}",
+            "value": "{palette.neutral.700}",
             "type": "color"
           },
           "amplified": {
@@ -168,11 +164,11 @@
         },
         "disabled": {
           "default": {
-            "value": "{core.color.gray-dark-mode.700}",
+            "value": "{palette.neutral.700}",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color.gray-dark-mode.800}",
+            "value": "{palette.neutral.800}",
             "type": "color"
           }
         }
