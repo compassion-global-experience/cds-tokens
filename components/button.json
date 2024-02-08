@@ -3,11 +3,11 @@
     "primary": {
       "background": {
         "default": {
-          "value": "{color.action.background.brand.default}",
+          "value": "{color.action.background.alpha.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.action.background.brand.amplified}",
+          "value": "{color.action.background.alpha.amplified}",
           "type": "color"
         },
         "disabled": {
@@ -31,11 +31,11 @@
       },
       "text": {
         "default": {
-          "value": "{color.action.foreground.brand.inverted}",
+          "value": "{color.action.foreground.alpha.inverted}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.action.foreground.brand.inverted}",
+          "value": "{color.action.foreground.alpha.inverted}",
           "type": "color"
         },
         "disabled": {
@@ -165,7 +165,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{color.action.background.brand.subtle}",
+          "value": "{color.action.background.alpha.subtle}",
           "type": "color"
         },
         "disabled": {
@@ -189,11 +189,11 @@
       },
       "text": {
         "default": {
-          "value": "{color.action.foreground.brand.default}",
+          "value": "{color.action.foreground.alpha.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.action.foreground.brand.amplified}",
+          "value": "{color.action.foreground.alpha.amplified}",
           "type": "color"
         },
         "disabled": {
@@ -249,17 +249,17 @@
     "tertiary": {
       "background": {
         "hover": {
-          "value": "{color.action.background.brand.subtle}",
+          "value": "{color.action.background.alpha.subtle}",
           "type": "color"
         }
       },
       "text": {
         "default": {
-          "value": "{color.action.foreground.brand.default}",
+          "value": "{color.action.foreground.alpha.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.action.foreground.brand.amplified}",
+          "value": "{color.action.foreground.alpha.amplified}",
           "type": "color"
         },
         "disabled": {
@@ -293,11 +293,11 @@
     "link": {
       "text": {
         "default": {
-          "value": "{color.action.foreground.brand.default}",
+          "value": "{color.action.foreground.alpha.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.action.foreground.brand.amplified}",
+          "value": "{color.action.foreground.alpha.amplified}",
           "type": "color"
         },
         "disabled": {
@@ -500,7 +500,7 @@
     },
     "dot": {
       "inverted": {
-        "value": "{color.action.foreground.brand.inverted}",
+        "value": "{color.action.foreground.alpha.inverted}",
         "type": "color"
       },
       "success": {

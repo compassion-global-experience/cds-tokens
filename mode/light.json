@@ -60,7 +60,7 @@
           "value": "{palette.neutral.200}",
           "type": "color"
         },
-        "brand": {
+        "alpha": {
           "default": {
             "value": "{palette.alpha.600}",
             "type": "color"
@@ -106,7 +106,7 @@
           "value": "{palette.neutral.950}",
           "type": "color"
         },
-        "brand": {
+        "alpha": {
           "default": {
             "value": "{palette.alpha.700}",
             "type": "color"
