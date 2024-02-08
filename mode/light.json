@@ -57,7 +57,7 @@
           "type": "color"
         },
         "muted": {
-          "value": "{core.color.gray-light-mode.100}",
+          "value": "{palette.neutral.200}",
           "type": "color"
         },
         "brand": {
@@ -91,19 +91,19 @@
       },
       "foreground": {
         "default": {
-          "value": "{core.color.gray-light-mode.900}",
+          "value": "{palette.neutral.900}",
           "type": "color"
         },
         "muted": {
-          "value": "{core.color.gray-light-mode.700}",
+          "value": "{palette.neutral.700}",
           "type": "color"
         },
         "subtle": {
-          "value": "{core.color.gray-light-mode.600}",
+          "value": "{palette.neutral.600}",
           "type": "color"
         },
         "amplified": {
-          "value": "{core.color.gray-light-mode.950}",
+          "value": "{palette.neutral.950}",
           "type": "color"
         },
         "brand": {
@@ -126,22 +126,22 @@
         },
         "disabled": {
           "default": {
-            "value": "{core.color.gray-light-mode.400}",
+            "value": "{palette.neutral.400}",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color.gray-light-mode.300}",
+            "value": "{palette.neutral.200}",
             "type": "color"
           }
         }
       },
       "border": {
         "default": {
-          "value": "{core.color.gray-light-mode.400}",
+          "value": "{palette.neutral.400}",
           "type": "color"
         },
         "muted": {
-          "value": "{core.color.gray-light-mode.200}",
+          "value": "{palette.neutral.200}",
           "type": "color"
         },
         "brand": {
@@ -160,11 +160,11 @@
         },
         "disabled": {
           "default": {
-            "value": "{core.color.gray-light-mode.300}",
+            "value": "{palette.neutral.400}",
             "type": "color"
           },
           "muted": {
-            "value": "{core.color.gray-light-mode.200}",
+            "value": "{palette.neutral.200}",
             "type": "color"
           }
         }
