@@ -4,8 +4,6 @@
     "mode/light",
     "mode/dark",
     "platform/desktop",
-    "brand/compassion",
-    "brand/legacy",
-    "components/button"
+    "brand/compassion"
   ]
 }
