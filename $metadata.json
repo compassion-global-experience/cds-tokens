@@ -3,7 +3,7 @@
     "core/core",
     "mode/light",
     "mode/dark",
-    "platform/desktop",
+    "viewport/desktop",
     "brand/compassion"
   ]
 }

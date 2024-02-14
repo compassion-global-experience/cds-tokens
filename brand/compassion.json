@@ -324,8 +324,20 @@
       "value": "{size.4} * 3",
       "type": "sizing"
     },
+    "14": {
+      "value": "{size.4} * 3.5",
+      "type": "sizing"
+    },
+    "15": {
+      "value": "{size.4} * 3.75",
+      "type": "sizing"
+    },
     "16": {
       "value": "{size.4} * 4",
+      "type": "sizing"
+    },
+    "18": {
+      "value": "{size.4} * 4.5",
       "type": "sizing"
     },
     "24": {
@@ -392,7 +404,7 @@
       "value": "Medium",
       "type": "fontWeights"
     },
-    "semi-bold": {
+    "semiBold": {
       "value": "Demi Bold",
       "type": "fontWeights"
     },
@@ -400,19 +412,19 @@
       "value": "Bold",
       "type": "fontWeights"
     },
-    "medium-italic": {
+    "mediumItalic": {
       "value": "Medium Oblique",
       "type": "fontWeights"
     },
-    "regular-italic": {
+    "regularItalic": {
       "value": "Regular Oblique",
       "type": "fontWeights"
     },
-    "semi-bold-italic": {
+    "semiBoldItalic": {
       "value": "Demi Bold Oblique",
       "type": "fontWeights"
     },
-    "bold-italic": {
+    "boldItalic": {
       "value": "Bold Oblique",
       "type": "fontWeights"
     }

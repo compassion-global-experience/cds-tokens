@@ -308,7 +308,6 @@
     "id": "088b4a6b7da4e64a01a843e1680eaba3a54c89e9",
     "name": "Desktop",
     "$figmaStyleReferences": {
-      "display.2xl.regular": "S:5b5bc32735e673df088e835bf741a3305f15faef,",
       "display.2xl.medium": "S:2934e93fd4c0be4a4dd9dc0a57663f6bf3f0cd8a,",
       "display.2xl.semi-bold": "S:9ef4c2101fc323879ad54f60cffe87d0434f0bd7,",
       "display.2xl.bold": "S:3f42b484bdbce2c9dc57693892982f13c0cfa493,",
@@ -402,8 +401,8 @@
       "text.sm.semi-bold-underlined": "S:d8f4e017b244c096a24cec1d0e1332717803693b,"
     },
     "selectedTokenSets": {
-      "platform/desktop": "enabled",
-      "core/core": "source"
+      "core/core": "source",
+      "viewport/desktop": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:10303",
     "$figmaModeId": "51:25",
@@ -435,7 +434,7 @@
       "size.7": "84b240ca3a72aa1655fe5cf66ba5a685edc17069",
       "size.2․5": "3ebc7654b07cdc748454c6d6e5becd2149ab0033"
     },
-    "group": "Platform"
+    "group": "Viewport"
   },
   {
     "id": "df3a3ec75fc84ad16f3b0cde1dc759bc937277ea",

@@ -396,5 +396,11 @@
       "value": "25%",
       "type": "opacity"
     }
+  },
+  "decoration": {
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
   }
 }
