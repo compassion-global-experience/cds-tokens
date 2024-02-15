@@ -40,24 +40,13 @@
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.regular}",
             "lineHeight": "125%",
-            "fontSize": "{size.8}",
-            "letterSpacing": "0",
-            "paragraphSpacing": "{size.8}"
-          },
-          "type": "typography"
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{family.display}",
-            "fontWeight": "{weight.regular}",
-            "lineHeight": "125%",
             "fontSize": "{size.9}",
             "letterSpacing": "0%",
             "paragraphSpacing": "{size.9}"
           },
           "type": "typography"
         },
-        "xl": {
+        "lg": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.regular}",
@@ -68,18 +57,7 @@
           },
           "type": "typography"
         },
-        "2xl": {
-          "value": {
-            "fontFamily": "{family.display}",
-            "fontWeight": "{weight.regular}",
-            "lineHeight": "125%",
-            "fontSize": "{size.11}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "{size.11}"
-          },
-          "type": "typography"
-        },
-        "3xl": {
+        "xl": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.regular}",
@@ -90,7 +68,7 @@
           },
           "type": "typography"
         },
-        "4xl": {
+        "2xl": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.regular}",
@@ -141,24 +119,13 @@
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.medium}",
             "lineHeight": "125%",
-            "fontSize": "{size.8}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "{size.8}"
-          },
-          "type": "typography"
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{family.display}",
-            "fontWeight": "{weight.medium}",
-            "lineHeight": "125%",
             "fontSize": "{size.9}",
             "letterSpacing": "0%",
             "paragraphSpacing": "{size.9}"
           },
           "type": "typography"
         },
-        "xl": {
+        "lg": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.medium}",
@@ -169,18 +136,7 @@
           },
           "type": "typography"
         },
-        "2xl": {
-          "value": {
-            "fontFamily": "{family.display}",
-            "fontWeight": "{weight.medium}",
-            "lineHeight": "125%",
-            "fontSize": "{size.11}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "{size.11}"
-          },
-          "type": "typography"
-        },
-        "3xl": {
+        "xl": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.medium}",
@@ -191,7 +147,7 @@
           },
           "type": "typography"
         },
-        "4xl": {
+        "2xl": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.medium}",
@@ -242,24 +198,13 @@
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.semiBold}",
             "lineHeight": "125%",
-            "fontSize": "{size.8}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "{size.8}"
-          },
-          "type": "typography"
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{family.display}",
-            "fontWeight": "{weight.semiBold}",
-            "lineHeight": "125%",
             "fontSize": "{size.9}",
             "letterSpacing": "-2%",
             "paragraphSpacing": "{size.9}"
           },
           "type": "typography"
         },
-        "xl": {
+        "lg": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.semiBold}",
@@ -270,18 +215,7 @@
           },
           "type": "typography"
         },
-        "2xl": {
-          "value": {
-            "fontFamily": "{family.display}",
-            "fontWeight": "{weight.semiBold}",
-            "lineHeight": "125%",
-            "fontSize": "{size.11}",
-            "letterSpacing": "-2%",
-            "paragraphSpacing": "{size.11}"
-          },
-          "type": "typography"
-        },
-        "3xl": {
+        "xl": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.semiBold}",
@@ -292,7 +226,7 @@
           },
           "type": "typography"
         },
-        "4xl": {
+        "2xl": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.semiBold}",
@@ -343,24 +277,13 @@
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.bold}",
             "lineHeight": "125%",
-            "fontSize": "{size.8}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "{size.8}"
-          },
-          "type": "typography"
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{family.display}",
-            "fontWeight": "{weight.bold}",
-            "lineHeight": "125%",
             "fontSize": "{size.9}",
             "letterSpacing": "-2%",
             "paragraphSpacing": "{size.9}"
           },
           "type": "typography"
         },
-        "xl": {
+        "lg": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.bold}",
@@ -371,18 +294,7 @@
           },
           "type": "typography"
         },
-        "2xl": {
-          "value": {
-            "fontFamily": "{family.display}",
-            "fontWeight": "{weight.bold}",
-            "lineHeight": "125%",
-            "fontSize": "{size.11}",
-            "letterSpacing": "-2%",
-            "paragraphSpacing": "{size.11}"
-          },
-          "type": "typography"
-        },
-        "3xl": {
+        "xl": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.bold}",
@@ -393,7 +305,7 @@
           },
           "type": "typography"
         },
-        "4xl": {
+        "2xl": {
           "value": {
             "fontFamily": "{family.display}",
             "fontWeight": "{weight.bold}",

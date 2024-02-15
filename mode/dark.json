@@ -65,10 +65,6 @@
             "value": "{palette.alpha.mild}",
             "type": "color"
           },
-          "muted": {
-            "value": "{palette.neutral.moderate}",
-            "type": "color"
-          },
           "subtle": {
             "value": "{palette.neutral.potent}",
             "type": "color"
