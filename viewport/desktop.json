@@ -1053,6 +1053,36 @@
         "value": "{size.5}",
         "type": "spacing"
       }
+    },
+    "container": {
+      "2xs": {
+        "value": "{size.4}",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "{size.6}",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "{size.8}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{size.16}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{size.24}",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{size.32}",
+        "type": "spacing"
+      },
+      "2xl": {
+        "value": "{size.48}",
+        "type": "spacing"
+      }
     }
   },
   "layout": {
