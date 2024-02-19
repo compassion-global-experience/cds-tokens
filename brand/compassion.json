@@ -193,10 +193,14 @@
         "type": "borderWidth"
       },
       "sm": {
-        "value": "{size.0․375}",
+        "value": "{size.0․25}",
         "type": "borderWidth"
       },
       "md": {
+        "value": "{size.0․375}",
+        "type": "borderWidth"
+      },
+      "lg": {
         "value": "{size.0․5}",
         "type": "borderWidth"
       }
@@ -423,40 +427,6 @@
       "type": "fontFamilies"
     }
   },
-  "weight": {
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights"
-    },
-    "medium": {
-      "value": "Medium",
-      "type": "fontWeights"
-    },
-    "semiBold": {
-      "value": "Demi Bold",
-      "type": "fontWeights"
-    },
-    "bold": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
-    "mediumItalic": {
-      "value": "Medium Oblique",
-      "type": "fontWeights"
-    },
-    "regularItalic": {
-      "value": "Regular Oblique",
-      "type": "fontWeights"
-    },
-    "semiBoldItalic": {
-      "value": "Demi Bold Oblique",
-      "type": "fontWeights"
-    },
-    "boldItalic": {
-      "value": "Bold Oblique",
-      "type": "fontWeights"
-    }
-  },
   "layout": {
     "max-width": {
       "xs": {
@@ -478,6 +448,34 @@
       "xl": {
         "value": "1440",
         "type": "sizing"
+      }
+    }
+  },
+  "weight": {
+    "display": {
+      "value": "Demi Bold",
+      "type": "fontWeights"
+    },
+    "body": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "label": {
+      "mild": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "moderate": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "potent": {
+        "value": "Demi Bold",
+        "type": "fontWeights"
+      },
+      "amplified": {
+        "value": "Bold",
+        "type": "fontWeights"
       }
     }
   }
