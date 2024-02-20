@@ -96,7 +96,7 @@
       "mild": {
         "sm": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.mild}",
@@ -107,7 +107,7 @@
         },
         "md": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.mild}",
@@ -118,7 +118,7 @@
         },
         "lg": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.mild}",
@@ -129,7 +129,7 @@
         },
         "xl": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.mild}",
@@ -142,7 +142,7 @@
       "moderate": {
         "sm": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.moderate}",
@@ -153,7 +153,7 @@
         },
         "md": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.moderate}",
@@ -164,7 +164,7 @@
         },
         "lg": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.moderate}",
@@ -175,7 +175,7 @@
         },
         "xl": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.moderate}",
@@ -188,7 +188,7 @@
       "potent": {
         "sm": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.potent}",
@@ -199,7 +199,7 @@
         },
         "md": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.potent}",
@@ -210,7 +210,7 @@
         },
         "lg": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.potent}",
@@ -221,7 +221,7 @@
         },
         "xl": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.potent}",
@@ -234,7 +234,7 @@
       "amplified": {
         "sm": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.amplified}",
@@ -245,7 +245,7 @@
         },
         "md": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.amplified}",
@@ -256,7 +256,7 @@
         },
         "lg": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.amplified}",
@@ -267,7 +267,7 @@
         },
         "xl": {
           "value": {
-            "fontFamily": "{family.label}",
+            "fontFamily": "{family.body}",
             "letterSpacing": "0%",
             "lineHeight": "125%",
             "fontWeight": "{weight.label.amplified}",

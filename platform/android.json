@@ -1,0 +1,44 @@
+{
+  "family": {
+    "display": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "label": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    }
+  },
+  "weight": {
+    "display": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "body": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "label": {
+      "mild": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "moderate": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "potent": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      },
+      "amplified": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    }
+  }
+}

@@ -13,7 +13,7 @@
       "palette.alpha.solid.amplified": "S:9eb26f75638e8b75b4dae703505845e0de901a4e,",
       "palette.alpha.solid.inverted": "S:ef1ecb150bc28209747b368ba4a8404405e10217,",
       "palette.alpha.transparency.default": "S:c4716bc888aa9d3c24a6ae35821a7f6d4ac21781,",
-      "outline.shadow.subtle": "S:7923ed0758e9308c6a79d40502dbcab66d18cbd9,",
+      "outline.shadow.subtle": "S:70dfc37ea1ffd83adc3af4abb3b169a079f4dd23,",
       "palette.alpha.faint": "S:b4c20c3c8cf179c59044c7c2063006e2017a59d9,",
       "palette.alpha.subtle": "S:40d1d2af7d18ccbb0fd633229c26fd5fc69ca3ec,",
       "palette.alpha.mild": "S:b95e873a9984c39bf02ef73df272a03ed8b03366,",
@@ -21,13 +21,14 @@
       "palette.alpha.potent": "S:2d200d224adf866a7ceb3ed101f49ff921a2e5ee,",
       "palette.alpha.amplified": "S:8d008261b94a8d20f9f270ca31cc4265950d41d1,",
       "palette.alpha.dominant": "S:f0540a4f0b929604c2e88c7b7b4a2c77f4039750,",
-      "outline.ring.subtle": "S:da14643400d67bf6c53a5bf71f7dea209f5ae2f1,",
-      "outline.ring.neutral.subtle": "S:f424e2f342e45a3108c6d749f0aa3119d6569fea,",
-      "outline.ring.negative.subtle": "S:e610b754e7ee7473df35815dc4f43bc434834b42,"
+      "outline.ring.subtle": "S:49e11aa494a02cc3fbdc46459be4dc1c26d6bc51,",
+      "outline.ring.neutral.subtle": "S:dd17dbfbdc7256e92357967f659a07ca6a549587,",
+      "outline.ring.negative.subtle": "S:06026bdee61dd9d4aeb02dae5745324ad39c9aa3,"
     },
     "selectedTokenSets": {
       "brand/compassion": "enabled",
-      "core/core": "source"
+      "core/core": "source",
+      "platform/android": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:507:55",
     "$figmaModeId": "507:0",
@@ -117,6 +118,40 @@
       "layout.max-width.xl": "6ad6f3a857eefcc15f1ced52604f4b6a8f827fbd"
     },
     "group": "Brand"
+  },
+  {
+    "id": "bb13a5bb19faef4750435f158a4fdda0db94afb4",
+    "name": "Legacy",
+    "$figmaStyleReferences": {
+      "shadows.shadow-sm": "S:538e759538d4680f4df7ca7726ad4de34dc4bc32,",
+      "shadows.shadow-md": "S:ec34f43967a052fb2f5bbbf26923134354b34585,",
+      "shadows.shadow-lg": "S:7aa2387610f76458aa697c8d9df9ecb3b8507aea,",
+      "shadows.shadow-xl": "S:eac2cf3748600b5e5d0408b3e1719853b852925e,",
+      "shadows.shadow-2xl": "S:0baa581bc782fcecd7bc49d680cbb1d4e4f4645e,",
+      "shadows.shadow-3xl": "S:d533a29304bdf79e47e7fa9167a0d5930724563f,",
+      "outline.shadow.subtle": "S:5fc87aad37a1fb16e69f322308022401ebfc3494,",
+      "outline.ring.subtle": "S:ab450f89f84ec21c838d6b54602f34a563ebd44b,",
+      "outline.ring.neutral.subtle": "S:4b797614c657e8ef27ba1891149459c5bf21390e,"
+    },
+    "selectedTokenSets": {
+      "core/core": "source",
+      "platform/android": "disabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:507:55",
+    "$figmaModeId": "507:4",
+    "$figmaVariableReferences": {},
+    "group": "Brand"
+  },
+  {
+    "id": "22973a2039c260d316cd18c9f21e57ab8c5ccb68",
+    "name": "Web",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/core": "source",
+      "platform/web": "enabled",
+      "platform/android": "disabled"
+    },
+    "group": "Platform"
   },
   {
     "id": "02afdc214fa23897b6c44bd87e3c52dd031339e9",
@@ -218,7 +253,8 @@
     },
     "selectedTokenSets": {
       "mode/light": "enabled",
-      "core/core": "source"
+      "core/core": "source",
+      "platform/android": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:507:139",
     "$figmaModeId": "507:1",
@@ -247,6 +283,19 @@
       "color.action.border.disabled.mild": "0b36219e91b29ebaf3c23a6bf9e96c5dcc256033",
       "color.action.border.disabled.moderate": "de3a59c92488d2fbc1e863fa56dbc71f1ef35a50"
     },
+    "group": "Mode"
+  },
+  {
+    "id": "df3a3ec75fc84ad16f3b0cde1dc759bc937277ea",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/core": "source",
+      "platform/android": "disabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:507:139",
+    "$figmaModeId": "507:3",
+    "$figmaVariableReferences": {},
     "group": "Mode"
   },
   {
@@ -344,34 +393,35 @@
       "text.sm.regular-underlined": "S:9c28f3f42a6a7ba442c3b2e7cfab6549a5701758,",
       "text.sm.medium-underlined": "S:55e3eceb6916d06c51215503d229a622b7598d58,",
       "text.sm.semi-bold-underlined": "S:d8f4e017b244c096a24cec1d0e1332717803693b,",
-      "font.display.xs": "S:8de8564702503c010e72e4f737f6116d0a6e0e5a,",
-      "font.display.sm": "S:dc5876270c4a133e726ea94404fb6e27139c9ada,",
-      "font.display.md": "S:37ebf52b45b0045eb6ed87b3db7f299892a3c26a,",
-      "font.display.lg": "S:4a3c7fc642cf6fcfa9fc387cc0c4bee3763c5bfc,",
-      "font.display.xl": "S:73093ef83bc56e93d7336d30a43d0892b72f3c39,",
-      "font.display.2xl": "S:874cd8cc89d2011ace9234a4a4e55c39ae342d43,",
-      "font.body.sm": "S:80c2e234487b3b721d03e9f0a9e02f5e3c9e084f,",
-      "font.body.md": "S:815ed63a9a254b95d3f4dc039550c033a1751d77,",
-      "font.label.mild.sm": "S:c98851fe8dd047f31a692de133ecc512814a278d,",
-      "font.label.mild.md": "S:3fc5ab7c0352875f7454fb713e25c7caf5e68d5f,",
-      "font.label.mild.lg": "S:579bc48d96b554d4ac73652c87955c2132e51936,",
-      "font.label.mild.xl": "S:e8f243f39bdb07871879be013ccb0755b209a7ab,",
-      "font.label.moderate.sm": "S:3a052a4e933721d2b93fc73af33ab4ab4ad88fdf,",
-      "font.label.moderate.md": "S:79e8cf254e8146aa74f01d4d83e89f1827185c51,",
-      "font.label.moderate.lg": "S:03732fec18f9f4e6dec94c7b32c93650716f43c2,",
-      "font.label.moderate.xl": "S:8b10c1f53798f5270289813a906f675501135a12,",
-      "font.label.potent.sm": "S:a1e6c012df541d3003061e87c9472ba9bb6ad149,",
-      "font.label.potent.md": "S:f1abbc4770a9a57235d58c70d2795f55636188a9,",
-      "font.label.potent.lg": "S:5310c897300cc304a617ec60ed86954175469657,",
-      "font.label.potent.xl": "S:a10fc139ce718d3c8c80f5a48c42d921fe5ecc1a,",
-      "font.label.amplified.sm": "S:64786ce7b5806be72e2d720761d782d9505e35db,",
-      "font.label.amplified.md": "S:3f497c6d0a6a2e7447653b199deaaf64fa6f847b,",
-      "font.label.amplified.lg": "S:89a2e4297a1335c2452b863b0c12f5fc32174e6e,",
-      "font.label.amplified.xl": "S:a9d65233920d0f0e96982328e9b5c2fa390dad39,"
+      "font.display.xs": "S:b94d6a67a4294d54054a0d6338ad67a2c67c136e,",
+      "font.display.sm": "S:89dfe2d6d0b85eef85a1754934bc22a3da3fdff7,",
+      "font.display.md": "S:2a784fd525ed2130f335ef57bcf75a19eed7c997,",
+      "font.display.lg": "S:cbf20dd9bcc7dfbf7684131e5bf7de438453fbdf,",
+      "font.display.xl": "S:8873639beab4f43d2c9f68a0d81650fa021a9f7e,",
+      "font.display.2xl": "S:d4f7f18c445cd44f24998468a73b32b72f71ac56,",
+      "font.body.sm": "S:a5810e9572a2c97e87731c0e1e97e13d97418f55,",
+      "font.body.md": "S:f24914131bb65f2c35ce875516a1138563b567f8,",
+      "font.label.mild.sm": "S:2bbbe10c46e31dc1ca414d60e982c6f41d39c93d,",
+      "font.label.mild.md": "S:f1f998fdc3fe6cf47f27f161ca2e587b22000015,",
+      "font.label.mild.lg": "S:119cf16b68e10ecc098650f655c2d358084ea861,",
+      "font.label.mild.xl": "S:1c0cf32cd11c4f6958737fe89fe349b7d3cab84e,",
+      "font.label.moderate.sm": "S:2ea248077ea3b585f9c6e11779ec4fe5eceb0760,",
+      "font.label.moderate.md": "S:74e08e590ae61e4ec23c363a56cf075e1f74cb7c,",
+      "font.label.moderate.lg": "S:41b5e56deb236be8d51e5bdb54461252a8af217b,",
+      "font.label.moderate.xl": "S:474b861b7f3318f36fd1b61e56acf66848548015,",
+      "font.label.potent.sm": "S:c475768e876ee2706fd8688dad99c4bd281aafd4,",
+      "font.label.potent.md": "S:0f876cd7680beeb7cd8c4ad6d8171ee2efca0729,",
+      "font.label.potent.lg": "S:c1c23aca2752d72f72a023b043084f16256fc5df,",
+      "font.label.potent.xl": "S:acc5daea6db1d96ed0e1546ef6948f52bed8755c,",
+      "font.label.amplified.sm": "S:1c5f962975a2927b23f689484268a1f7264ac486,",
+      "font.label.amplified.md": "S:1b9a0f22e03f0a8f64f4258bc01e3cced97a7750,",
+      "font.label.amplified.lg": "S:25e30740ba9af3109d4cea3a7ec838cb4a4126d5,",
+      "font.label.amplified.xl": "S:6d290d7d27dc6257c9d09b19a5fc9c855ed039e7,"
     },
     "selectedTokenSets": {
       "core/core": "source",
-      "viewport/desktop": "enabled"
+      "viewport/desktop": "enabled",
+      "platform/android": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:507:163",
     "$figmaModeId": "507:2",
@@ -395,37 +445,13 @@
     "group": "Viewport"
   },
   {
-    "id": "df3a3ec75fc84ad16f3b0cde1dc759bc937277ea",
-    "name": "Dark",
+    "id": "6e8e29e961e1e22af140eab43e33c2d14c2da591",
+    "name": "Android",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/core": "source"
+      "core/core": "source",
+      "platform/android": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:507:139",
-    "$figmaModeId": "507:3",
-    "$figmaVariableReferences": {},
-    "group": "Mode"
-  },
-  {
-    "id": "bb13a5bb19faef4750435f158a4fdda0db94afb4",
-    "name": "Legacy",
-    "$figmaStyleReferences": {
-      "shadows.shadow-sm": "S:538e759538d4680f4df7ca7726ad4de34dc4bc32,",
-      "shadows.shadow-md": "S:ec34f43967a052fb2f5bbbf26923134354b34585,",
-      "shadows.shadow-lg": "S:7aa2387610f76458aa697c8d9df9ecb3b8507aea,",
-      "shadows.shadow-xl": "S:eac2cf3748600b5e5d0408b3e1719853b852925e,",
-      "shadows.shadow-2xl": "S:0baa581bc782fcecd7bc49d680cbb1d4e4f4645e,",
-      "shadows.shadow-3xl": "S:d533a29304bdf79e47e7fa9167a0d5930724563f,",
-      "outline.shadow.subtle": "S:5fc87aad37a1fb16e69f322308022401ebfc3494,",
-      "outline.ring.subtle": "S:ab450f89f84ec21c838d6b54602f34a563ebd44b,",
-      "outline.ring.neutral.subtle": "S:4b797614c657e8ef27ba1891149459c5bf21390e,"
-    },
-    "selectedTokenSets": {
-      "core/core": "source"
-    },
-    "$figmaCollectionId": "VariableCollectionId:507:55",
-    "$figmaModeId": "507:4",
-    "$figmaVariableReferences": {},
-    "group": "Brand"
+    "group": "Platform"
   }
 ]
