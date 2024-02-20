@@ -27,8 +27,7 @@
     },
     "selectedTokenSets": {
       "brand/compassion": "enabled",
-      "core/core": "source",
-      "platform/android": "disabled"
+      "core/core": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:507:55",
     "$figmaModeId": "507:0",
@@ -134,8 +133,7 @@
       "outline.ring.neutral.subtle": "S:4b797614c657e8ef27ba1891149459c5bf21390e,"
     },
     "selectedTokenSets": {
-      "core/core": "source",
-      "platform/android": "disabled"
+      "core/core": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:507:55",
     "$figmaModeId": "507:4",
@@ -148,8 +146,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/core": "source",
-      "platform/web": "enabled",
-      "platform/android": "disabled"
+      "platform/web": "enabled"
     },
     "group": "Platform"
   },
@@ -253,8 +250,7 @@
     },
     "selectedTokenSets": {
       "mode/light": "enabled",
-      "core/core": "source",
-      "platform/android": "disabled"
+      "core/core": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:507:139",
     "$figmaModeId": "507:1",
@@ -290,8 +286,7 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/core": "source",
-      "platform/android": "disabled"
+      "core/core": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:507:139",
     "$figmaModeId": "507:3",
@@ -420,8 +415,7 @@
     },
     "selectedTokenSets": {
       "core/core": "source",
-      "viewport/desktop": "enabled",
-      "platform/android": "disabled"
+      "viewport/desktop": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:507:163",
     "$figmaModeId": "507:2",
