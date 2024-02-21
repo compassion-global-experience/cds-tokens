@@ -253,17 +253,17 @@
         "value": [
           {
             "x": "{size.0}",
-            "y": "{size.3}",
-            "blur": "{size.4}",
+            "y": "{size.5}",
+            "blur": "{size.6}",
             "spread": "{size.-1}",
             "color": "{color.shadow.potent}",
             "type": "dropShadow"
           },
           {
             "x": "{size.0}",
-            "y": "{size.1}",
-            "blur": "{size.1․5}",
-            "spread": "{size.-0․5}",
+            "y": "{size.2}",
+            "blur": "{size.2}",
+            "spread": "{size.-1}",
             "color": "{color.shadow.subtle}",
             "type": "dropShadow"
           }
@@ -507,15 +507,15 @@
   },
   "family": {
     "display": {
-      "value": "Neighbour Sans",
+      "value": "{family.neighbour-sans}",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Neighbour Sans",
+      "value": "{family.neighbour-sans}",
       "type": "fontFamilies"
     },
     "label": {
-      "value": "Neighbour Sans",
+      "value": "{family.neighbour-sans}",
       "type": "fontFamilies"
     }
   },

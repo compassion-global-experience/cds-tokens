@@ -23,7 +23,11 @@
       "palette.alpha.dominant": "S:f0540a4f0b929604c2e88c7b7b4a2c77f4039750,",
       "outline.ring.subtle": "S:49e11aa494a02cc3fbdc46459be4dc1c26d6bc51,",
       "outline.ring.neutral.subtle": "S:dd17dbfbdc7256e92357967f659a07ca6a549587,",
-      "outline.ring.negative.subtle": "S:06026bdee61dd9d4aeb02dae5745324ad39c9aa3,"
+      "outline.ring.negative.subtle": "S:06026bdee61dd9d4aeb02dae5745324ad39c9aa3,",
+      "outline.shadow.mild": "S:146a6201d364662e6ab61d6b736e4145e707561a,",
+      "outline.shadow.moderate": "S:a0685ff9dafc108b0c1493a89b06f9fb3765aeaa,",
+      "outline.shadow.potent": "S:d4a11345c77b95ec3334d5a1b3588c79af5db19f,",
+      "outline.shadow.amplified": "S:470aee62df0b1c79d195ca8e02d128e3f53dc0e6,"
     },
     "selectedTokenSets": {
       "brand/compassion": "enabled",
