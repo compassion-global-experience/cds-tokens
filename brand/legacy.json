@@ -3,7 +3,16 @@
     "alpha": {
       "faint": {
         "value": "{shade.denim.50}",
-        "type": "color"
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": ".3",
+              "space": "srgb"
+            }
+          }
+        }
       },
       "subtle": {
         "value": "{shade.denim.400}",
