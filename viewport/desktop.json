@@ -73,10 +73,10 @@
         "value": {
           "fontFamily": "{family.body}",
           "fontWeight": "{weight.body}",
-          "lineHeight": "{size.4}",
-          "fontSize": "150%",
+          "fontSize": "{size.4}",
           "paragraphSpacing": "{size.4}",
-          "letterSpacing": "0%"
+          "letterSpacing": "0%",
+          "lineHeight": "150%"
         },
         "type": "typography"
       },
@@ -84,10 +84,10 @@
         "value": {
           "fontFamily": "{family.body}",
           "fontWeight": "{weight.body}",
-          "lineHeight": "{size.5}",
-          "fontSize": "150%",
+          "lineHeight": "150%",
           "paragraphSpacing": "{size.5}",
-          "letterSpacing": "0%"
+          "letterSpacing": "0%",
+          "fontSize": "{size.5}"
         },
         "type": "typography"
       }
