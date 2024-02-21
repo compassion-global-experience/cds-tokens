@@ -82,7 +82,6 @@
       "outline.width.lg": "a0db8520a01f71e71e12f69c2c40d00db5a04ce3",
       "size.0": "fb6bb5ffebfe6989620fba4237634fdccc63bcae",
       "size.1": "f0c3e267e9700bb274178eb19d90a188a1091d5a",
-      "size.-1": "6717dc4f7b98afbd3387d770197a3d1bcf92ef70",
       "size.2": "4b4fc709352f0e1bc707683cf69a9abb59675f59",
       "size.3": "cd01dc337d25534ec7ce6837fa4f5f961fcf2287",
       "size.4": "068e6323a6306f59abbcaf7d3b3a8d4e60d210c7",
@@ -106,6 +105,7 @@
       "size.320": "bca3e84ac6cc8889a43185bf676c863428eb2d8c",
       "size.360": "b3a8072f4b420a86ab51ba18052f99b5a994b77a",
       "size.432": "2f0f40ad8525c31e80b8c6c298c728fddf6bb60b",
+      "size.-1": "6717dc4f7b98afbd3387d770197a3d1bcf92ef70",
       "size.0․25": "eda13184ca7860b8eab8ff0687472e77f69cc296",
       "size.0․375": "a202617b31182fbc71695336624d825f9a8d5309",
       "size.-0․5": "0ff9bbac6eb3be617da658ec2056b64246d5c227",
@@ -465,14 +465,14 @@
       "color.input.foreground.neutral.mild": "dd03e44e4f9c8a6cc5810f8f7b0ac56834e79345",
       "color.input.foreground.neutral.potent": "81b9a8d5a664bc8f3ff775bc11b4a4d9c5ebc2be",
       "color.input.foreground.neutral.amplified": "46c9ead85bdc2baee69633616f9b73f8a5c7d85f",
+      "color.input.foreground.disabled.moderate": "b314bc9907f654bb1f829d180840a823534339e7",
+      "color.input.foreground.negative.moderate": "01def709f3703f4366a83ce35e1f8c3745d8ba07",
+      "color.input.foreground.negative.potent": "46b4c5c3831864ceb2d5bb237961ba497e0b9a2c",
       "color.input.border.mild": "ed0c66ea058f8db225fb3e9477b33c818d04afe3",
       "color.input.border.moderate": "f60bcb00e9ec0a07b23b2669af321abdd63b4259",
       "color.input.border.neutral.mild": "03e9d55bcd0787d76254aeff98fbf41088a815dd",
       "color.input.border.disabled.mild": "c66a14f3e6cc4a2ee4ad167c5a1b5b18faf44dc7",
-      "color.input.border.negative.mild": "da73b689018f35e579c96c940bf8d4fd8f3e2f36",
-      "color.input.foreground.disabled.moderate": "b314bc9907f654bb1f829d180840a823534339e7",
-      "color.input.foreground.negative.moderate": "01def709f3703f4366a83ce35e1f8c3745d8ba07",
-      "color.input.foreground.negative.potent": "46b4c5c3831864ceb2d5bb237961ba497e0b9a2c"
+      "color.input.border.negative.mild": "da73b689018f35e579c96c940bf8d4fd8f3e2f36"
     },
     "group": "Mode"
   },
@@ -600,14 +600,14 @@
       "color.input.foreground.neutral.mild": "dd03e44e4f9c8a6cc5810f8f7b0ac56834e79345",
       "color.input.foreground.neutral.potent": "81b9a8d5a664bc8f3ff775bc11b4a4d9c5ebc2be",
       "color.input.foreground.neutral.amplified": "46c9ead85bdc2baee69633616f9b73f8a5c7d85f",
+      "color.input.foreground.disabled.moderate": "b314bc9907f654bb1f829d180840a823534339e7",
+      "color.input.foreground.negative.moderate": "01def709f3703f4366a83ce35e1f8c3745d8ba07",
+      "color.input.foreground.negative.potent": "46b4c5c3831864ceb2d5bb237961ba497e0b9a2c",
       "color.input.border.mild": "ed0c66ea058f8db225fb3e9477b33c818d04afe3",
       "color.input.border.moderate": "f60bcb00e9ec0a07b23b2669af321abdd63b4259",
       "color.input.border.neutral.mild": "03e9d55bcd0787d76254aeff98fbf41088a815dd",
       "color.input.border.disabled.mild": "c66a14f3e6cc4a2ee4ad167c5a1b5b18faf44dc7",
-      "color.input.border.negative.mild": "da73b689018f35e579c96c940bf8d4fd8f3e2f36",
-      "color.input.foreground.disabled.moderate": "b314bc9907f654bb1f829d180840a823534339e7",
-      "color.input.foreground.negative.moderate": "01def709f3703f4366a83ce35e1f8c3745d8ba07",
-      "color.input.foreground.negative.potent": "46b4c5c3831864ceb2d5bb237961ba497e0b9a2c"
+      "color.input.border.negative.mild": "da73b689018f35e579c96c940bf8d4fd8f3e2f36"
     },
     "group": "Mode"
   },
