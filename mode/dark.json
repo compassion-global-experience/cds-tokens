@@ -235,8 +235,7 @@
           },
           "mild": {
             "value": "{palette.neutral.potent}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "moderate": {
             "value": "{palette.neutral.subtle}",
