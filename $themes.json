@@ -141,19 +141,6 @@
     "group": "Brand"
   },
   {
-    "id": "22973a2039c260d316cd18c9f21e57ab8c5ccb68",
-    "name": "Web",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core/core": "source",
-      "platform/web": "enabled"
-    },
-    "group": "Platform",
-    "$figmaVariableReferences": {},
-    "$figmaCollectionId": "VariableCollectionId:516:4317",
-    "$figmaModeId": "516:11"
-  },
-  {
     "id": "02afdc214fa23897b6c44bd87e3c52dd031339e9",
     "name": "Light",
     "$figmaStyleReferences": {
@@ -514,18 +501,5 @@
       "layout.gutter": "5fa0200c2ccf13e28657ed1c1c746ab96203db96"
     },
     "group": "Viewport"
-  },
-  {
-    "id": "6e8e29e961e1e22af140eab43e33c2d14c2da591",
-    "name": "Android",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core/core": "source",
-      "platform/android": "enabled"
-    },
-    "group": "Platform",
-    "$figmaVariableReferences": {},
-    "$figmaCollectionId": "VariableCollectionId:516:4317",
-    "$figmaModeId": "516:15"
   }
 ]

@@ -3,8 +3,6 @@
     "core/core",
     "mode/light",
     "viewport/desktop",
-    "platform/web",
-    "platform/android",
     "brand/compassion"
   ]
 }
