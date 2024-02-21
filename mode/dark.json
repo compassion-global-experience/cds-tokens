@@ -3,22 +3,40 @@
     "background": {
       "neutral": {
         "subtle": {
-          "value": "{shade.white}",
+          "value": "{shade.black}",
           "type": "color"
         }
       }
     },
     "foreground": {
       "moderate": {
-        "value": "{palette.alpha.potent}",
-        "type": "color"
+        "value": "{palette.alpha.subtle}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": ".4",
+              "space": "srgb"
+            }
+          }
+        }
       },
       "potent": {
-        "value": "{palette.alpha.amplified}",
-        "type": "color"
+        "value": "{palette.alpha.subtle}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": ".6",
+              "space": "srgb"
+            }
+          }
+        }
       },
       "amplified": {
-        "value": "{palette.alpha.dominant}",
+        "value": "{palette.alpha.faint}",
         "type": "color"
       },
       "invert": {
@@ -27,19 +45,37 @@
       },
       "neutral": {
         "mild": {
-          "value": "{palette.neutral.potent}",
-          "type": "color"
+          "value": "{palette.neutral.subtle}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": ".4",
+                "space": "lch"
+              }
+            }
+          }
         },
         "moderate": {
-          "value": "{palette.neutral.amplified}",
-          "type": "color"
+          "value": "{palette.neutral.subtle}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": ".6",
+                "space": "srgb"
+              }
+            }
+          }
         },
         "potent": {
-          "value": "{palette.neutral.dominant}",
+          "value": "{palette.neutral.faint}",
           "type": "color"
         },
         "amplified": {
-          "value": "{shade.black}",
+          "value": "{shade.white}",
           "type": "color"
         },
         "invert": {
@@ -49,19 +85,19 @@
       },
       "negative": {
         "moderate": {
-          "value": "{palette.negative.potent}",
+          "value": "{palette.negative.subtle}",
           "type": "color"
         }
       },
       "positive": {
         "moderate": {
-          "value": "{palette.positive.potent}",
+          "value": "{palette.positive.subtle}",
           "type": "color"
         }
       },
       "warning": {
         "moderate": {
-          "value": "{palette.warning.potent}",
+          "value": "{palette.warning.subtle}",
           "type": "color"
         }
       }
@@ -69,7 +105,7 @@
     "container": {
       "background": {
         "subtle": {
-          "value": "{palette.alpha.faint}",
+          "value": "{palette.alpha.dominant}",
           "type": "color"
         },
         "potent": {
@@ -82,51 +118,42 @@
         },
         "neutral": {
           "subtle": {
-            "value": "{shade.white}",
+            "value": "{shade.black}",
             "type": "color"
           },
           "mild": {
-            "value": "{palette.neutral.faint}",
+            "value": "{palette.neutral.dominant}",
             "type": "color"
           }
         },
         "negative": {
           "subtle": {
-            "value": "{palette.negative.faint}",
+            "value": "{palette.negative.dominant}",
             "type": "color"
           }
         },
         "positive": {
           "subtle": {
-            "value": "{palette.positive.faint}",
+            "value": "{palette.positive.dominant}",
             "type": "color"
           }
         },
         "warning": {
           "subtle": {
-            "value": "{palette.warning.faint}",
+            "value": "{palette.warning.dominant}",
             "type": "color"
           }
         }
       },
       "border": {
         "moderate": {
-          "value": "{palette.alpha.subtle}",
+          "value": "{palette.alpha.potent}",
           "type": "color"
         },
         "neutral": {
           "mild": {
-            "value": "{palette.neutral.subtle}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": ".6",
-                  "space": "srgb"
-                }
-              }
-            }
+            "value": "{palette.neutral.mild}",
+            "type": "color"
           },
           "moderate": {
             "value": "{palette.neutral.subtle}",
@@ -135,19 +162,19 @@
         },
         "negative": {
           "moderate": {
-            "value": "{palette.negative.subtle}",
+            "value": "{palette.negative.potent}",
             "type": "color"
           }
         },
         "positive": {
           "moderate": {
-            "value": "{palette.positive.subtle}",
+            "value": "{palette.positive.potent}",
             "type": "color"
           }
         },
         "warning": {
           "moderate": {
-            "value": "{palette.warning.subtle}",
+            "value": "{palette.warning.potent}",
             "type": "color"
           }
         }
@@ -156,11 +183,11 @@
     "action": {
       "background": {
         "subtle": {
-          "value": "{palette.alpha.faint}",
+          "value": "{palette.alpha.dominant}",
           "type": "color"
         },
         "mild": {
-          "value": "{palette.alpha.subtle}",
+          "value": "{palette.alpha.moderate}",
           "type": "color"
         },
         "moderate": {
@@ -177,11 +204,11 @@
         },
         "neutral": {
           "subtle": {
-            "value": "{shade.white}",
+            "value": "{shade.black}",
             "type": "color"
           },
           "mild": {
-            "value": "{palette.neutral.faint}",
+            "value": "{palette.neutral.moderate}",
             "type": "color"
           },
           "moderate": {
@@ -203,21 +230,13 @@
         },
         "disabled": {
           "subtle": {
-            "value": "{palette.neutral.faint}",
+            "value": "{palette.neutral.dominant}",
             "type": "color"
           },
           "mild": {
-            "value": "{palette.neutral.subtle}",
+            "value": "{palette.neutral.potent}",
             "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": ".6",
-                  "space": "srgb"
-                }
-              }
-            }
+            "$extensions": {}
           },
           "moderate": {
             "value": "{palette.neutral.subtle}",
@@ -230,11 +249,11 @@
         },
         "negative": {
           "subtle": {
-            "value": "{palette.negative.faint}",
+            "value": "{palette.negative.dominant}",
             "type": "color"
           },
           "mild": {
-            "value": "{palette.negative.subtle}",
+            "value": "{palette.negative.potent}",
             "type": "color"
           },
           "moderate": {
@@ -252,11 +271,11 @@
         },
         "positive": {
           "subtle": {
-            "value": "{palette.positive.faint}",
+            "value": "{palette.positive.dominant}",
             "type": "color"
           },
           "mild": {
-            "value": "{palette.positive.subtle}",
+            "value": "{palette.positive.potent}",
             "type": "color"
           },
           "moderate": {
@@ -274,11 +293,11 @@
         },
         "warning": {
           "subtle": {
-            "value": "{palette.warning.faint}",
+            "value": "{palette.warning.dominant}",
             "type": "color"
           },
           "mild": {
-            "value": "{palette.warning.subtle}",
+            "value": "{palette.warning.potent}",
             "type": "color"
           },
           "moderate": {
@@ -297,11 +316,11 @@
       },
       "foreground": {
         "moderate": {
-          "value": "{palette.alpha.moderate}",
+          "value": "{palette.alpha.faint}",
           "type": "color"
         },
         "potent": {
-          "value": "{palette.alpha.potent}",
+          "value": "{shade.white}",
           "type": "color"
         },
         "invert": {
@@ -310,11 +329,11 @@
         },
         "neutral": {
           "moderate": {
-            "value": "{palette.neutral.amplified}",
+            "value": "{palette.neutral.faint}",
             "type": "color"
           },
           "potent": {
-            "value": "{palette.neutral.dominant}",
+            "value": "{shade.white}",
             "type": "color"
           },
           "invert": {
@@ -324,11 +343,11 @@
         },
         "disabled": {
           "moderate": {
-            "value": "{palette.neutral.subtle}",
+            "value": "{palette.neutral.mild}",
             "type": "color"
           },
           "potent": {
-            "value": "{palette.neutral.mild}",
+            "value": "{palette.neutral.subtle}",
             "type": "color"
           },
           "invert": {
@@ -338,11 +357,20 @@
         },
         "negative": {
           "moderate": {
-            "value": "{palette.negative.moderate}",
-            "type": "color"
+            "value": "{palette.negative.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": ".8",
+                  "space": "srgb"
+                }
+              }
+            }
           },
           "potent": {
-            "value": "{palette.negative.potent}",
+            "value": "{palette.negative.faint}",
             "type": "color"
           },
           "invert": {
@@ -352,11 +380,20 @@
         },
         "positive": {
           "moderate": {
-            "value": "{palette.positive.moderate}",
-            "type": "color"
+            "value": "{palette.positive.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": ".8",
+                  "space": "srgb"
+                }
+              }
+            }
           },
           "potent": {
-            "value": "{palette.positive.potent}",
+            "value": "{palette.positive.faint}",
             "type": "color"
           },
           "invert": {
@@ -366,11 +403,20 @@
         },
         "warning": {
           "moderate": {
-            "value": "{palette.warning.moderate}",
-            "type": "color"
+            "value": "{palette.warning.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": ".8",
+                  "space": "srgb"
+                }
+              }
+            }
           },
           "potent": {
-            "value": "{palette.warning.potent}",
+            "value": "{palette.warning.faint}",
             "type": "color"
           },
           "invert": {
@@ -520,13 +566,13 @@
         },
         "neutral": {
           "subtle": {
-            "value": "{shade.white}",
+            "value": "{shade.black}",
             "type": "color"
           }
         },
         "disabled": {
           "subtle": {
-            "value": "{palette.neutral.faint}",
+            "value": "{palette.neutral.dominant}",
             "type": "color"
           }
         }
@@ -534,46 +580,64 @@
       "foreground": {
         "neutral": {
           "subtle": {
-            "value": "{palette.neutral.subtle}",
-            "type": "color"
-          },
-          "moderate": {
             "value": "{palette.neutral.mild}",
             "type": "color"
           },
-          "mild": {
-            "value": "{palette.neutral.moderate}",
+          "moderate": {
+            "value": "{palette.neutral.subtle}",
             "type": "color"
           },
+          "mild": {
+            "value": "{palette.neutral.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": ".6",
+                  "space": "lch"
+                }
+              }
+            }
+          },
           "potent": {
-            "value": "{palette.neutral.amplified}",
+            "value": "{palette.neutral.faint}",
             "type": "color"
           },
           "amplified": {
-            "value": "{shade.black}",
+            "value": "{shade.white}",
             "type": "color"
           }
         },
         "disabled": {
           "moderate": {
-            "value": "{palette.neutral.subtle}",
+            "value": "{palette.neutral.mild}",
             "type": "color"
           }
         },
         "negative": {
           "moderate": {
-            "value": "{palette.negative.mild}",
+            "value": "{palette.negative.subtle}",
             "type": "color"
           },
           "potent": {
-            "value": "{palette.negative.moderate}",
-            "type": "color"
+            "value": "{palette.negative.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": ".6",
+                  "space": "lch"
+                }
+              }
+            }
           }
         }
       },
       "border": {
         "mild": {
-          "value": "{palette.alpha.subtle}",
+          "value": "{palette.alpha.mild}",
           "type": "color"
         },
         "moderate": {
@@ -588,22 +652,13 @@
         },
         "disabled": {
           "mild": {
-            "value": "{palette.neutral.subtle}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": ".6",
-                  "space": "srgb"
-                }
-              }
-            }
+            "value": "{palette.neutral.potent}",
+            "type": "color"
           }
         },
         "negative": {
           "mild": {
-            "value": "{palette.negative.subtle}",
+            "value": "{palette.negative.mild}",
             "type": "color"
           }
         }
