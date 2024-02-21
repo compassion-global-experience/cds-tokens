@@ -507,21 +507,21 @@
   },
   "family": {
     "display": {
-      "value": "{family.neighbour-sans}",
+      "value": "{family.montserrat}",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "{family.neighbour-sans}",
+      "value": "{family.montserrat}",
       "type": "fontFamilies"
     },
     "label": {
-      "value": "{family.neighbour-sans}",
+      "value": "{family.montserrat}",
       "type": "fontFamilies"
     }
   },
   "weight": {
     "display": {
-      "value": "Demi Bold",
+      "value": "SemiBold",
       "type": "fontWeights"
     },
     "body": {
@@ -538,7 +538,7 @@
         "type": "fontWeights"
       },
       "potent": {
-        "value": "Demi Bold",
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "amplified": {
