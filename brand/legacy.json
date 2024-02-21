@@ -10,15 +10,15 @@
         "type": "color"
       },
       "mild": {
-        "value": "{shade.denim.500}",
-        "type": "color"
-      },
-      "moderate": {
         "value": "{shade.denim.600}",
         "type": "color"
       },
-      "potent": {
+      "moderate": {
         "value": "{shade.denim.700}",
+        "type": "color"
+      },
+      "potent": {
+        "value": "{shade.denim.800}",
         "type": "color"
       },
       "amplified": {
