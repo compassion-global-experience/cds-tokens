@@ -119,10 +119,19 @@
         "neutral": {
           "subtle": {
             "value": "{shade.black}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": ".05",
+                  "space": "srgb"
+                }
+              }
+            }
           },
           "mild": {
-            "value": "{palette.neutral.dominant}",
+            "value": "{shade.black}",
             "type": "color"
           }
         },
