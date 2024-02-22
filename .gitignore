@@ -1,0 +1,33 @@
+#dist/
+node_modules/
+*.bak
+logs/*
+*.log
+npm-debug.log
+!.gitkeep
+tmp
+.sass-cache/
+.npm
+.grunt
+Gemfile.lock
+
+# Mac desktop service store files
+.DS_Store
+
+# Jetbrains project files
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+
+# =========================
+# Windows detritus
+# =========================
+
+# Windows image file caches
+[Tt]humbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/

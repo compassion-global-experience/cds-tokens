@@ -1,0 +1,29 @@
+{
+  "name": "@compassion-global-experience/cds-tokens",
+  "version": "2.0.0-alpha.4",
+  "description": "Tokens used in the Compassion Design System.",
+  "main": "./themes",
+  "scripts": {
+    "build": "npm run transform-tokens && npm run style-dictionary",
+    "transform-tokens": "bash scripts/transform-tokens.sh",
+    "style-dictionary": "node scripts/style-dictionary.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compassion-global-experience/cds-tokens.git"
+  },
+  "keywords": [
+    "tokens",
+    "design-system"
+  ],
+  "author": "Compassion Global Experience <globalux@compassion.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/compassion-global-experience/cds-tokens/issues"
+  },
+  "homepage": "https://github.com/compassion-global-experience/cds-tokens#readme",
+  "dependencies": {
+    "style-dictionary": "^3.8.0",
+    "token-transformer": "^0.0.32"
+  }
+}
