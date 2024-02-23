@@ -226,6 +226,19 @@
           "invert": {
             "value": "{shade.white}",
             "type": "color"
+          },
+          "lessfaint": {
+            "value": "{palette.neutral.dominant}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.5",
+                  "space": "lch"
+                }
+              }
+            }
           }
         },
         "negative": {
@@ -338,6 +351,19 @@
           "invert": {
             "value": "{shade.white}",
             "type": "color"
+          },
+          "invertAlpha": {
+            "value": "{color.action.foreground.disabled.invert}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.6",
+                  "space": "lch"
+                }
+              }
+            }
           }
         },
         "negative": {
