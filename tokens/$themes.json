@@ -62,7 +62,8 @@
       "color.shadow.potent": "S:bd1fe855144447d44f62a10111771aa94cb909d8,",
       "color.ring.moderate": "S:c00e0fea167ed9e6dfe053c5aec01da962d93d3d,",
       "color.ring.neutral.moderate": "S:2671c7af0f5dfb53aa56f49b64fc2101614158f0,",
-      "color.ring.negative.moderate": "S:0addcb1acd82511526fd9cab53ef87df72806bb0,"
+      "color.ring.negative.moderate": "S:0addcb1acd82511526fd9cab53ef87df72806bb0,",
+      "palette.neutral.lessfaint": "S:63621e7a30716996ef7351d99106b6a0cb2465bd,"
     },
     "selectedTokenSets": {
       "brand/compassion": "enabled",
