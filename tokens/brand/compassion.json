@@ -37,8 +37,7 @@
       },
       "lessfaint": {
         "value": "{shade.vulcan.300}",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "subtle": {
         "value": "{shade.vulcan.400}",
