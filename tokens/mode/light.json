@@ -293,6 +293,10 @@
             "value": "{shade.white}",
             "type": "color"
           }
+        },
+        "transparent": {
+          "value": "{shade.none}",
+          "type": "color"
         }
       },
       "foreground": {

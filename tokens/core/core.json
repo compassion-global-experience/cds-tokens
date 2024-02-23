@@ -375,6 +375,10 @@
         "value": "#481f00",
         "type": "color"
       }
+    },
+    "none": {
+      "value": "#00000000",
+      "type": "color"
     }
   },
   "family": {
