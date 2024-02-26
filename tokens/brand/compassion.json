@@ -153,6 +153,12 @@
         "value": "{shade.glow.950}",
         "type": "color"
       }
+    },
+    "beta": {
+      "faint": {
+        "value": "{shade.sundown.50}",
+        "type": "color"
+      }
     }
   },
   "outline": {
