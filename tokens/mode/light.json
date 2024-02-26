@@ -336,6 +336,16 @@
         "transparent": {
           "value": "{shade.none}",
           "type": "color"
+        },
+        "cta": {
+          "subtle": {
+            "value": "{palette.beta.subtle}",
+            "type": "color"
+          },
+          "murmur": {
+            "value": "{palette.beta.murmur}",
+            "type": "color"
+          }
         }
       },
       "foreground": {
