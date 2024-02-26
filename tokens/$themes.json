@@ -484,7 +484,10 @@
       "color.input.border.moderate": "S:90dcc8fc385b3f6723ec4b1d01e4d4d146cbf6b2,",
       "color.input.border.neutral.mild": "S:e4e72e3af628793c4f8614d195dedded22ef68a2,",
       "color.input.border.disabled.mild": "S:67eae9627fb69a4e5c8202186c0a3c055347ebff,",
-      "color.input.border.negative.mild": "S:3700722cc8913d22edb179f9ce5f9c7d9d012f48,"
+      "color.input.border.negative.mild": "S:3700722cc8913d22edb179f9ce5f9c7d9d012f48,",
+      "color.action.background.disabled.lessfaint": "S:7abb2195b41043cd33ab285f5d3c3ae0dd1bf581,",
+      "color.action.background.disabled.invertAlpha": "S:fc062106cae203e47deda14bcf426778d9fbecee,",
+      "color.action.foreground.disabled.invertAlpha": "S:159cc6f8a301f7c0d1079b86f6a2e9e0aea7ac02,"
     },
     "selectedTokenSets": {
       "mode/light": "enabled",
@@ -535,6 +538,8 @@
       "color.action.background.disabled.mild": "ca685584c3be9aa0ed48f5602f7cc117f3518d0c",
       "color.action.background.disabled.moderate": "f0a18f3d39e2bedb583eafdec695402de0eda393",
       "color.action.background.disabled.invert": "e81cba1904a108e0dc7f070806b8849253bc4802",
+      "color.action.background.disabled.lessfaint": "8657c4d2856a70ca60c2f8f6eb9b97f188687824",
+      "color.action.background.disabled.invertAlpha": "e8cd7e1dec749d318d26dd26a1abd41a9548a7e3",
       "color.action.background.negative.subtle": "49f0d2953e24f84035000092a22e4cec106d52cb",
       "color.action.background.negative.mild": "54e6375d637836c914e938da49ee9db96f2722d7",
       "color.action.background.negative.moderate": "a76ef1a3a869792850b52ac71f972f1e567290d3",
@@ -560,6 +565,7 @@
       "color.action.foreground.disabled.moderate": "efc0921711e6503f3a50c9c04ced30e44f96da09",
       "color.action.foreground.disabled.potent": "618adabca5b4ccd1f8b5894a23290fc985509692",
       "color.action.foreground.disabled.invert": "ba0ff259ce75eba5c0b35cf33778b2097401698e",
+      "color.action.foreground.disabled.invertAlpha": "584db8ad106e1cff77c6a12b1d10e63b880a1c9a",
       "color.action.foreground.negative.moderate": "6485149317ef9b206b220b28f54fbc1a317577b7",
       "color.action.foreground.negative.potent": "1a9399e04b1675a220cc29eea1921f08c2e34d44",
       "color.action.foreground.negative.invert": "f9061c40d55fb6813ee03d88b1ef588c0781494f",
