@@ -487,7 +487,8 @@
       "color.input.border.negative.mild": "S:3700722cc8913d22edb179f9ce5f9c7d9d012f48,",
       "color.action.background.disabled.lessfaint": "S:7abb2195b41043cd33ab285f5d3c3ae0dd1bf581,",
       "color.action.background.disabled.invertAlpha": "S:fc062106cae203e47deda14bcf426778d9fbecee,",
-      "color.action.foreground.disabled.invertAlpha": "S:159cc6f8a301f7c0d1079b86f6a2e9e0aea7ac02,"
+      "color.action.foreground.disabled.invertAlpha": "S:159cc6f8a301f7c0d1079b86f6a2e9e0aea7ac02,",
+      "color.action.background.disabled.dominantAlpha": "S:f54af1b3d6b7cca502c9e74334c8816bb3b9290f,"
     },
     "selectedTokenSets": {
       "mode/light": "enabled",
@@ -620,7 +621,8 @@
       "color.input.border.moderate": "6da91e4ab3435c2e5c0fd4f8704a800ae2975aab",
       "color.input.border.neutral.mild": "3262bc322bb850ee8523d8479a405606ec5d70ca",
       "color.input.border.disabled.mild": "338e52c1ba6bca744d5f3b0617e5cf9b74f2c725",
-      "color.input.border.negative.mild": "14463b723cea36594e9ac1b7654a395292bbfcc8"
+      "color.input.border.negative.mild": "14463b723cea36594e9ac1b7654a395292bbfcc8",
+      "color.action.background.disabled.dominantAlpha": "962596529d8c218711a9b64bbd2b7be6dc714143"
     },
     "group": "Mode"
   },

@@ -252,6 +252,19 @@
                 }
               }
             }
+          },
+          "dominantAlpha": {
+            "value": "{palette.neutral.dominant}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.6",
+                  "space": "lch"
+                }
+              }
+            }
           }
         },
         "negative": {
