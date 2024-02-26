@@ -63,7 +63,17 @@
       "color.ring.moderate": "S:c00e0fea167ed9e6dfe053c5aec01da962d93d3d,",
       "color.ring.neutral.moderate": "S:2671c7af0f5dfb53aa56f49b64fc2101614158f0,",
       "color.ring.negative.moderate": "S:0addcb1acd82511526fd9cab53ef87df72806bb0,",
-      "palette.neutral.lessfaint": "S:63621e7a30716996ef7351d99106b6a0cb2465bd,"
+      "palette.neutral.lessfaint": "S:63621e7a30716996ef7351d99106b6a0cb2465bd,",
+      "palette.beta.faint": "S:dcee163db7d99ff618427debf2a1810d9b250844,",
+      "palette.beta.whisper": "S:abba4b05c281c82430585ec014eef39284ce15e7,",
+      "palette.beta.hushed": "S:1603a895b47d068fd9073cbd98b1c23f8526c72d,",
+      "palette.beta.murmur": "S:cb6c8fb68bbdefe1dc405c57613f6c0f35cd1e1d,",
+      "palette.beta.subtle": "S:79b6b9467402aad96d6ad03e98eb0f93330569b1,",
+      "palette.beta.mild": "S:d9b8f91d665f13e5975f8e54642c3276d7251da0,",
+      "palette.beta.moderate": "S:13ca578bb8427c4bba9242fa8e211ec31f20d6e8,",
+      "palette.beta.potent": "S:4364837a8811a3405b3f9b01c372d879d2175e24,",
+      "palette.beta.amplified": "S:c39263876ff3f7b048c90c93d1572e4eaa8e24b3,",
+      "palette.beta.dominant": "S:8f1636603a0369e11d393f0b220ea82581caa378,"
     },
     "selectedTokenSets": {
       "brand/compassion": "enabled",
@@ -108,6 +118,16 @@
       "palette.warning.potent": "d135801150832893aa7721e620a823b73556c610",
       "palette.warning.amplified": "f477f802aab8ab63bd9f5485d6e23f429488130d",
       "palette.warning.dominant": "7edf1b97b9654c0aa37eeeaa1efa5f6834759f83",
+      "palette.beta.faint": "93f328b348d2c1d238cb87c0f17203b1dc4080de",
+      "palette.beta.whisper": "3f4981d63152728b8c9a3388e9fdf7746eb30404",
+      "palette.beta.hushed": "81e3bce5b284708cea68a9e899c37ac22e8c094c",
+      "palette.beta.murmur": "38e3c7734148dcfbb08c88c8eb0993369d952ea2",
+      "palette.beta.subtle": "a2ac34b11eab6e8a9ff9876559fabeebfd59eebf",
+      "palette.beta.mild": "5a6cdb5c01de283dbcd427eaa73305892f16b307",
+      "palette.beta.moderate": "cf1452fe1a17f69af9ac9f631948f294e718818c",
+      "palette.beta.potent": "6c2ee438a840a0fcf223a3aa1786f4399264234c",
+      "palette.beta.amplified": "cf402c410bd4ede93446177c7f47cdce88bf5d74",
+      "palette.beta.dominant": "f5c5959aef49e64d7c2f13cde3b7d55227bd4d1a",
       "outline.radius.none": "c1d97c9870db774ac253aae0befae51abce9de1a",
       "outline.radius.sm": "671d665eaeec41398b87e92c18faf662af3103ef",
       "outline.radius.md": "df632f5141452b1dfd93625a571b92e7cf4fe981",
@@ -541,6 +561,7 @@
       "color.action.background.disabled.invert": "e81cba1904a108e0dc7f070806b8849253bc4802",
       "color.action.background.disabled.lessfaint": "8657c4d2856a70ca60c2f8f6eb9b97f188687824",
       "color.action.background.disabled.invertAlpha": "e8cd7e1dec749d318d26dd26a1abd41a9548a7e3",
+      "color.action.background.disabled.dominantAlpha": "962596529d8c218711a9b64bbd2b7be6dc714143",
       "color.action.background.negative.subtle": "49f0d2953e24f84035000092a22e4cec106d52cb",
       "color.action.background.negative.mild": "54e6375d637836c914e938da49ee9db96f2722d7",
       "color.action.background.negative.moderate": "a76ef1a3a869792850b52ac71f972f1e567290d3",
@@ -621,8 +642,7 @@
       "color.input.border.moderate": "6da91e4ab3435c2e5c0fd4f8704a800ae2975aab",
       "color.input.border.neutral.mild": "3262bc322bb850ee8523d8479a405606ec5d70ca",
       "color.input.border.disabled.mild": "338e52c1ba6bca744d5f3b0617e5cf9b74f2c725",
-      "color.input.border.negative.mild": "14463b723cea36594e9ac1b7654a395292bbfcc8",
-      "color.action.background.disabled.dominantAlpha": "962596529d8c218711a9b64bbd2b7be6dc714143"
+      "color.input.border.negative.mild": "14463b723cea36594e9ac1b7654a395292bbfcc8"
     },
     "group": "Mode"
   },

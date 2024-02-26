@@ -158,6 +158,42 @@
       "faint": {
         "value": "{shade.sundown.50}",
         "type": "color"
+      },
+      "whisper": {
+        "value": "{shade.sundown.100}",
+        "type": "color"
+      },
+      "hushed": {
+        "value": "{shade.sundown.200}",
+        "type": "color"
+      },
+      "murmur": {
+        "value": "{shade.sundown.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{shade.sundown.400}",
+        "type": "color"
+      },
+      "mild": {
+        "value": "{shade.sundown.500}",
+        "type": "color"
+      },
+      "moderate": {
+        "value": "{shade.sundown.600}",
+        "type": "color"
+      },
+      "potent": {
+        "value": "{shade.sundown.700}",
+        "type": "color"
+      },
+      "amplified": {
+        "value": "{shade.sundown.900}",
+        "type": "color"
+      },
+      "dominant": {
+        "value": "{shade.sundown.950}",
+        "type": "color"
       }
     }
   },
