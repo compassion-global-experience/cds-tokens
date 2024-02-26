@@ -446,7 +446,7 @@
         },
         "cta": {
           "subtle": {
-            "value": "{palette.beta.subtle}",
+            "value": "{palette.beta.mild}",
             "type": "color"
           },
           "murmur": {
