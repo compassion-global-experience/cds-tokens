@@ -512,7 +512,9 @@
       "color.action.background.cta.subtle": "S:2d88b7df365c26cc70c6b1b29ff4b4c0775f9331,",
       "color.action.background.cta.murmur": "S:34b5346568d879e6adddda7fbc1258ed51c47e0f,",
       "color.action.foreground.cta.subtle": "S:04c8508b5cf15005f8c2cf955607424e0435a08a,",
-      "color.action.foreground.cta.murmur": "S:6bfc55d9ff59bfc9d070f467bde37339e9fa2bfa,"
+      "color.action.foreground.cta.murmur": "S:6bfc55d9ff59bfc9d070f467bde37339e9fa2bfa,",
+      "color.action.background.cta.mild": "S:5e09967e8d9fa2755275161916694c304ccf01d8,",
+      "color.action.foreground.cta.mild": "S:8b47781675c8b09b555df712c30051900d3d1c00,"
     },
     "selectedTokenSets": {
       "mode/light": "enabled",
@@ -648,8 +650,10 @@
       "color.input.border.disabled.mild": "338e52c1ba6bca744d5f3b0617e5cf9b74f2c725",
       "color.input.border.negative.mild": "14463b723cea36594e9ac1b7654a395292bbfcc8",
       "color.action.background.cta.subtle": "6f60b571c35672a29b389a7b115795068247f48e",
+      "color.action.background.cta.mild": "e42568f6b7762d950bf8319d6d9ad48e2a993d44",
       "color.action.background.cta.murmur": "b802ea6f6447af157dfef4e1c8ea55dcafdb3030",
       "color.action.foreground.cta.subtle": "0c4d527304e5cd9f8bfa11ed3d777f16e57a0d8c",
+      "color.action.foreground.cta.mild": "8a6127ccc1d955d2800763acef48d7b7ec102691",
       "color.action.foreground.cta.murmur": "ccd1cdd9356028fee45c8acaa635fd68c8f3236d"
     },
     "group": "Mode"

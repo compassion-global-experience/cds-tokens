@@ -342,6 +342,10 @@
             "value": "{palette.beta.subtle}",
             "type": "color"
           },
+          "mild": {
+            "value": "{palette.beta.mild}",
+            "type": "color"
+          },
           "murmur": {
             "value": "{palette.beta.murmur}",
             "type": "color"
@@ -446,6 +450,10 @@
         },
         "cta": {
           "subtle": {
+            "value": "{palette.beta.subtle}",
+            "type": "color"
+          },
+          "mild": {
             "value": "{palette.beta.mild}",
             "type": "color"
           },
