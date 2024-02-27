@@ -137,6 +137,17 @@
             "paragraphSpacing": "{size.5}"
           },
           "type": "typography"
+        },
+        "2xl": {
+          "value": {
+            "fontFamily": "{family.body}",
+            "letterSpacing": "0%",
+            "lineHeight": "125%",
+            "fontWeight": "{weight.label.mild}",
+            "fontSize": "{size.6}",
+            "paragraphSpacing": "{size.6}"
+          },
+          "type": "typography"
         }
       },
       "moderate": {
