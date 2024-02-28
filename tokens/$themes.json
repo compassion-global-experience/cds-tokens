@@ -73,7 +73,8 @@
       "palette.beta.moderate": "S:13ca578bb8427c4bba9242fa8e211ec31f20d6e8,",
       "palette.beta.potent": "S:4364837a8811a3405b3f9b01c372d879d2175e24,",
       "palette.beta.amplified": "S:c39263876ff3f7b048c90c93d1572e4eaa8e24b3,",
-      "palette.beta.dominant": "S:8f1636603a0369e11d393f0b220ea82581caa378,"
+      "palette.beta.dominant": "S:8f1636603a0369e11d393f0b220ea82581caa378,",
+      "palette.gamma.faint": "S:c23dada5ba869adccf0096b68e783773d173431f,"
     },
     "selectedTokenSets": {
       "brand/compassion": "enabled",
@@ -184,7 +185,8 @@
       "color.shadow.potent": "3e337733a87fc765f57210fd997cbf2b66629fdb",
       "color.ring.moderate": "8b84ebb358f4843d60393102466bd5be7837f988",
       "color.ring.neutral.moderate": "8c2eb6e212ba060ad4fa089aafe17cfe32dafb58",
-      "color.ring.negative.moderate": "53f5bd3ee69412dd9b07d9774c8318d7fdb33cfb"
+      "color.ring.negative.moderate": "53f5bd3ee69412dd9b07d9774c8318d7fdb33cfb",
+      "palette.gamma.faint": "97d546474b60c8e70d2b6d155303dab19e00f660"
     },
     "group": "Brand"
   },

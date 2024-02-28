@@ -195,6 +195,12 @@
         "value": "{shade.sundown.950}",
         "type": "color"
       }
+    },
+    "gamma": {
+      "faint": {
+        "value": "#FCF8F4",
+        "type": "color"
+      }
     }
   },
   "outline": {
