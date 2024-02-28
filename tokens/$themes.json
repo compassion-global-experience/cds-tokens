@@ -645,6 +645,7 @@
       "color.input.background.moderate": "519c9a36bce4df3c7bb6d2fb87b20d7d5db96eba",
       "color.input.background.neutral.subtle": "3f40bebef851619df9d5ef66b143b2781da39cd1",
       "color.input.background.disabled.subtle": "b2d9ea99cb0edb2e67b391f8579ed21468076bec",
+      "color.input.foreground.neutral.faint": "dfee20f8c3188a5a17a81a895e549100c74ba694",
       "color.input.foreground.neutral.subtle": "c4a7773dfc3d09ad1cd36c76075e7084950702a4",
       "color.input.foreground.neutral.moderate": "ae9549c3fa5d628f8ca6438110b11039d2d47ae0",
       "color.input.foreground.neutral.mild": "3da1fc7dc0453ae83072f09afebecd2f60b12397",
