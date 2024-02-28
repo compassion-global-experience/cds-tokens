@@ -515,7 +515,8 @@
       "color.action.foreground.cta.murmur": "S:6bfc55d9ff59bfc9d070f467bde37339e9fa2bfa,",
       "color.action.background.cta.mild": "S:5e09967e8d9fa2755275161916694c304ccf01d8,",
       "color.action.foreground.cta.mild": "S:8b47781675c8b09b555df712c30051900d3d1c00,",
-      "color.container.background.mild": "S:2523145eadfbfb777d243a5149bae7e5044f1ce0,"
+      "color.container.background.mild": "S:2523145eadfbfb777d243a5149bae7e5044f1ce0,",
+      "color.input.foreground.neutral.faint": "S:648fea21e50b3377b40567a7e0454501d4c90941,"
     },
     "selectedTokenSets": {
       "mode/light": "enabled",
@@ -913,7 +914,8 @@
       "font.label.amplified.sm": "S:115185fa21658006660571da2e875db063ebb049,",
       "font.label.amplified.md": "S:150409c8ce3a2bb27f8f3e553b5f7b4f5302e706,",
       "font.label.amplified.lg": "S:198afc3f78818a65dc86dbf519f0d93e648e4776,",
-      "font.label.amplified.xl": "S:0aec52f6507dff47ba4082e359a45be42f420028,"
+      "font.label.amplified.xl": "S:0aec52f6507dff47ba4082e359a45be42f420028,",
+      "font.label.mild.2xl": "S:bd9d0c548f37d1de5a2d948da5085375c9af73df,"
     },
     "selectedTokenSets": {
       "core/core": "source",

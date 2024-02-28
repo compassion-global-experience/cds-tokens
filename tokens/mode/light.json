@@ -630,6 +630,19 @@
       },
       "foreground": {
         "neutral": {
+          "faint": {
+            "value": "{palette.neutral.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.4",
+                  "space": "lch"
+                }
+              }
+            }
+          },
           "subtle": {
             "value": "{palette.neutral.subtle}",
             "type": "color"
