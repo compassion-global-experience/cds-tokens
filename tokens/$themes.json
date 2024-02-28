@@ -129,6 +129,7 @@
       "palette.beta.potent": "6c2ee438a840a0fcf223a3aa1786f4399264234c",
       "palette.beta.amplified": "cf402c410bd4ede93446177c7f47cdce88bf5d74",
       "palette.beta.dominant": "f5c5959aef49e64d7c2f13cde3b7d55227bd4d1a",
+      "palette.gamma.faint": "97d546474b60c8e70d2b6d155303dab19e00f660",
       "outline.radius.none": "c1d97c9870db774ac253aae0befae51abce9de1a",
       "outline.radius.sm": "671d665eaeec41398b87e92c18faf662af3103ef",
       "outline.radius.md": "df632f5141452b1dfd93625a571b92e7cf4fe981",
@@ -185,8 +186,7 @@
       "color.shadow.potent": "3e337733a87fc765f57210fd997cbf2b66629fdb",
       "color.ring.moderate": "8b84ebb358f4843d60393102466bd5be7837f988",
       "color.ring.neutral.moderate": "8c2eb6e212ba060ad4fa089aafe17cfe32dafb58",
-      "color.ring.negative.moderate": "53f5bd3ee69412dd9b07d9774c8318d7fdb33cfb",
-      "palette.gamma.faint": "97d546474b60c8e70d2b6d155303dab19e00f660"
+      "color.ring.negative.moderate": "53f5bd3ee69412dd9b07d9774c8318d7fdb33cfb"
     },
     "group": "Brand"
   },
@@ -518,7 +518,8 @@
       "color.action.background.cta.mild": "S:5e09967e8d9fa2755275161916694c304ccf01d8,",
       "color.action.foreground.cta.mild": "S:8b47781675c8b09b555df712c30051900d3d1c00,",
       "color.container.background.mild": "S:2523145eadfbfb777d243a5149bae7e5044f1ce0,",
-      "color.input.foreground.neutral.faint": "S:648fea21e50b3377b40567a7e0454501d4c90941,"
+      "color.input.foreground.neutral.faint": "S:648fea21e50b3377b40567a7e0454501d4c90941,",
+      "color.foreground.neutral.invertAlpha": "S:2fc5f47b321e75d6a87bd75d337014176a477f83,"
     },
     "selectedTokenSets": {
       "mode/light": "enabled",
@@ -537,6 +538,7 @@
       "color.foreground.neutral.potent": "a40ca19936cbc920b2283611cc96038d99368003",
       "color.foreground.neutral.amplified": "9fa8636057e86ea91f31eaab004bdcd4ef20ddbe",
       "color.foreground.neutral.invert": "9bd7cbdae0954c043c732f314bf943337e49be66",
+      "color.foreground.neutral.invertAlpha": "2f4addf5b7691320c00538565c4d06f00d91ac47",
       "color.foreground.negative.moderate": "05ee6005a571764ee97399cc617c24008f8b77f7",
       "color.foreground.positive.moderate": "13233055fe464ccbfc08e96031fc748128cd8c02",
       "color.foreground.warning.moderate": "6a5e8fb5640a93a83bb8fe9f040b37ae1bef608e",

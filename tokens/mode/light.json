@@ -45,6 +45,19 @@
         "invert": {
           "value": "{shade.white}",
           "type": "color"
+        },
+        "invertAlpha": {
+          "value": "{color.foreground.neutral.invert}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.5",
+                "space": "lch"
+              }
+            }
+          }
         }
       },
       "negative": {
