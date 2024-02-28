@@ -898,8 +898,6 @@
       "font.display.lg": "S:54535dbbbeda36c4c4595c439d32ec0b3cfd55d2,",
       "font.display.xl": "S:f644ac85fbffc0d694a7b70e2b878b937559fb86,",
       "font.display.2xl": "S:6207f1892121a95ddf64552a51a1ab2a80f41e41,",
-      "font.body.sm": "S:b371fa716b451e3446aceb006f025e566f89601b,",
-      "font.body.md": "S:bca6780eb6e5b9d717e9ffb7823f49d292115634,",
       "font.label.mild.sm": "S:4eb520f8b51715146177bf1040dfb6ceb1e81304,",
       "font.label.mild.md": "S:c15915a8502bf6aa56f4c4432d2f25044b25d25f,",
       "font.label.mild.lg": "S:4e39e1c7b17296e86a30a80f1142a76fcb60b6ba,",
@@ -916,7 +914,11 @@
       "font.label.amplified.md": "S:150409c8ce3a2bb27f8f3e553b5f7b4f5302e706,",
       "font.label.amplified.lg": "S:198afc3f78818a65dc86dbf519f0d93e648e4776,",
       "font.label.amplified.xl": "S:0aec52f6507dff47ba4082e359a45be42f420028,",
-      "font.label.mild.2xl": "S:bd9d0c548f37d1de5a2d948da5085375c9af73df,"
+      "font.label.mild.2xl": "S:bd9d0c548f37d1de5a2d948da5085375c9af73df,",
+      "font.body.mild.sm": "S:b371fa716b451e3446aceb006f025e566f89601b,",
+      "font.body.mild.md": "S:bca6780eb6e5b9d717e9ffb7823f49d292115634,",
+      "font.body.amplified.sm": "S:3cbeef58c1e770892864c5fb72da0abd574416e6,",
+      "font.body.amplified.md": "S:b0dd949adf304173d38240748d0670f8f6207f2b,"
     },
     "selectedTokenSets": {
       "core/core": "source",

@@ -69,27 +69,53 @@
       }
     },
     "body": {
-      "sm": {
-        "value": {
-          "fontFamily": "{family.body}",
-          "fontWeight": "{weight.body}",
-          "fontSize": "{size.4}",
-          "paragraphSpacing": "{size.4}",
-          "letterSpacing": "0%",
-          "lineHeight": "150%"
+      "mild": {
+        "sm": {
+          "value": {
+            "fontFamily": "{family.body}",
+            "fontWeight": "{weight.body}",
+            "fontSize": "{size.4}",
+            "paragraphSpacing": "{size.4}",
+            "letterSpacing": "0%",
+            "lineHeight": "150%"
+          },
+          "type": "typography"
         },
-        "type": "typography"
+        "md": {
+          "value": {
+            "fontFamily": "{family.body}",
+            "fontWeight": "{weight.body}",
+            "lineHeight": "150%",
+            "paragraphSpacing": "{size.5}",
+            "letterSpacing": "0%",
+            "fontSize": "{size.5}"
+          },
+          "type": "typography"
+        }
       },
-      "md": {
-        "value": {
-          "fontFamily": "{family.body}",
-          "fontWeight": "{weight.body}",
-          "lineHeight": "150%",
-          "paragraphSpacing": "{size.5}",
-          "letterSpacing": "0%",
-          "fontSize": "{size.5}"
+      "amplified": {
+        "sm": {
+          "value": {
+            "fontFamily": "{family.body}",
+            "letterSpacing": "0%",
+            "lineHeight": "125%",
+            "fontWeight": "{weight.label.amplified}",
+            "fontSize": "{size.4}",
+            "paragraphSpacing": "{size.4}"
+          },
+          "type": "typography"
         },
-        "type": "typography"
+        "md": {
+          "value": {
+            "fontFamily": "{family.body}",
+            "letterSpacing": "0%",
+            "lineHeight": "125%",
+            "fontWeight": "{weight.label.amplified}",
+            "fontSize": "{size.5}",
+            "paragraphSpacing": "{size.5}"
+          },
+          "type": "typography"
+        }
       }
     },
     "label": {
