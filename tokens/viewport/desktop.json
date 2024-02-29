@@ -399,6 +399,10 @@
       "2xl": {
         "value": "{size.6}",
         "type": "spacing"
+      },
+      "none": {
+        "value": "{size.0}",
+        "type": "spacing"
       }
     },
     "container": {
@@ -428,6 +432,10 @@
       },
       "2xl": {
         "value": "{size.48}",
+        "type": "spacing"
+      },
+      "none": {
+        "value": "{size.0}",
         "type": "spacing"
       }
     }
