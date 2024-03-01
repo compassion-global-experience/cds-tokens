@@ -28,7 +28,17 @@
       "neutral": {
         "subtle": {
           "value": "{palette.neutral.moderate}",
-          "type": "color"
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": ".5",
+                "space": "lch",
+                "color": "{palette.neutral.mild} "
+              }
+            }
+          }
         },
         "mild": {
           "value": "{palette.neutral.potent}",

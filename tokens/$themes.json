@@ -945,6 +945,7 @@
       "spacing.action.xl": "87fdf9d4056200fd34d32157a369c1f0b4a43972",
       "spacing.action.2xl": "42f84ccc44c6b5998eb3c12ac70da0abdb4a43cc",
       "spacing.action.none": "c87884d2496c83436b7ca49f8228134ff8261a8b",
+      "spacing.container.3xs": "c8fe51a5e5074f9a4358260c636ceed48261e6c1",
       "spacing.container.2xs": "df8a62467137b1e8ab049ddc6ce93d1aabe2d631",
       "spacing.container.xs": "934b451694888b309014a28e821da5bba9a7e513",
       "spacing.container.sm": "7ca91d3637824e7c826c1915f6c23fdd167eaaf1",
@@ -953,6 +954,14 @@
       "spacing.container.xl": "3830b8b5d7641f28315f9589752045f42eb25be6",
       "spacing.container.2xl": "03694d8fefb49208901db460c895b93dfbe98b5c",
       "spacing.container.none": "58f391da221bb44f0eae0a77e40b6b89cc0cd554",
+      "spacing.typography.2xs": "992fe805c15af06ad4e1fca8b53523ff4e946445",
+      "spacing.typography.xs": "e6c136fef004bb25c3619ed8371782580089be31",
+      "spacing.typography.sm": "90d9b745c33f9c9ff1fe354e2592b07280a81fdb",
+      "spacing.typography.md": "8a40c662e205287a80833d6be375b6eb02aaf3db",
+      "spacing.typography.lg": "012a5faa49b81a6017175381dec3bcb17c46ec86",
+      "spacing.typography.xl": "8d46cb8a63dc5233f7fde734b52586fd8461b4f4",
+      "spacing.typography.2xl": "7a81b8cfaf857d7969fc16471a2022a0c3db7050",
+      "spacing.typography.none": "47d4631aaad66aa5178623a20d8b07c82a20f339",
       "layout.gutter": "448f25accad70d81f8f8f74d5923c8f81eb1db3f"
     },
     "group": "Viewport"
