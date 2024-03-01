@@ -26,6 +26,10 @@
         "type": "color"
       },
       "neutral": {
+        "subtle": {
+          "value": "{palette.neutral.moderate}",
+          "type": "color"
+        },
         "mild": {
           "value": "{palette.neutral.potent}",
           "type": "color"

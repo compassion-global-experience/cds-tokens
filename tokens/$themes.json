@@ -519,7 +519,8 @@
       "color.action.foreground.cta.mild": "S:8b47781675c8b09b555df712c30051900d3d1c00,",
       "color.container.background.mild": "S:2523145eadfbfb777d243a5149bae7e5044f1ce0,",
       "color.input.foreground.neutral.faint": "S:648fea21e50b3377b40567a7e0454501d4c90941,",
-      "color.foreground.neutral.invertAlpha": "S:2fc5f47b321e75d6a87bd75d337014176a477f83,"
+      "color.foreground.neutral.invertAlpha": "S:2fc5f47b321e75d6a87bd75d337014176a477f83,",
+      "color.foreground.neutral.subtle": "S:dcc9f88eb56ec3d98a67d9b0a4b9fbe7de9a5d02,"
     },
     "selectedTokenSets": {
       "mode/light": "enabled",
@@ -533,6 +534,7 @@
       "color.foreground.potent": "c6d6522d73f44bfd4dc2ebe8cd7c7a92e7c9c4c7",
       "color.foreground.amplified": "1b777ec27defb99bb33b3dceb74da489992e6b1b",
       "color.foreground.invert": "efecee0bfb5787b49fc41e3ed260b4290a36b8d4",
+      "color.foreground.neutral.subtle": "8b99b4f804190329f846d28efa68743649fd6985",
       "color.foreground.neutral.mild": "0fe7f780f02434598ee234d62c50b605ed7954d7",
       "color.foreground.neutral.moderate": "004039ba20f95b1b468861eef96ea6ce17af4f68",
       "color.foreground.neutral.potent": "a40ca19936cbc920b2283611cc96038d99368003",
@@ -942,6 +944,7 @@
       "spacing.action.lg": "1494fbfce3a9bf7293c217218afa78cb32cfb61f",
       "spacing.action.xl": "87fdf9d4056200fd34d32157a369c1f0b4a43972",
       "spacing.action.2xl": "42f84ccc44c6b5998eb3c12ac70da0abdb4a43cc",
+      "spacing.action.none": "c87884d2496c83436b7ca49f8228134ff8261a8b",
       "spacing.container.2xs": "df8a62467137b1e8ab049ddc6ce93d1aabe2d631",
       "spacing.container.xs": "934b451694888b309014a28e821da5bba9a7e513",
       "spacing.container.sm": "7ca91d3637824e7c826c1915f6c23fdd167eaaf1",
@@ -949,9 +952,8 @@
       "spacing.container.lg": "4aa978562f63d8c44237a4ad5c45c8ff6cdccafb",
       "spacing.container.xl": "3830b8b5d7641f28315f9589752045f42eb25be6",
       "spacing.container.2xl": "03694d8fefb49208901db460c895b93dfbe98b5c",
-      "layout.gutter": "448f25accad70d81f8f8f74d5923c8f81eb1db3f",
-      "spacing.action.none": "c87884d2496c83436b7ca49f8228134ff8261a8b",
-      "spacing.container.none": "58f391da221bb44f0eae0a77e40b6b89cc0cd554"
+      "spacing.container.none": "58f391da221bb44f0eae0a77e40b6b89cc0cd554",
+      "layout.gutter": "448f25accad70d81f8f8f74d5923c8f81eb1db3f"
     },
     "group": "Viewport"
   },
