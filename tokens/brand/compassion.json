@@ -339,6 +339,14 @@
       "lg": {
         "value": "{size.0․5}",
         "type": "borderWidth"
+      },
+      "xl": {
+        "value": "{size.1}",
+        "type": "borderWidth"
+      },
+      "2xl": {
+        "value": "{size.1․5}",
+        "type": "borderWidth"
       }
     },
     "ring": {
