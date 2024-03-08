@@ -1,11 +1,11 @@
 :root {
-          --cds-palette-alpha-faint: #f4f7ff;
-  --cds-palette-alpha-subtle: #5d93fd;
-  --cds-palette-alpha-mild: #3268fa;
-  --cds-palette-alpha-moderate: #214aef;
-  --cds-palette-alpha-potent: #1937dc;
-  --cds-palette-alpha-amplified: #1c2d8c;
-  --cds-palette-alpha-dominant: #161d55;
+          --cds-palette-primary-faint: #f4f7ff;
+  --cds-palette-primary-subtle: #5d93fd;
+  --cds-palette-primary-mild: #3268fa;
+  --cds-palette-primary-moderate: #214aef;
+  --cds-palette-primary-potent: #1937dc;
+  --cds-palette-primary-amplified: #1c2d8c;
+  --cds-palette-primary-dominant: #161d55;
   --cds-palette-neutral-faint: #f6f7f9;
   --cds-palette-neutral-lessfaint: #b3bbc6;
   --cds-palette-neutral-subtle: #8996a7;
@@ -62,7 +62,7 @@
   --cds-outline-width-lg: 2px;
   --cds-outline-width-xl: 4px;
   --cds-outline-width-2xl: 6px;
-  --cds-outline-ring-subtle: 0px 0px 0px 4px #3268fa40, 0px 1px 2px 0px #0d121c0d;
+  --cds-outline-ring-subtle: 0px 0px 0px 4px #1c2d8c40, 0px 1px 2px 0px #0d121c0d;
   --cds-outline-ring-neutral-subtle: 0px 0px 0px 4px #6b798c40, 0px 1px 2px 0px #0d121c0d;
   --cds-outline-ring-negative-subtle: 0px 0px 0px 4px #fb513a40, 0px 1px 2px 0px #0d121c0d;
   --cds-size-0: 0px;
@@ -120,7 +120,7 @@
   --cds-color-shadow-mild: #0d121c0d;
   --cds-color-shadow-moderate: #0d121c14;
   --cds-color-shadow-potent: #0d121c1f;
-  --cds-color-ring-moderate: #3268fa40;
+  --cds-color-ring-moderate: #1c2d8c40;
   --cds-color-ring-neutral-moderate: #6b798c40;
   --cds-color-ring-negative-moderate: #fb513a40;
   --cds-color-background-neutral-subtle: #ffffff;

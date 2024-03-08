@@ -1,6 +1,6 @@
 {
   "palette": {
-    "alpha": {
+    "primary": {
       "faint": {
         "value": "#f4f7ff",
         "type": "color"
@@ -357,7 +357,7 @@
             "y": 0,
             "blur": 0,
             "spread": 4,
-            "color": "#3268fa40",
+            "color": "#1c2d8c40",
             "type": "dropShadow"
           },
           {
@@ -656,7 +656,7 @@
     },
     "ring": {
       "moderate": {
-        "value": "#3268fa40",
+        "value": "#1c2d8c40",
         "type": "color"
       },
       "neutral": {
