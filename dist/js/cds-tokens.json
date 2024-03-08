@@ -96,19 +96,19 @@
     },
     "positive": {
       "faint": {
-        "value": "#F0F8E2",
+        "value": "#f0f8e2",
         "type": "color"
       },
       "subtle": {
-        "value": "#499E57",
+        "value": "#499e57",
         "type": "color"
       },
       "mild": {
-        "value": "#418F51",
+        "value": "#418f51",
         "type": "color"
       },
       "moderate": {
-        "value": "#3A804B",
+        "value": "#3a804b",
         "type": "color"
       },
       "potent": {
@@ -120,7 +120,7 @@
         "type": "color"
       },
       "dominant": {
-        "value": "#122A1D",
+        "value": "#122a1d",
         "type": "color"
       }
     },
@@ -156,43 +156,43 @@
     },
     "beta": {
       "faint": {
-        "value": "#fef2f2",
+        "value": "#fdecf0",
         "type": "color"
       },
       "whisper": {
-        "value": "#fce7e7",
+        "value": "#fcd9e1",
         "type": "color"
       },
       "hushed": {
-        "value": "#f9d2d5",
+        "value": "#fac6D2",
         "type": "color"
       },
       "murmur": {
-        "value": "#f4adb3",
+        "value": "#f4a4b0",
         "type": "color"
       },
       "subtle": {
-        "value": "#ed7b86",
+        "value": "#ee828d",
         "type": "color"
       },
       "mild": {
-        "value": "#e25163",
+        "value": "#df6B78",
         "type": "color"
       },
       "moderate": {
-        "value": "#ce304b",
+        "value": "#d15463",
         "type": "color"
       },
       "potent": {
-        "value": "#ad233e",
+        "value": "#c23d4f",
         "type": "color"
       },
       "amplified": {
-        "value": "#7d1e36",
+        "value": "#a50f25",
         "type": "color"
       },
       "dominant": {
-        "value": "#450c19",
+        "value": "#530813",
         "type": "color"
       }
     },
@@ -200,6 +200,38 @@
       "faint": {
         "value": "#FCF8F4",
         "type": "color"
+      }
+    },
+    "secondaries": {
+      "alpha": {
+        "one": {
+          "value": "#bada55",
+          "type": "color"
+        }
+      },
+      "bravo": {
+        "one": {
+          "value": "#bada55",
+          "type": "color"
+        }
+      },
+      "charlie": {
+        "one": {
+          "value": "#bada55",
+          "type": "color"
+        }
+      },
+      "delta": {
+        "one": {
+          "value": "#bada55",
+          "type": "color"
+        }
+      },
+      "echo": {
+        "one": {
+          "value": "#bada55",
+          "type": "color"
+        }
       }
     }
   },
@@ -782,7 +814,7 @@
         },
         "positive": {
           "subtle": {
-            "value": "#F0F8E2",
+            "value": "#f0f8e2",
             "type": "color"
           }
         },
@@ -816,7 +848,7 @@
         },
         "positive": {
           "moderate": {
-            "value": "#499E57",
+            "value": "#499e57",
             "type": "color"
           }
         },
@@ -930,19 +962,19 @@
         },
         "positive": {
           "subtle": {
-            "value": "#F0F8E2",
+            "value": "#f0f8e2",
             "type": "color"
           },
           "mild": {
-            "value": "#499E57",
+            "value": "#499e57",
             "type": "color"
           },
           "moderate": {
-            "value": "#418F51",
+            "value": "#418f51",
             "type": "color"
           },
           "potent": {
-            "value": "#3A804B",
+            "value": "#3a804b",
             "type": "color"
           },
           "invert": {
@@ -978,15 +1010,15 @@
         },
         "cta": {
           "subtle": {
-            "value": "#ed7b86",
+            "value": "#ee828d",
             "type": "color"
           },
           "mild": {
-            "value": "#e25163",
+            "value": "#df6B78",
             "type": "color"
           },
           "murmur": {
-            "value": "#f4adb3",
+            "value": "#f4a4b0",
             "type": "color"
           }
         }
@@ -1052,7 +1084,7 @@
         },
         "positive": {
           "moderate": {
-            "value": "#3A804B",
+            "value": "#3a804b",
             "type": "color"
           },
           "potent": {
@@ -1080,15 +1112,15 @@
         },
         "cta": {
           "subtle": {
-            "value": "#ed7b86",
+            "value": "#ee828d",
             "type": "color"
           },
           "mild": {
-            "value": "#e25163",
+            "value": "#df6B78",
             "type": "color"
           },
           "murmur": {
-            "value": "#f4adb3",
+            "value": "#f4a4b0",
             "type": "color"
           }
         }
@@ -1182,19 +1214,19 @@
         },
         "positive": {
           "subtle": {
-            "value": "#F0F8E2",
+            "value": "#f0f8e2",
             "type": "color"
           },
           "mild": {
-            "value": "#499E57",
+            "value": "#499e57",
             "type": "color"
           },
           "moderate": {
-            "value": "#418F51",
+            "value": "#418f51",
             "type": "color"
           },
           "potent": {
-            "value": "#3A804B",
+            "value": "#3a804b",
             "type": "color"
           },
           "invert": {
