@@ -4,9 +4,10 @@
   "description": "Tokens used in the Compassion Design System.",
   "main": "./themes",
   "scripts": {
-    "build": "npm run transform-tokens && npm run style-dictionary",
+    "build": "npm run transform-tokens && npm run style-dictionary && npm run prettier",
     "transform-tokens": "bash scripts/transform-tokens.sh",
-    "style-dictionary": "node scripts/style-dictionary-css.cjs && node scripts/style-dictionary-react-native.cjs"
+    "style-dictionary": "node scripts/style-dictionary-css.cjs && node scripts/style-dictionary-react-native.mjs",
+    "prettier": "prettier \"dist/**/*.{css,js,ts,json}\" --write"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
     "token-transformer": "^0.0.32"
   },
   "devDependencies": {
-    "@tokens-studio/sd-transforms": "^0.14.2"
+    "@tokens-studio/sd-transforms": "^0.14.2",
+    "prettier": "^3.2.5"
   }
 }

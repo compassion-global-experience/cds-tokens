@@ -1,5 +1,5 @@
-const StyleDictionary = require("style-dictionary");
-const { registerTransforms } = require("@tokens-studio/sd-transforms");
+import StyleDictionary from "style-dictionary";
+import { registerTransforms } from "@tokens-studio/sd-transforms";
 
 const openingBrace = "OPENING_BRACE";
 const closingBrace = "CLOSING_BRACE";
@@ -100,7 +100,7 @@ function getStyleDictionaryFormatConfig(theme) {
       const tokensWithOpeningBraces = tokens.replaceAll(openingBrace, "{");
       const tokensWithCurlyBraces = tokensWithOpeningBraces.replaceAll(
         closingBrace,
-        "}"
+        "}",
       );
       return `export const ${theme}Tokens  = {
 ${tokensWithCurlyBraces}
@@ -111,10 +111,10 @@ ${tokensWithCurlyBraces}
 
 function getStyleDictionaryConfig(theme) {
   return {
-    source: [`tokens/${theme}.json`],
+    source: [`dist/js/cds-tokens.json`],
     platforms: {
       "tokens-object": {
-        buildPath: `src/cds-tokens/`,
+        buildPath: `dist/react-native/`,
         transforms: [
           "name/cti/camel",
           "size/object",
@@ -127,7 +127,7 @@ function getStyleDictionaryConfig(theme) {
         ],
         files: [
           {
-            destination: `${theme}-tokens.ts`,
+            destination: `cds-tokens.ts`,
             format: "stylesheetTokens",
           },
         ],
@@ -139,16 +139,15 @@ function getStyleDictionaryConfig(theme) {
 console.log("Building styles...");
 
 const themeMap = {
-  "cds-light": "cdsLight",
-  "cds-dark": "cdsDark",
+  tokens: "cds",
 };
 
-["cds-light", "cds-dark"].map((theme) => {
+["tokens"].map((theme) => {
   console.log("\n==============================================");
   console.log(`\nProcessing: [${theme}]`);
 
   StyleDictionary.registerFormat(
-    getStyleDictionaryFormatConfig(themeMap[theme])
+    getStyleDictionaryFormatConfig(themeMap[theme]),
   );
   const sd = StyleDictionary.extend(getStyleDictionaryConfig(theme));
 

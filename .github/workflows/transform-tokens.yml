@@ -20,3 +20,7 @@ jobs:
       - run: npm run build
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.1
+        with:
+          # Use `force` so that the dist directory can be committed by the
+          # action, but can't be accidentally committed when building locally
+          add: "--force"
