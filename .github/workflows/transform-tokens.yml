@@ -23,4 +23,4 @@ jobs:
         with:
           # Use `force` so that the dist directory can be committed by the
           # action, but can't be accidentally committed when building locally
-          add: "--force"
+          add: "dist/ --force"
