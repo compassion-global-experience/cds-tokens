@@ -10,15 +10,15 @@
     },
     "foreground": {
       "moderate": {
-        "value": "{palette.alpha.potent}",
+        "value": "{palette.primary.potent}",
         "type": "color"
       },
       "potent": {
-        "value": "{palette.alpha.amplified}",
+        "value": "{palette.primary.amplified}",
         "type": "color"
       },
       "amplified": {
-        "value": "{palette.alpha.dominant}",
+        "value": "{palette.primary.dominant}",
         "type": "color"
       },
       "invert": {
@@ -96,11 +96,11 @@
     "container": {
       "background": {
         "subtle": {
-          "value": "{palette.alpha.faint}",
+          "value": "{palette.primary.faint}",
           "type": "color"
         },
         "mild": {
-          "value": "{palette.alpha.subtle}",
+          "value": "{palette.primary.subtle}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -113,11 +113,11 @@
           }
         },
         "potent": {
-          "value": "{palette.alpha.amplified}",
+          "value": "{palette.primary.amplified}",
           "type": "color"
         },
         "amplified": {
-          "value": "{palette.alpha.dominant}",
+          "value": "{palette.primary.dominant}",
           "type": "color"
         },
         "neutral": {
@@ -151,7 +151,7 @@
       },
       "border": {
         "moderate": {
-          "value": "{palette.alpha.subtle}",
+          "value": "{palette.primary.subtle}",
           "type": "color"
         },
         "neutral": {
@@ -196,19 +196,19 @@
     "action": {
       "background": {
         "subtle": {
-          "value": "{palette.alpha.faint}",
+          "value": "{palette.primary.faint}",
           "type": "color"
         },
         "mild": {
-          "value": "{palette.alpha.subtle}",
+          "value": "{palette.primary.subtle}",
           "type": "color"
         },
         "moderate": {
-          "value": "{palette.alpha.mild}",
+          "value": "{palette.primary.mild}",
           "type": "color"
         },
         "potent": {
-          "value": "{palette.alpha.moderate}",
+          "value": "{palette.primary.moderate}",
           "type": "color"
         },
         "invert": {
@@ -394,11 +394,11 @@
       },
       "foreground": {
         "moderate": {
-          "value": "{palette.alpha.moderate}",
+          "value": "{palette.primary.moderate}",
           "type": "color"
         },
         "potent": {
-          "value": "{palette.alpha.potent}",
+          "value": "{palette.primary.potent}",
           "type": "color"
         },
         "invert": {
@@ -639,7 +639,7 @@
     "input": {
       "background": {
         "moderate": {
-          "value": "{palette.alpha.mild}",
+          "value": "{palette.primary.mild}",
           "type": "color"
         },
         "neutral": {
@@ -710,7 +710,7 @@
       },
       "border": {
         "mild": {
-          "value": "{palette.alpha.subtle}",
+          "value": "{palette.primary.subtle}",
           "type": "color"
         },
         "moderate": {

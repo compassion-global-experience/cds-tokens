@@ -1,6 +1,6 @@
 {
   "palette": {
-    "alpha": {
+    "primary": {
       "faint": {
         "value": "{shade.ribbon.50}",
         "type": "color"
@@ -688,7 +688,7 @@
     },
     "ring": {
       "moderate": {
-        "value": "{palette.alpha.mild}",
+        "value": "{palette.primary.amplified}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
