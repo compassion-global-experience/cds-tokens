@@ -96,31 +96,31 @@
     },
     "positive": {
       "faint": {
-        "value": "#ecfdf3",
+        "value": "#F0F8E2",
         "type": "color"
       },
       "subtle": {
-        "value": "#38cf84",
+        "value": "#499E57",
         "type": "color"
       },
       "mild": {
-        "value": "#14b56b",
+        "value": "#418F51",
         "type": "color"
       },
       "moderate": {
-        "value": "#089356",
+        "value": "#3A804B",
         "type": "color"
       },
       "potent": {
-        "value": "#077548",
+        "value": "#327145",
         "type": "color"
       },
       "amplified": {
-        "value": "#084c31",
+        "value": "#235339",
         "type": "color"
       },
       "dominant": {
-        "value": "#032b1d",
+        "value": "#122A1D",
         "type": "color"
       }
     },
@@ -130,27 +130,27 @@
         "type": "color"
       },
       "subtle": {
-        "value": "#fdb222",
+        "value": "#ffba20",
         "type": "color"
       },
       "mild": {
-        "value": "#f79009",
+        "value": "#f99707",
         "type": "color"
       },
       "moderate": {
-        "value": "#db6904",
+        "value": "#dd7002",
         "type": "color"
       },
       "potent": {
-        "value": "#b54808",
+        "value": "#b74d06",
         "type": "color"
       },
       "amplified": {
-        "value": "#792e0e",
+        "value": "#7a310d",
         "type": "color"
       },
       "dominant": {
-        "value": "#461602",
+        "value": "#461802",
         "type": "color"
       }
     },
@@ -735,13 +735,13 @@
       },
       "positive": {
         "moderate": {
-          "value": "#077548",
+          "value": "#327145",
           "type": "color"
         }
       },
       "warning": {
         "moderate": {
-          "value": "#b54808",
+          "value": "#b74d06",
           "type": "color"
         }
       }
@@ -782,7 +782,7 @@
         },
         "positive": {
           "subtle": {
-            "value": "#ecfdf3",
+            "value": "#F0F8E2",
             "type": "color"
           }
         },
@@ -816,13 +816,13 @@
         },
         "positive": {
           "moderate": {
-            "value": "#38cf84",
+            "value": "#499E57",
             "type": "color"
           }
         },
         "warning": {
           "moderate": {
-            "value": "#fdb222",
+            "value": "#ffba20",
             "type": "color"
           }
         }
@@ -930,19 +930,19 @@
         },
         "positive": {
           "subtle": {
-            "value": "#ecfdf3",
+            "value": "#F0F8E2",
             "type": "color"
           },
           "mild": {
-            "value": "#38cf84",
+            "value": "#499E57",
             "type": "color"
           },
           "moderate": {
-            "value": "#14b56b",
+            "value": "#418F51",
             "type": "color"
           },
           "potent": {
-            "value": "#089356",
+            "value": "#3A804B",
             "type": "color"
           },
           "invert": {
@@ -956,15 +956,15 @@
             "type": "color"
           },
           "mild": {
-            "value": "#fdb222",
+            "value": "#ffba20",
             "type": "color"
           },
           "moderate": {
-            "value": "#f79009",
+            "value": "#f99707",
             "type": "color"
           },
           "potent": {
-            "value": "#db6904",
+            "value": "#dd7002",
             "type": "color"
           },
           "invert": {
@@ -1052,11 +1052,11 @@
         },
         "positive": {
           "moderate": {
-            "value": "#089356",
+            "value": "#3A804B",
             "type": "color"
           },
           "potent": {
-            "value": "#077548",
+            "value": "#327145",
             "type": "color"
           },
           "invert": {
@@ -1066,11 +1066,11 @@
         },
         "warning": {
           "moderate": {
-            "value": "#db6904",
+            "value": "#dd7002",
             "type": "color"
           },
           "potent": {
-            "value": "#b54808",
+            "value": "#b74d06",
             "type": "color"
           },
           "invert": {
@@ -1182,19 +1182,19 @@
         },
         "positive": {
           "subtle": {
-            "value": "#ecfdf3",
+            "value": "#F0F8E2",
             "type": "color"
           },
           "mild": {
-            "value": "#38cf84",
+            "value": "#499E57",
             "type": "color"
           },
           "moderate": {
-            "value": "#14b56b",
+            "value": "#418F51",
             "type": "color"
           },
           "potent": {
-            "value": "#089356",
+            "value": "#3A804B",
             "type": "color"
           },
           "invert": {
@@ -1208,15 +1208,15 @@
             "type": "color"
           },
           "mild": {
-            "value": "#fdb222",
+            "value": "#ffba20",
             "type": "color"
           },
           "moderate": {
-            "value": "#f79009",
+            "value": "#f99707",
             "type": "color"
           },
           "potent": {
-            "value": "#db6904",
+            "value": "#dd7002",
             "type": "color"
           },
           "invert": {
