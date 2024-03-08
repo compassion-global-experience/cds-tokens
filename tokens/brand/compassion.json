@@ -96,31 +96,31 @@
     },
     "positive": {
       "faint": {
-        "value": "{shade.pea.50}",
+        "value": "{shade.fern.50}",
         "type": "color"
       },
       "subtle": {
-        "value": "{shade.pea.400}",
+        "value": "{shade.fern.400}",
         "type": "color"
       },
       "mild": {
-        "value": "{shade.pea.500}",
+        "value": "{shade.fern.500}",
         "type": "color"
       },
       "moderate": {
-        "value": "{shade.pea.600}",
+        "value": "{shade.fern.600}",
         "type": "color"
       },
       "potent": {
-        "value": "{shade.pea.700}",
+        "value": "{shade.fern.700}",
         "type": "color"
       },
       "amplified": {
-        "value": "{shade.pea.900}",
+        "value": "{shade.fern.900}",
         "type": "color"
       },
       "dominant": {
-        "value": "{shade.pea.950}",
+        "value": "{shade.fern.950}",
         "type": "color"
       }
     },
