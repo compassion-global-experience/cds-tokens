@@ -201,6 +201,38 @@
         "value": "#FCF8F4",
         "type": "color"
       }
+    },
+    "secondaries": {
+      "alpha": {
+        "one": {
+          "value": "#bada55",
+          "type": "color"
+        }
+      },
+      "bravo": {
+        "one": {
+          "value": "#bada55",
+          "type": "color"
+        }
+      },
+      "charlie": {
+        "one": {
+          "value": "#bada55",
+          "type": "color"
+        }
+      },
+      "delta": {
+        "one": {
+          "value": "#bada55",
+          "type": "color"
+        }
+      },
+      "echo": {
+        "one": {
+          "value": "#bada55",
+          "type": "color"
+        }
+      }
     }
   },
   "outline": {
