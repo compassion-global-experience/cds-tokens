@@ -204,32 +204,72 @@
     },
     "secondaries": {
       "alpha": {
-        "one": {
-          "value": "#bada55",
+        "plus": {
+          "value": "#c2e189",
+          "type": "color"
+        },
+        "base": {
+          "value": "#499e57",
+          "type": "color"
+        },
+        "minus": {
+          "value": "#235339",
           "type": "color"
         }
       },
       "bravo": {
-        "one": {
-          "value": "#bada55",
+        "plus": {
+          "value": "#fff2ad",
+          "type": "color"
+        },
+        "base": {
+          "value": "#ffd257",
+          "type": "color"
+        },
+        "minus": {
+          "value": "#fdb518",
           "type": "color"
         }
       },
       "charlie": {
-        "one": {
-          "value": "#bada55",
+        "plus": {
+          "value": "#fac6D2",
+          "type": "color"
+        },
+        "base": {
+          "value": "#ee828d",
+          "type": "color"
+        },
+        "minus": {
+          "value": "#a50f25",
           "type": "color"
         }
       },
       "delta": {
-        "one": {
-          "value": "#bada55",
+        "plus": {
+          "value": "#ff9c7c",
+          "type": "color"
+        },
+        "base": {
+          "value": "#fb513a",
+          "type": "color"
+        },
+        "minus": {
+          "value": "#ab270a",
           "type": "color"
         }
       },
       "echo": {
-        "one": {
-          "value": "#bada55",
+        "plus": {
+          "value": "#f1b782",
+          "type": "color"
+        },
+        "base": {
+          "value": "#914a22",
+          "type": "color"
+        },
+        "minus": {
+          "value": "#6c3813",
           "type": "color"
         }
       }
