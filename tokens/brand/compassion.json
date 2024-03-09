@@ -204,32 +204,72 @@
     },
     "secondaries": {
       "alpha": {
-        "one": {
-          "value": "#bada55",
+        "plus": {
+          "value": "{shade.fern.200}",
+          "type": "color"
+        },
+        "base": {
+          "value": "{shade.fern.400}",
+          "type": "color"
+        },
+        "minus": {
+          "value": "{shade.fern.900}",
           "type": "color"
         }
       },
       "bravo": {
-        "one": {
-          "value": "#bada55",
+        "plus": {
+          "value": "{shade.sinless.100}",
+          "type": "color"
+        },
+        "base": {
+          "value": "{shade.sinless.300}",
+          "type": "color"
+        },
+        "minus": {
+          "value": "{shade.sinless.500}",
           "type": "color"
         }
       },
       "charlie": {
-        "one": {
-          "value": "#bada55",
+        "plus": {
+          "value": "{shade.sundown.200}",
+          "type": "color"
+        },
+        "base": {
+          "value": "{shade.sundown.400}",
+          "type": "color"
+        },
+        "minus": {
+          "value": "{shade.sundown.900}",
           "type": "color"
         }
       },
       "delta": {
-        "one": {
-          "value": "#bada55",
+        "plus": {
+          "value": "{shade.sunset.300}",
+          "type": "color"
+        },
+        "base": {
+          "value": "{shade.sunset.500}",
+          "type": "color"
+        },
+        "minus": {
+          "value": "{shade.sunset.800}",
           "type": "color"
         }
       },
       "echo": {
-        "one": {
-          "value": "#bada55",
+        "plus": {
+          "value": "{shade.walnut.200}",
+          "type": "color"
+        },
+        "base": {
+          "value": "{shade.walnut.700}",
+          "type": "color"
+        },
+        "minus": {
+          "value": "{shade.walnut.900}",
           "type": "color"
         }
       }

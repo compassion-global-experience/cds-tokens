@@ -332,27 +332,27 @@
     },
     "sinless": {
       "50": {
-        "value": "#fffeea",
+        "value": "#fffbe4",
         "type": "color"
       },
       "100": {
-        "value": "#fff9c5",
+        "value": "#fff2ad",
         "type": "color"
       },
       "200": {
-        "value": "#fff385",
+        "value": "#ffe282",
         "type": "color"
       },
       "300": {
-        "value": "#ffe646",
+        "value": "#ffd257",
         "type": "color"
       },
       "400": {
-        "value": "#ffd61b",
+        "value": "#fec438",
         "type": "color"
       },
       "500": {
-        "value": "#ffb500",
+        "value": "#fdb518",
         "type": "color"
       },
       "600": {
