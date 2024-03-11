@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "core/core",
+    "mode/light",
+    "mode/dark",
+    "viewport/desktop",
+    "viewport/mobile",
+    "brand/compassion",
+    "brand/legacy"
+  ]
+}

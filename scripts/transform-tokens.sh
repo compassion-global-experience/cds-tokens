@@ -5,21 +5,4 @@ set -e
 
 rm -rf dist/js
 
-# iterate the folder themes/components and create a comma separated list of component names
-COMPONENTS=""
-for component in themes/components/*; do
-  if [ ! -d "$component" ]; then
-    NEXT_ENTRY="components/$(basename "$component" .json)"
-    if [ -z "$COMPONENTS" ]; then
-      COMPONENTS="$NEXT_ENTRY"
-    else
-      COMPONENTS="$COMPONENTS,$NEXT_ENTRY"
-    fi
-  fi
-done
-
-npx token-transformer themes dist/js/cds-light.json "core/cds-core,cds-light/theme-cds-light,$COMPONENTS" core/cds-core,cds-light/theme-cds-light
-npx token-transformer themes dist/js/cds-dark.json "core/cds-core,cds-dark/theme-cds-dark,$COMPONENTS" core/cds-core,cds-dark/theme-cds-dark
-npx token-transformer themes dist/js/cds-lofi.json "core/cds-core,cds-lofi/theme-cds-lofi,$COMPONENTS" core/cds-core,cds-lofi/theme-cds-lofi
-npx token-transformer themes dist/js/program.json "core/cds-core,program/theme-ccl,$COMPONENTS" core/cds-core,program/theme-ccl
-npx token-transformer themes dist/js/mwc.json "core/cds-core,mwc/theme-mwc,$COMPONENTS" core/cds-core,mwc/theme-mwc
+npx token-transformer tokens dist/js/cds-tokens.json "core/core,mode/light,viewport/desktop,brand/compassion" core/core
