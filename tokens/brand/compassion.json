@@ -200,6 +200,14 @@
       "faint": {
         "value": "#FCF8F4",
         "type": "color"
+      },
+      "whisper": {
+        "value": "#f7f0eb",
+        "type": "color"
+      },
+      "hushed": {
+        "value": "#eae4df",
+        "type": "color"
       }
     },
     "secondaries": {
