@@ -46,6 +46,8 @@ export const cdsTokens  = {
 	paletteBetaAmplified:  "#a50f25",
 	paletteBetaDominant:  "#530813",
 	paletteGammaFaint:  "#FCF8F4",
+	paletteGammaWhisper:  "#f7f0eb",
+	paletteGammaHushed:  "#eae4df",
 	paletteSecondariesAlphaPlus:  "#c2e189",
 	paletteSecondariesAlphaBase:  "#499e57",
 	paletteSecondariesAlphaMinus:  "#235339",
